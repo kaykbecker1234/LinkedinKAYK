@@ -41,7 +41,7 @@ Para gerar: `python3 modelo/gerar.py posts/AAAA-MM-DD-slug`
 - Último slide: frase de impacto + chamada para comentar ou compartilhar.
 - `legenda_linkedin`: 800–1.500 caracteres, frases curtas, fontes citadas, termina com uma pergunta. Sem hashtags.
 - `legenda_instagram`: mais curta, com pedido para salvar/compartilhar e 4–5 hashtags.
-- `titulo`: título do documento no LinkedIn (curto, com o gancho).
+- `titulo`: título interno do post (curto, com o gancho). Não é enviado ao LinkedIn.
 
 ### 4. Gerar e conferir
 - Criar `posts/AAAA-MM-DD-slug/post.json` e rodar `python3 modelo/gerar.py`.
@@ -49,14 +49,15 @@ Para gerar: `python3 modelo/gerar.py posts/AAAA-MM-DD-slug`
 
 ### 5. Publicar o repositório
 - `git add posts/AAAA-MM-DD-slug && git commit && git push origin main`.
-- Conferir que o PDF responde em
-  `https://raw.githubusercontent.com/kaykbecker1234/linkedinkayk/main/posts/AAAA-MM-DD-slug/carrossel.pdf`
-  (`curl -sI` deve dar 200) antes de agendar.
+- Conferir que **cada PNG** responde em
+  `https://raw.githubusercontent.com/kaykbecker1234/linkedinkayk/main/posts/AAAA-MM-DD-slug/slideNN.png`
+  (`curl -sI` deve dar 200 para slide01, slide02… até o último) antes de agendar.
 
 ### 6. Agendar no Metricool
 - Marca: **KAYK.CEO**, `blogId` **7692194**, rede `linkedin`, fuso `America/Sao_Paulo`.
-- `media`: a URL raw do `carrossel.pdf`.
-- `linkedinData`: `{"documentTitle": "<titulo>", "type": "post"}`.
+- **Formato: carrossel de imagens, NÃO PDF.**
+- `media`: lista com as URLs raw de todos os PNGs, em ordem (`slide01.png`, `slide02.png`, …).
+- `linkedinData`: `{"type": "post", "publishImagesAsPDF": false}`. Não enviar `documentTitle` nem o `carrossel.pdf`.
 - `text`: a `legenda_linkedin`.
 - Horário padrão: 09:00 (America/Sao_Paulo) do dia da execução; se já passou, o próximo horário cheio disponível.
 - Instagram: só agendar se a marca KAYK.CEO tiver Instagram conectado (`getBrandSettings`). Nunca publicar na marca resolveia.app.
