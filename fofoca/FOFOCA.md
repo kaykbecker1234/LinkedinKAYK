@@ -12,20 +12,23 @@ notícia rápida, manchete forte, tom de bastidor. **Identidade própria**: nunc
 
 Categorias: `FAMOSOS` (⭐ vermelho), `REALITY` (📺 azul), `NOTÍCIAS` (📣 verde), `TV` (🎬 roxo), `MÚSICA` (🎵 laranja).
 
-## Rotina (8 cards por dia, cada execução gera 4)
+## Rotina (10 cards por dia, em 3 execuções)
 
 | Execução | Cards |
 |---|---|
-| Manhã (≈05:47) | 08:00, 10:00, 12:00 e 14:00 |
-| Tarde (≈12:47) | 16:00, 18:00, 20:00 e 22:00 |
+| Manhã (≈05:47) | 08:00, 10:00, 12:00 e 14:00 (4 cards) |
+| Tarde (≈12:47) | 16:00, 18:00 e 20:00 (3 cards) |
+| Noite (≈18:47) | 22:00, 23:00 e 00:30 do dia seguinte (3 cards) |
+
+O card das 00:30 é agendado com a **data do dia seguinte**.
 
 ### 1. Achar as fofocas
 - Ver o que está em alta: trends do X Brasil, Google Trends, "mais lidas" dos portais.
 - Ler as últimas notícias dos portais de entretenimento: CNN Brasil Pop, gshow, g1 Pop & Arte, Quem, UOL Splash, Folha F5,
   Terra Diversão, Extra, Notícias da TV, NaTelinha, OFuxico, Contigo, Caras, Metrópoles.
 - Ver `fofoca/posts/` dos últimos 3 dias para **não repetir** uma fofoca já publicada (a menos que haja fato novo).
-- Escolher as 4 mais quentes e mais confirmadas, de pessoas/assuntos diferentes (não 2 cards da mesma fofoca na mesma execução).
-- A execução da tarde deve olhar o que a da manhã publicou hoje e trazer fofocas novas.
+- Escolher as mais quentes e mais confirmadas (4 de manhã, 3 à tarde, 3 à noite), de pessoas/assuntos diferentes (não 2 cards da mesma fofoca na mesma execução).
+- Cada execução deve olhar o que as anteriores do dia já publicaram e trazer fofocas novas.
 
 ### 2. Checar (obrigatório)
 - O fato precisa estar em **pelo menos 2 portais** diferentes da lista acima, ou ter sido dito/postado pela própria pessoa.
@@ -63,4 +66,4 @@ Se aparecer qualquer pedido de remoção de foto ou texto (veículo, fotógrafo,
 
 ### 7. Relatar
 No resumo final: as manchetes, fontes de cada uma, horário agendado e `plannerUrl`.
-Se não houver 4 fofocas confirmadas, publicar só as que passaram na checagem (ou nenhuma) e explicar.
+Se não houver fofocas confirmadas suficientes, publicar só as que passaram na checagem (ou nenhuma) e explicar.
