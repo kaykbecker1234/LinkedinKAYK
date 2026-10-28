@@ -1,5 +1,9 @@
 # Posts do Kayk (@kayk.ceo)
 
+> Este repositório tem **duas linhas de conteúdo separadas**:
+> - **Negócios** (este arquivo): Instagram @kayk.ceo, Threads @kayk_offf e LinkedIn. **Nunca** publicar no Facebook.
+> - **Fofoca** (`fofoca/FOFOCA.md`): página CEO DAS NOTÍCIAS, **só no Facebook**.
+
 Este repositório guarda o modelo visual e todos os carrosséis publicados no LinkedIn pessoal do Kayk.
 Os arquivos ficam públicos por link (`raw.githubusercontent.com`), e o Metricool usa esses links para publicar.
 

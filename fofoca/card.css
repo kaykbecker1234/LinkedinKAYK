@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@800;900&family=Archivo+Narrow:wght@700&family=Bebas+Neue&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden}
+body{background:#0b0b0f;color:#fff;font-family:'Archivo',sans-serif;position:relative}
+.ph{position:absolute;top:0;left:0;width:1080px;height:1000px;object-fit:cover;object-position:POS}
+.semfoto{position:absolute;inset:0;background:radial-gradient(120% 80% at 50% 10%,COLOR55 0%,#0b0b0f 60%)}
+.fade{position:absolute;left:0;right:0;bottom:0;height:820px;background:linear-gradient(rgba(11,11,15,0),rgba(11,11,15,.85) 30%,#0b0b0f 55%)}
+.cred{position:absolute;top:24px;right:28px;font:700 18px 'Archivo Narrow';color:rgba(255,255,255,.75);background:rgba(0,0,0,.45);padding:4px 10px;border-radius:4px}
+.box{position:absolute;left:70px;right:70px;bottom:250px;text-align:center}
+.chip{display:inline-flex;align-items:center;gap:14px;background:COLOR;color:#fff;font:900 italic 46px 'Archivo';padding:8px 26px 10px;transform:skew(-6deg);margin-bottom:26px;text-transform:uppercase}
+.chip .i{font-style:normal;font-size:40px}
+h1{font:900 64px/1.08 'Archivo';text-transform:uppercase;letter-spacing:-.5px;text-shadow:0 2px 12px rgba(0,0,0,.6)}
+h1 em{font-style:normal;color:COLOR}
+.logo{position:absolute;bottom:95px;left:0;right:0;text-align:center;line-height:1}
+.logo small{display:block;font:700 26px 'Archivo Narrow';letter-spacing:8px;color:#ddd}
+.logo b{font:400 78px 'Bebas Neue';letter-spacing:3px}
+.logo b i{font-style:normal;color:#FFD400}
+.line{position:absolute;left:0;right:0;bottom:0;height:14px;background:COLOR}
