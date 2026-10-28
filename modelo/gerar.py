@@ -8,13 +8,14 @@ post.json (todas as chaves são opcionais, exceto que precisa ter "slides" ou "s
   "css_extra": "",                         # CSS adicional para slides e stories
   "slides": ["<html do slide 1>", ...],    # carrossel 1080x1350; cabeçalho e rodapé automáticos
   "stories": ["<html do story 1>", ...],   # stories 1080x1920; cabeçalho e rodapé automáticos
+  "threads": [{"card": "<html>", "texto": "..."}, ...],  # posts avulsos do Threads: 1 card 1080x1350 + texto
   "legenda_linkedin": "...",
   "legenda_instagram": "...",
   "legenda_threads": "...",
   "fontes": ["https://..."]
 }
 
-Saída na mesma pasta: slide01.png..., carrossel.pdf, story01.png..., legenda-<rede>.txt
+Saída na mesma pasta: slide01.png..., carrossel.pdf, story01.png..., thread01.png..., legenda-<rede>.txt, thread01.txt...
 """
 import base64, json, os, subprocess, sys
 
@@ -67,6 +68,19 @@ def main(pasta):
 </body></html>""" for body in stories]
         render(pasta, "story", paginas, 1080, 1920)
         print(f"{len(stories)} stories gerados")
+
+    threads = post.get("threads", [])
+    if threads:
+        thread_css = ".big{font-size:84px;line-height:1.12}p{font-size:50px}.stat{font-size:260px}.tag{font-size:34px}.src{font-size:26px}"
+        paginas = [f"""<!doctype html><html><head><meta charset="utf-8"><style>{base}{thread_css}{extra}</style></head><body>
+{head(avatar)}
+{t["card"]}
+<div class="foot"><div class="bar"><i style="width:100%"></i></div><div class="num">{HANDLE}</div></div>
+</body></html>""" for t in threads]
+        render(pasta, "thread", paginas, 1080, 1350)
+        for i, t in enumerate(threads, 1):
+            open(os.path.join(pasta, f"thread{i:02d}.txt"), "w", encoding="utf-8").write(t["texto"].strip() + "\n")
+        print(f"{len(threads)} posts de Threads gerados")
 
     for rede in ("linkedin", "instagram", "threads"):
         texto = post.get(f"legenda_{rede}")

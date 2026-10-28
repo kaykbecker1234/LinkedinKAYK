@@ -16,6 +16,7 @@ Os arquivos ficam públicos por link (`raw.githubusercontent.com`), e o Metricoo
 - `modelo/render.js`: renderiza o HTML em PNG 1080×1350 com Playwright
 - `posts/AAAA-MM-DD-slug/`: uma pasta por dia. Use os posts existentes como referência de estilo e tom
   (`2026-10-27-6x1-boato` tem exemplo de slides, stories e legenda do Threads).
+- `exemplos-threads/`: 5 posts avulsos de Threads aprovados (card + texto), um de cada formato.
 
 Para gerar: `python3 modelo/gerar.py posts/AAAA-MM-DD-slug`
 
@@ -42,6 +43,13 @@ A rotina roda todo dia de manhã. Calcule `n` = número de dias entre 2026-10-28
 | Story 2 | 13:00 (o dado/fato principal) | 13:00 (o dado/fato principal) |
 | Story 3 | 18:00 (pergunta para responder no direct) | 18:00 (opinião + pergunta) |
 
+**Threads avulso: 5 posts por dia, TODOS os dias** (além do carrossel nos dias de carrossel):
+
+| Execução | Posts de Threads |
+|---|---|
+| Manhã (≈05:47) | 08:30, 11:30 e 14:30 |
+| Tarde (≈12:47) | 17:30 e 20:30 |
+
 ### 1. Escolher o tema
 - Pesquisar os assuntos em alta no Brasil (X, notícias, Google) dos últimos 1–3 dias.
 - Filtrar para temas de **negócios, gestão, empreendedorismo, trabalho, IA aplicada a empresas, economia que afeta empresas**.
@@ -64,18 +72,24 @@ A rotina roda todo dia de manhã. Calcule `n` = número de dias entre 2026-10-28
 - `legenda_instagram`: mais curta, com pedido para salvar/compartilhar e 4–5 hashtags.
 - `titulo`: título interno do post (curto, com o gancho). Não é enviado ao LinkedIn.
 - `legenda_threads`: até 450 caracteres (limite do Threads é 500), sem hashtags, tom de conversa.
+- `threads` (posts avulsos): cada item tem `card` (HTML de UM card, ideia em até ~15 palavras, texto grande) e
+  `texto` (até 450 caracteres, frases curtas, tom de conversa, sem hashtags). Os 5 do dia devem variar entre os formatos:
+  **assunto do dia** (opinião sobre notícia de negócios em alta), **dado + comentário**, **pergunta para o público**,
+  **frase de impacto** (lição de gestão), **opinião provocativa** ("X não é o mesmo que Y"). Nunca repetir o mesmo assunto
+  em dois posts do mesmo dia; podem complementar o tema do carrossel. Mesmas regras de checagem para números e fatos.
+  Na execução da tarde, ler o `post.json` de hoje e acrescentar os novos itens em `threads` (não apagar os da manhã).
 - `stories`: sempre 3. Uma ideia por story, no máximo ~20 palavras, texto grande. Os stories são imagens:
   links e enquetes não funcionam, então peça resposta "no direct". Mesmas regras de checagem de fatos.
 
 ### 4. Gerar e conferir
-- Criar `posts/AAAA-MM-DD-slug/post.json` (dia de stories: só `stories`, sem `slides`) e rodar `python3 modelo/gerar.py`.
+- Criar `posts/AAAA-MM-DD-slug/post.json` (dia de stories: `stories` + `threads`, sem `slides`) e rodar `python3 modelo/gerar.py`.
 - Abrir os PNGs (slides e stories) e conferir: nada cortado, nada sobreposto, texto legível. Corrigir e gerar de novo se precisar.
 
 ### 5. Publicar o repositório
 - `git add posts/AAAA-MM-DD-slug && git commit && git push origin main`.
 - Conferir que **cada PNG** (slides e stories) responde em
   `https://raw.githubusercontent.com/kaykbecker1234/linkedinkayk/main/posts/AAAA-MM-DD-slug/slideNN.png` (ou `storyNN.png`)
-  (`curl -sI` deve dar 200 para slide01, slide02… até o último) antes de agendar.
+  (`curl -sI` deve dar 200 para slide01, slide02… até o último; idem `threadNN.png`) antes de agendar.
 
 ### 6. Agendar no Metricool
 - Marca: **KAYK.CEO**, `blogId` **7692194**, fuso `America/Sao_Paulo`. Redes da marca: Instagram @kayk.ceo, Threads @kayk_offf, LinkedIn.
@@ -87,6 +101,9 @@ A rotina roda todo dia de manhã. Calcule `n` = número de dias entre 2026-10-28
 - LinkedIn: `providers` `[{"network":"linkedin"}]`, `media` = todos os `slideNN.png`, `linkedinData` = `{"type":"post","publishImagesAsPDF":false}` (sem `documentTitle`, sem PDF), `text` = `legenda_linkedin`.
 - Instagram feed: `providers` `[{"network":"instagram"}]`, `media` = todos os `slideNN.png`, `instagramData` = `{"type":"POST"}`, `text` = `legenda_instagram`.
 - Threads: `providers` `[{"network":"threads"}]`, `media` = todos os `slideNN.png`, `threadsData` = `{}`, `text` = `legenda_threads`.
+
+**Threads avulso (todo dia, 08:30 / 11:30 / 14:30 de manhã; 17:30 / 20:30 à tarde):**
+- Um post por item: `providers` `[{"network":"threads"}]`, `media` = `[threadNN.png]`, `threadsData` = `{}`, `text` = conteúdo de `threadNN.txt`.
 
 **Stories (todo dia, 09:30 / 13:00 / 18:00):**
 - Um post por story: `providers` `[{"network":"instagram"}]`, `media` = `[storyNN.png]`, `instagramData` = `{"type":"STORY"}`, **sem `text`**.

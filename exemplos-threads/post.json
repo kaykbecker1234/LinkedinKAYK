@@ -1,0 +1,25 @@
+{
+ "titulo": "Exemplos de posts do Threads",
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">A 6x1 acabou. <span class=\"acc\">Sua escala ainda não.</span></p><p class=\"mut\" style=\"margin-top:20px\">Faltam 49 dias para 16/12.</p>",
+   "texto": "A 6x1 acabou no papel em 16/10.\n\nMas na maioria das empresas ela continua viva na planilha de escala.\n\nFaltam 49 dias pra 5x2 valer. Quem deixar pra dezembro vai redesenhar turno com a loja cheia.\n\nVocê já mexeu na escala ou tá esperando?"
+  },
+  {
+   "card": "<div class=\"tag\">O dado</div><div class=\"stat acc\">52%</div><p style=\"margin-top:40px\">dos pequenos negócios brasileiros já usam IA.</p><p class=\"src\">Sebrae + Meta · 2026</p>",
+   "texto": "52% dos pequenos negócios do Brasil usaram IA nas últimas duas semanas. Nos EUA, 21%. (Sebrae + Meta)\n\nA gente adotou rápido.\n\nA pergunta é: adotou pra fazer o mesmo mais rápido, ou pra fazer diferente?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Qual processo da sua empresa <span class=\"acc\">ainda depende de alguém lembrar?</span></p>",
+   "texto": "Pergunta sincera pra quem tem empresa:\n\nqual processo aí ainda depende de alguém lembrar de fazer?\n\nFollow-up de cliente, cobrança, agenda, relatório…\n\nResponde aqui que eu comento como automatizaria."
+  },
+  {
+   "card": "<p class=\"big\">Menos horas não quebra empresa.</p><p class=\"big acc\">Gestão ruim, sim.</p>",
+   "texto": "Menos horas não quebra empresa.\n\nGestão ruim, sim.\n\nA 6x1 escondia muito processo mal feito. A 5x2 vai mostrar."
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Usar IA não é o mesmo que <span class=\"acc\">ter IA.</span></p><p class=\"mut\" style=\"margin-top:20px\">Uma economiza minutos. A outra muda a operação.</p>",
+   "texto": "Usar IA: pedir um texto pro ChatGPT.\n\nTer IA: um processo que roda sozinho, todo dia, sem ninguém abrir ferramenta nenhuma.\n\nA maioria das empresas está no primeiro. O dinheiro está no segundo."
+  }
+ ]
+}
