@@ -1,0 +1,17 @@
+Tem empresa faturando bem e quebrando.
+
+Não é falta de venda. É falta de olhar 5 números.
+
+1. Margem de contribuição. Preço menos custos variáveis. Vende a R$ 100 e gasta R$ 65 para entregar? Sua margem é 35%, não 100.
+
+2. Ponto de equilíbrio. Custo fixo dividido pela margem. Com R$ 20 mil de custo fixo e 35% de margem, você precisa faturar cerca de R$ 57 mil só para empatar.
+
+3. Ciclo de caixa. Paga o fornecedor em 30 dias e recebe em 60? Você está financiando o seu cliente por 30 dias.
+
+4. CAC. Quanto custa conquistar um cliente. R$ 10 mil em marketing e vendas para 40 clientes novos dá R$ 250 por cliente.
+
+5. LTV. Quanto esse cliente deixa de margem enquanto compra de você. Se for menor que o CAC, cada venda nova te deixa mais pobre.
+
+Faturamento é vaidade. Caixa é rei.
+
+Qual desses números você acompanha toda semana na sua empresa?

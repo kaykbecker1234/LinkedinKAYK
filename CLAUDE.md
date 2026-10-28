@@ -9,22 +9,32 @@ Os arquivos ficam públicos por link (`raw.githubusercontent.com`), e o Metricoo
 
 ## Estrutura
 
-- `modelo/estilo.css`: estilo base (fundo preto, Montserrat/Poppins, destaque verde-limão `#C6FF3D`)
-- `modelo/story.css`: ajustes para stories 1080×1920 (classes extras: `cta` botão verde, `q` caixa de pergunta)
+- `modelo/estilo.css`: estilo base (fundo preto, Anton + Montserrat, destaque marca-texto branco)
+- `modelo/story.css`: ajustes para stories 1080×1920 (classes extras: `cta` botão branco, `q` caixa de pergunta)
 - `modelo/avatar.jpg`: foto de perfil (já recortada)
 - `modelo/gerar.py`: gera os PNGs (slides e stories), o PDF e as legendas a partir de `post.json` (ver o cabeçalho do arquivo)
 - `modelo/render.js`: renderiza o HTML em PNG 1080×1350 com Playwright
-- `posts/AAAA-MM-DD-slug/`: uma pasta por dia. Use os posts existentes como referência de estilo e tom
-  (`2026-10-27-6x1-boato` tem exemplo de slides, stories e legenda do Threads).
-- `exemplos-threads/`: 5 posts avulsos de Threads aprovados (card + texto), um de cada formato.
+- `exemplos-empresario/`: **referência principal** de visual e conteúdo (carrossel de 8 slides, 3 stories, card de Threads e legendas).
+- `posts/AAAA-MM-DD-slug/`: uma pasta por dia. Os posts até 28/10/2026 usam o visual antigo (verde-limão) e a linha antiga
+  (notícia do dia); servem só como referência de tom e de formato das legendas, não de visual.
+- `exemplos-threads/`: 5 posts avulsos de Threads aprovados (card + texto), um de cada formato (o visual dos cards agora segue o estilo novo).
 
 Para gerar: `python3 modelo/gerar.py posts/AAAA-MM-DD-slug`
 
-### Classes disponíveis no HTML dos slides
+### Visual (aprovado pelo Kayk em 28/10/2026: estilo "Impacto" monocromático)
 
-`big` (frase de impacto), `stat` (número gigante), `huge` (número/data grande, definido via `css_extra`), `tag` (rótulo verde em caixa alta),
-`acc` (texto verde), `mut` (texto cinza), `src` (linha de fonte), `vs` (tabela comparativa em 2 colunas, primeira linha com `hd` e `hd r`),
-`ol > li` (lista numerada 01, 02…), `bars/br` (barras comparativas). Cabeçalho (foto + nome) e rodapé (barra de progresso + 01/08) são automáticos.
+Fundo preto, títulos gigantes em Anton caixa alta, destaque com **marca-texto branco** (texto preto, levemente inclinado),
+textos em Montserrat. **Sem cor nenhuma além de preto, branco e cinza.** Referência completa: `exemplos-empresario/`.
+
+Classes disponíveis no HTML dos slides:
+`big` (título gigante Anton; a parte mais forte vai em `<span class="acc">`, que vira o marca-texto branco),
+`stat` (número gigante, ex.: `R$ 57 MIL`), `tag` (rótulo cinza pequeno, ex.: "Número 1 de 5"),
+`box` (caixa cinza com barra branca à esquerda, com `<p>` dentro), `bg` (número gigante apagado ao fundo, ex.: `<div class="bg">01</div>`),
+`p` com `<b>` (texto com negrito branco), `mut` (texto cinza), `src` (linha de fonte),
+`vs` (tabela em 2 colunas, primeira linha com `hd` e `hd r`), `ol > li` (lista 01, 02… com número em marca-texto).
+Stories: também `cta` (botão branco) e `q` (caixa de pergunta).
+Cabeçalho (foto + nome + 01/08) e rodapé ("Arrasta pro lado" / "Salva esse post") são automáticos.
+Títulos `big` com no máximo ~6 palavras; texto corrido curto.
 
 ## Rotina automática de publicação
 
@@ -51,7 +61,13 @@ A rotina roda todo dia de manhã. Calcule `n` = número de dias entre 2026-10-28
 | Tarde (≈12:47) | 17:30 e 20:30 |
 
 ### 1. Escolher o tema
-- Pesquisar os assuntos em alta no Brasil (X, notícias, Google) dos últimos 1–3 dias.
+**Linha editorial (desde 28/10/2026): conteúdo que AGREGA a empresários.** O público é dono de pequena e média empresa.
+O post tem que ensinar algo que ele aplica na própria empresa (conta prática com exemplo em reais, passo a passo, erro comum + como evitar),
+do tipo que a pessoa salva e manda para o sócio. Temas: finanças da empresa (margem, caixa, precificação, pró-labore, ponto de equilíbrio),
+vendas, contratação e liderança, gestão de time, processos, IA aplicada para economizar tempo/dinheiro, impostos e regime tributário.
+- Pelo menos 3 de cada 4 carrosséis são **educativos** (atemporais). No máximo 1 em 4 pode partir de uma **notícia** em alta,
+  e só se ela afeta diretamente o empresário (imposto, juros, lei trabalhista, crédito); mesmo assim, o foco é "o que fazer na sua empresa".
+- Para notícia: pesquisar os assuntos em alta no Brasil (X, notícias, Google) dos últimos 1–3 dias.
 - Filtrar para temas de **negócios, gestão, empreendedorismo, trabalho, IA aplicada a empresas, economia que afeta empresas**.
 - Descartar: futebol, celebridades, tragédias, crimes, temas que só façam sentido como disputa partidária.
 - Ver `posts/` para não repetir um tema já publicado nos últimos 14 dias (a menos que exista fato novo relevante).
@@ -66,7 +82,8 @@ A rotina roda todo dia de manhã. Calcule `n` = número de dias entre 2026-10-28
 - Tom: direto, provocador, chama atenção. Pode usar gancho agressivo ("FALSO", "você vai pagar caro"), mas **sem mentir e sem exagerar números**.
 - Política: falar do **impacto no negócio**, nunca defender ou atacar partido, governo ou político.
 - Formato do carrossel: 7 a 9 slides (máximo 10, limite do Instagram). Capa com gancho forte, um número/ideia por slide, menos de 25 palavras por slide quando possível.
-- Variar o formato ao longo da semana: dado + opinião, desmentido de boato, "X vs Y", passo a passo.
+- Variar o formato ao longo da semana: "N números/erros/passos" (como `exemplos-empresario/`), conta prática, "Achismo vs gestão" / "X vs Y", passo a passo, notícia + o que fazer.
+- Conteúdo educativo com contas ilustrativas não precisa de fonte, mas a conta tem que estar certa e o conceito correto. "Regras práticas" do mercado devem ser apresentadas como tal.
 - Último slide: frase de impacto + chamada para comentar ou compartilhar.
 - `legenda_linkedin`: 800–1.500 caracteres, frases curtas, fontes citadas, termina com uma pergunta. Sem hashtags.
 - `legenda_instagram`: mais curta, com pedido para salvar/compartilhar e 4–5 hashtags.

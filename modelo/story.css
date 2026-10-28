@@ -2,14 +2,9 @@
 /* Stories 1080x1920. O Instagram cobre ~250px no topo e ~340px embaixo com a interface:
    o conteúdo fica entre essas faixas. */
 html,body{height:1920px}
-body.story{padding:0 100px;display:block;position:relative}
-.story .head{position:absolute;top:270px;left:100px;margin:0}
-.story .av{width:96px;height:96px}
-.story .n{font-size:44px}.story .h{font-size:28px}
-.story .miolo{position:absolute;left:100px;right:100px;top:420px;bottom:380px;display:flex;flex-direction:column;justify-content:center}
-.story p{font-size:50px}
-.story .big{font-size:82px}
+.story .head{top:270px}
+.story .miolo{top:420px;bottom:380px}
+.story .big{font-size:120px}
 .story .stat{font-size:240px}
-.story .sfoot{position:absolute;left:100px;bottom:400px;font:600 26px Montserrat;color:#666;letter-spacing:2px;display:none}
-.story .cta{display:inline-block;align-self:flex-start;background:ACC;color:#000;font:800 40px Montserrat;padding:22px 36px;border-radius:14px;margin-top:20px}
-.story .q{border:3px solid #333;border-radius:24px;padding:40px;font-size:46px;line-height:1.35}
+.story .cta{display:inline-block;align-self:flex-start;background:ACC;color:#000;font:800 38px Montserrat;letter-spacing:1px;text-transform:uppercase;padding:22px 36px;border-radius:999px;margin-top:20px}
+.story .q{background:#111;border-left:10px solid ACC;padding:40px 44px;font:600 44px/1.35 Montserrat}

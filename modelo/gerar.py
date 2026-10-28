@@ -21,12 +21,21 @@ import base64, json, os, subprocess, sys
 
 from PIL import Image
 
-NAME, HANDLE, ACC = "Kayk", "@kayk.ceo", "#C6FF3D"
+NAME, HANDLE, ACC = "Kayk", "@kayk.ceo", "#FFFFFF"
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 
-def head(avatar):
-    return f'<div class="head"><img class="av" src="data:image/jpeg;base64,{avatar}"><div><div class="n">{NAME}</div><div class="h">{HANDLE}</div></div></div>'
+def head(avatar, pg=""):
+    pg = f'<span class="pg">{pg}</span>' if pg else ""
+    return f'<div class="head"><img class="av" src="data:image/jpeg;base64,{avatar}"><div><div class="n">{NAME}</div><div class="h">{HANDLE}</div></div>{pg}</div>'
+
+
+def foot(i, total):
+    if i == 1:
+        return '<div class="foot"><span>Arrasta pro lado</span><b>SALVA ESSE POST</b></div>'
+    if i == total:
+        return '<div class="foot"><span>Manda pra um sócio</span><b>SALVA ESSE POST</b></div>'
+    return '<div class="foot"><span>Arrasta pro lado</span><span>→</span></div>'
 
 
 def render(pasta, prefixo, paginas, largura, altura):
@@ -50,9 +59,9 @@ def main(pasta):
     if slides:
         total = len(slides)
         paginas = [f"""<!doctype html><html><head><meta charset="utf-8"><style>{base}{extra}</style></head><body>
-{head(avatar)}
-{body}
-<div class="foot"><div class="bar"><i style="width:{int(i / total * 100)}%"></i></div><div class="num">{i:02d}/{total:02d}</div></div>
+{head(avatar, f"{i:02d}/{total:02d}")}
+<div class="miolo">{body}</div>
+{foot(i, total)}
 </body></html>""" for i, body in enumerate(slides, 1)]
         pngs = render(pasta, "slide", paginas, 1080, 1350)
         ims = [Image.open(p).convert("RGB") for p in pngs]
@@ -64,18 +73,16 @@ def main(pasta):
         paginas = [f"""<!doctype html><html><head><meta charset="utf-8"><style>{base}{story_css}{extra}</style></head><body class="story">
 {head(avatar)}
 <div class="miolo">{body}</div>
-<div class="sfoot">{HANDLE}</div>
 </body></html>""" for body in stories]
         render(pasta, "story", paginas, 1080, 1920)
         print(f"{len(stories)} stories gerados")
 
     threads = post.get("threads", [])
     if threads:
-        thread_css = ".big{font-size:84px;line-height:1.12}p{font-size:50px}.stat{font-size:260px}.tag{font-size:34px}.src{font-size:26px}"
+        thread_css = ".big{font-size:130px}p{font-size:46px}.tag{font-size:30px}.src{font-size:24px}"
         paginas = [f"""<!doctype html><html><head><meta charset="utf-8"><style>{base}{thread_css}{extra}</style></head><body>
 {head(avatar)}
-{t["card"]}
-<div class="foot"><div class="bar"><i style="width:100%"></i></div><div class="num">{HANDLE}</div></div>
+<div class="miolo">{t["card"]}</div>
 </body></html>""" for t in threads]
         render(pasta, "thread", paginas, 1080, 1350)
         for i, t in enumerate(threads, 1):

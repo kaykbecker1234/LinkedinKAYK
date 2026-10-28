@@ -1,0 +1,27 @@
+{
+  "titulo": "5 números que todo empresário precisa saber de cabeça",
+  "slides": [
+    "<p class=\"big\">Fatura bem e não <span class=\"acc\">sobra nada?</span></p><p>Os <b>5 números</b> que todo empresário precisa saber de cabeça.</p>",
+    "<div class=\"bg\">01</div><div class=\"tag\">Número 1 de 5</div><p class=\"big\">Margem de <span class=\"acc\">contribuição</span></p><div class=\"box\"><p>Preço − custos variáveis.<br>É o que <b>sobra de cada venda.</b></p><p>Vende a R$ 100, gasta R$ 65?<br>Sua margem é <b>35%</b>. Não 100.</p></div>",
+    "<div class=\"bg\">02</div><div class=\"tag\">Número 2 de 5 · Ponto de equilíbrio</div><div class=\"stat\">R$ 57 MIL</div><p>é o mínimo que precisa faturar quem tem <b>R$ 20 mil de custo fixo</b> e margem de 35%.</p><p class=\"mut\">Custo fixo ÷ margem. Abaixo disso, você paga para trabalhar.</p>",
+    "<div class=\"bg\">03</div><div class=\"tag\">Número 3 de 5</div><p class=\"big\">Ciclo de <span class=\"acc\">caixa</span></p><div class=\"box\"><p>Paga o fornecedor em 30 dias e recebe do cliente em 60?</p><p>São <b>30 dias financiando seu cliente</b> com o seu dinheiro.</p></div><p class=\"mut\">Por isso tem empresa que quebra crescendo.</p>",
+    "<div class=\"bg\">04</div><div class=\"tag\">Número 4 de 5</div><p class=\"big\"><span class=\"acc\">CAC</span></p><div class=\"box\"><p>Quanto custa <b>conquistar 1 cliente.</b></p><p>Gasto com marketing e vendas no mês ÷ clientes novos no mês.</p></div><p class=\"mut\">R$ 10 mil ÷ 40 clientes = R$ 250 por cliente.</p>",
+    "<div class=\"bg\">05</div><div class=\"tag\">Número 5 de 5</div><p class=\"big\"><span class=\"acc\">LTV</span></p><div class=\"box\"><p>Quanto o cliente te deixa de <b>margem</b> enquanto compra de você.</p><p>CAC de R$ 250 e LTV de R$ 200? <b>Cada venda nova te deixa mais pobre.</b></p></div><p class=\"mut\">Regra prática do mercado: LTV de pelo menos 3x o CAC.</p>",
+    "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Vendi muito esse mês”</div><div>“Vendi 20% acima do ponto de equilíbrio”</div><div>“Tô sem dinheiro”</div><div>“Meu caixa fica 30 dias no negativo”</div><div>“Vou pôr mais em anúncio”</div><div>“Meu CAC é R$ 250 e meu LTV, R$ 900”</div></div>",
+    "<p class=\"big\">Faturamento é vaidade. <span class=\"acc\">Caixa é rei.</span></p><p>Qual desses 5 números você <b>não sabe de cabeça?</b> Comenta aqui.</p>"
+  ],
+  "stories": [
+    "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Os 5 números que todo empresário precisa saber de cabeça.</p><div class=\"cta\">Vai lá ver</div>",
+    "<div class=\"tag\">Conta rápida</div><div class=\"stat\">35%</div><p>Vende a R$ 100 e gasta R$ 65 para entregar? <b>Essa é sua margem real.</b></p>",
+    "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você sabe de cabeça a margem da sua empresa?</div>"
+  ],
+  "threads": [
+    {
+      "card": "<p class=\"big\">Faturamento é vaidade. <span class=\"acc\">Caixa é rei.</span></p>",
+      "texto": "Já vi empresa faturando R$ 200 mil por mês e sem dinheiro pra pagar a folha.\n\nNão era falta de venda. Era margem baixa e prazo de recebimento longo demais.\n\nAntes de comemorar o faturamento, olha quanto sobrou no caixa."
+    }
+  ],
+  "legenda_instagram": "Fatura bem e no fim do mês não sobra nada? 👀\n\nNão é falta de venda. É falta de olhar 5 números:\n\n01 Margem de contribuição\n02 Ponto de equilíbrio\n03 Ciclo de caixa\n04 CAC\n05 LTV\n\nArrasta pro lado que eu explico cada um com conta de padaria. 👉\n\nSalva pra fazer a conta da sua empresa e manda pro sócio.\n\nComenta: qual desses você não sabe de cabeça?\n\n#empreendedorismo #gestaoempresarial #financas #empresario #negocios",
+  "legenda_linkedin": "Tem empresa faturando bem e quebrando.\n\nNão é falta de venda. É falta de olhar 5 números.\n\n1. Margem de contribuição. Preço menos custos variáveis. Vende a R$ 100 e gasta R$ 65 para entregar? Sua margem é 35%, não 100.\n\n2. Ponto de equilíbrio. Custo fixo dividido pela margem. Com R$ 20 mil de custo fixo e 35% de margem, você precisa faturar cerca de R$ 57 mil só para empatar.\n\n3. Ciclo de caixa. Paga o fornecedor em 30 dias e recebe em 60? Você está financiando o seu cliente por 30 dias.\n\n4. CAC. Quanto custa conquistar um cliente. R$ 10 mil em marketing e vendas para 40 clientes novos dá R$ 250 por cliente.\n\n5. LTV. Quanto esse cliente deixa de margem enquanto compra de você. Se for menor que o CAC, cada venda nova te deixa mais pobre.\n\nFaturamento é vaidade. Caixa é rei.\n\nQual desses números você acompanha toda semana na sua empresa?",
+  "legenda_threads": "Fatura bem e não sobra nada no fim do mês?\n\nQuase sempre é um destes 5: margem, ponto de equilíbrio, ciclo de caixa, CAC e LTV.\n\nExpliquei cada um com conta simples no carrossel. Qual você não sabe de cabeça?"
+}
