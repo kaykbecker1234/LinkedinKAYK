@@ -1,0 +1,41 @@
+{
+ "titulo": "Sua LCA isenta pode deixar de ser isenta",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"mut\" style=\"margin-bottom:20px\">Sua LCA isenta…</p><p class=\"big\">pode deixar de ser <span class=\"acc\">isenta.</span></p><p style=\"margin-top:30px\">O governo estuda cobrar IOF de LCI, LCA, CRI, CRA e debêntures incentivadas.</p>",
+  "<div class=\"tag\">O que está em estudo</div><div class=\"stat acc\">0%</div><p style=\"margin-top:40px\">é o IOF que esses títulos pagam hoje.</p><p>A ideia é passar a cobrar.</p><p class=\"src\">Poder360 · Brasil 247 · O Globo · 28/10/2026</p>",
+  "<div class=\"tag\">O atalho</div><p class=\"big\">Por <span class=\"acc\">decreto.</span></p><p style=\"margin-top:20px\">O IOF pode mudar sem passar pelo Congresso.</p><p class=\"mut\">E sem esperar o ano seguinte para valer.</p>",
+  "<div class=\"tag\">Por quê</div><div class=\"stat\">R$ 33 bi</div><p style=\"margin-top:40px\">por ano é quanto a isenção desses títulos custa para a União.</p><p class=\"src\">Poder360 · 2026</p>",
+  "<div class=\"tag\">Não é a primeira vez</div><p class=\"big\">Em 2025, o Congresso <span class=\"acc\">barrou.</span></p><p style=\"margin-top:20px\">A proposta de IR de 5% sobre esses títulos caiu junto com a MP, retirada de pauta na Câmara por 251 a 193.</p>",
+  "<div class=\"tag\">O que é verdade</div><p class=\"big\">Ainda <span class=\"acc\">não há decisão.</span></p><p style=\"margin-top:20px\">É estudo, não decreto publicado.</p><p class=\"mut\">Mas o recado está dado: isenção não é para sempre.</p>",
+  "<div class=\"tag\">O que fazer agora</div><ol><li>Não venda no susto</li><li>Veja os vencimentos da sua carteira</li><li>Compare o líquido com Tesouro e CDB</li><li>Acompanhe o Diário Oficial</li></ol><p class=\"src\">Não é recomendação de investimento</p>",
+  "<p class=\"big\">Estratégia que depende de isenção</p><p class=\"big acc\" style=\"margin-bottom:60px\">tem prazo de validade.</p><p>Você tem LCI ou LCA na carteira? Comenta aqui.</p>"
+ ],
+ "stories": [
+  "<div class=\"tag\">Post novo no feed</div><p class=\"big\">Sua LCA isenta pode deixar de ser <span class=\"acc\">isenta.</span></p><p class=\"mut\">O governo estuda cobrar IOF por decreto.</p><div class=\"cta\">Ver o post ↗</div>",
+  "<div class=\"tag\">O número</div><div class=\"stat acc\">R$ 33 bi</div><p style=\"margin-top:40px\">por ano: o custo da isenção de LCI, LCA, CRI e CRA para a União.</p>",
+  "<div class=\"tag\">Pergunta pra você</div><div class=\"q\">Você tem LCI ou LCA na carteira?</div><p class=\"mut\" style=\"margin-top:40px\">Me responde aqui no direct 👇</p>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se sua equipe tivesse <span class=\"acc\">20% menos tempo</span> amanhã, o que pararia primeiro?</p>",
+   "texto": "Pergunta pra quem tem empresa:\n\nse amanhã sua equipe tivesse 20% menos horas, o que vocês parariam de fazer primeiro?\n\nA resposta mostra o que nunca deveria ter sido feito à mão.\n\nComenta aqui."
+  },
+  {
+   "card": "<p class=\"big\">Estratégia que depende de isenção</p><p class=\"big acc\">é sorte com prazo de validade.</p>",
+   "texto": "Hoje o governo voltou a estudar IOF sobre LCI, LCA, CRI e CRA.\n\nNada decidido ainda. Mas fica a lição:\n\nestratégia que só funciona por causa de isenção é sorte com prazo de validade."
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Ocupado não é o mesmo que <span class=\"acc\">produtivo.</span></p><p class=\"mut\" style=\"margin-top:20px\">Agenda cheia não paga boleto. Resultado paga.</p>",
+   "texto": "Ocupado não é o mesmo que produtivo.\n\nAgenda lotada, reunião atrás de reunião, mensagem respondida em 2 minutos…\n\nE no fim do mês o resultado não mexeu.\n\nAgenda cheia não paga boleto. Resultado paga."
+  }
+ ],
+ "legenda_linkedin": "Sua LCA isenta pode deixar de ser isenta.\n\nO governo estuda cobrar IOF de LCI, LCA, CRI, CRA e debêntures incentivadas, segundo O Globo, repercutido por Poder360 e Brasil 247 nesta quarta (28).\n\nOs fatos:\n\n→ Hoje esses títulos pagam IOF zero.\n→ A mudança viria por decreto. O IOF pode ser alterado sem passar pelo Congresso.\n→ A isenção custa cerca de R$ 33 bilhões por ano para a União.\n→ Em 2025, a tentativa de cobrar IR de 5% sobre esses papéis caiu no Congresso.\n→ Ainda não há decisão. É estudo, não decreto publicado.\n\nO recado para quem investe e para quem empreende é o mesmo: isenção é decisão política, e decisão política muda.\n\nNão venda no susto. Mas revise vencimentos, compare o rendimento líquido com Tesouro e CDB e acompanhe o Diário Oficial.\n\nEstratégia que depende de isenção tem prazo de validade.\n\nVocê tem LCI ou LCA na carteira? Isso muda alguma coisa para você?",
+ "legenda_instagram": "Sua LCA isenta pode deixar de ser isenta. 👀\n\nO governo estuda cobrar IOF de LCI, LCA, CRI, CRA e debêntures incentivadas, por decreto, sem passar pelo Congresso.\n\nAinda não há decisão. Mas isenção não é para sempre.\n\nArrasta pro lado que eu mostro o que fazer agora. 👉\n\nSalva pra acompanhar e comenta: você tem LCI ou LCA na carteira?\n\n#investimentos #lca #lci #economia #empreendedorismo",
+ "legenda_threads": "O governo estuda cobrar IOF de LCI, LCA, CRI e CRA. Por decreto, sem passar pelo Congresso.\n\nHoje a alíquota é zero. A isenção custa uns R$ 33 bi por ano para a União.\n\nNada decidido ainda. Mas quem montou a carteira inteira em cima da isenção devia ao menos olhar os vencimentos.\n\nVocê tem LCI ou LCA?",
+ "fontes": [
+  "https://www.poder360.com.br/poder-economia/governo-avalia-cobrar-iof-sobre-lci-lca-e-outros-titulos/",
+  "https://www.brasil247.com/economia/governo-estuda-impor-iof-em-titulos-incentivados-para-reforcar-o-caixa/",
+  "https://jornaldebrasilia.com.br/noticias/economia/governo-estuda-mudar-regras-de-titulos-isentos-em-2026/"
+ ]
+}
