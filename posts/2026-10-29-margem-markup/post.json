@@ -18,6 +18,14 @@
   {
    "card": "<p class=\"big\">Faturamento é vaidade.</p><p class=\"big\">Lucro é sanidade.</p><p class=\"big acc\">Caixa é realidade.</p>",
    "texto": "Faturamento é vaidade.\nLucro é sanidade.\nCaixa é realidade.\n\nEmpresa quebra com faturamento alto o tempo todo.\n\nQuebra sem caixa, não sem vendas."
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Quanto você precisa vender <span class=\"acc\">só pra não perder?</span></p><p class=\"mut\" style=\"margin-top:20px\">Custos fixos R$ 30 mil ÷ margem de 40% = R$ 75 mil.</p>",
+   "texto": "Ponto de equilíbrio, na prática:\n\nSua empresa gasta R$ 30 mil por mês em custos fixos (aluguel, salários, sistemas).\nCada R$ 100 vendidos deixam R$ 40 depois dos custos variáveis.\n\nR$ 30.000 ÷ 0,40 = R$ 75.000.\n\nAbaixo de R$ 75 mil no mês, você paga para trabalhar. Você sabe o seu número?"
+  },
+  {
+   "card": "<p class=\"big\">Pró-labore <span class=\"acc\">não é</span> lucro.</p><p class=\"mut\" style=\"margin-top:20px\">Um é o seu salário. O outro é o que sobra da empresa.</p>",
+   "texto": "Pró-labore não é lucro.\n\nPró-labore é o salário do dono pelo trabalho que ele faz.\nLucro é o que sobra depois de pagar tudo, inclusive esse salário.\n\nQuem tira dinheiro do caixa sem separar os dois nunca descobre se a empresa realmente dá resultado.\n\nVocê tem pró-labore definido?"
   }
  ],
  "fontes": []
