@@ -1,0 +1,24 @@
+{
+ "titulo": "Markup de 40% não é margem de 40%",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "stories": [
+  "<div class=\"tag\">Erro de preço</div><p class=\"big\">Custo + 40% <span class=\"acc\">não é</span> margem de 40%.</p><p class=\"mut\">Quem confunde os dois vende e lucra menos do que pensa.</p>",
+  "<div class=\"tag\">A conta</div><div class=\"stat acc\">28,6%</div><p style=\"margin-top:40px\">Custo R$ 60 + markup de 40% = preço de R$ 84. A margem real é 28,6%, não 40%.</p><p class=\"mut\">Para ter 40% de margem: R$ 60 ÷ 0,60 = R$ 100.</p>",
+  "<div class=\"tag\">Pergunta pra você</div><div class=\"q\">Você forma preço por markup ou por margem?</div><p class=\"mut\" style=\"margin-top:40px\">Me responde aqui no direct 👇</p>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">De cada R$ 100 que entram, <span class=\"acc\">quanto sobra</span> no fim do mês?</p>",
+   "texto": "Pergunta pra quem tem empresa:\n\nde cada R$ 100 que entram no caixa, quanto sobra de verdade no fim do mês?\n\nSe a resposta é \"não sei\", o problema não é vender mais.\n\nÉ saber o número.\n\nComenta o seu."
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Desconto de 10% pode tirar <span class=\"acc\">33% do lucro.</span></p><p class=\"mut\" style=\"margin-top:20px\">Preço 100, custo 70: lucro 30. Com desconto: 90 − 70 = 20.</p>",
+   "texto": "Produto de R$ 100, custo de R$ 70. Lucro: R$ 30.\n\nDá 10% de desconto: vende por R$ 90. O custo continua R$ 70. Lucro: R$ 20.\n\nO desconto foi de 10%.\nO lucro caiu 33%.\n\nAntes de dar desconto, calcule quantas vendas a mais você precisa pra empatar."
+  },
+  {
+   "card": "<p class=\"big\">Faturamento é vaidade.</p><p class=\"big\">Lucro é sanidade.</p><p class=\"big acc\">Caixa é realidade.</p>",
+   "texto": "Faturamento é vaidade.\nLucro é sanidade.\nCaixa é realidade.\n\nEmpresa quebra com faturamento alto o tempo todo.\n\nQuebra sem caixa, não sem vendas."
+  }
+ ],
+ "fontes": []
+}

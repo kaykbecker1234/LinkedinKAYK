@@ -1,0 +1,8 @@
+Produto de R$ 100, custo de R$ 70. Lucro: R$ 30.
+
+Dá 10% de desconto: vende por R$ 90. O custo continua R$ 70. Lucro: R$ 20.
+
+O desconto foi de 10%.
+O lucro caiu 33%.
+
+Antes de dar desconto, calcule quantas vendas a mais você precisa pra empatar.
