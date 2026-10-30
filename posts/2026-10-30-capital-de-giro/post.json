@@ -28,6 +28,14 @@
   {
    "card": "<p class=\"big\">Vender mais <span class=\"acc\">não resolve</span> falta de caixa.</p><p class=\"mut\" style=\"margin-top:20px\">Se cada venda nova demora 60 dias para virar dinheiro, o buraco só aumenta.</p>",
    "texto": "Vender mais não resolve falta de caixa.\n\nSe cada venda nova demora 60 dias para virar dinheiro e você paga os custos em 30, quanto mais você vende, maior o buraco.\n\nPor isso tem empresa que quebra crescendo.\n\nAntes de acelerar, olhe o prazo."
+  },
+  {
+   "card": "<div class=\"tag\">Gestão</div><p class=\"big\">Delegar não é <span class=\"acc\">jogar tarefa.</span></p><p class=\"mut\" style=\"margin-top:20px\">É dizer o que, até quando e qual o padrão.</p>",
+   "texto": "Delegar não é jogar a tarefa na mão de alguém e sumir.\n\nDelegar é combinar três coisas:\n\n1. O que precisa ser entregue.\n2. Até quando.\n3. Qual o padrão de \"bem feito\".\n\nSem isso, o time erra, você refaz e conclui que \"só eu faço direito\".\n\nO problema quase nunca é a pessoa. É a instrução."
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Perder 1 cliente custa <span class=\"acc\">R$ 6 mil no ano.</span></p><p class=\"mut\" style=\"margin-top:20px\">Se ele paga R$ 500 por mês.</p>",
+   "texto": "Cliente que paga R$ 500 por mês e vai embora não leva só R$ 500.\n\nLeva R$ 6.000 por ano (R$ 500 x 12).\n\nSe você perde 3 clientes assim, são R$ 18 mil por ano que deixam de entrar.\n\nAntes de gastar para trazer cliente novo, descubra por que o antigo saiu.\n\nQuantos clientes você perdeu este mês?"
   }
  ],
  "legenda_linkedin": "Tem empresa lucrando no papel e sem dinheiro para pagar a folha.\n\nNão é falta de venda. É prazo.\n\nUm exemplo simples:\n\nA empresa vende R$ 100 mil no mês. Os custos são R$ 70 mil. Lucro no papel: R$ 30 mil.\n\nSó que o cliente paga em 60 dias e a empresa paga os custos em 30.\n\n1. Prazo de recebimento: contas a receber ÷ vendas do mês × 30. Com R$ 200 mil a receber e R$ 100 mil de vendas, são 60 dias.\n\n2. Prazo de pagamento: contas a pagar ÷ custos do mês × 30. Com R$ 70 mil a pagar e R$ 70 mil de custos, são 30 dias.\n\n3. A diferença é de 30 dias. Com custo de R$ 70 mil por mês, a empresa precisa ter cerca de R$ 70 mil de caixa para atravessar esse intervalo. (Conta ilustrativa: cada negócio tem seus números.)\n\nComo fechar o buraco: receber mais cedo (entrada ou Pix à vista), negociar prazo maior com fornecedor, cobrar atraso toda semana e reservar caixa antes de crescer.\n\nLucro não paga boleto. Caixa paga.\n\nEm quantos dias o seu cliente leva para te pagar?",

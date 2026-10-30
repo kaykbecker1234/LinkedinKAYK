@@ -1,0 +1,9 @@
+Cliente que paga R$ 500 por mês e vai embora não leva só R$ 500.
+
+Leva R$ 6.000 por ano (R$ 500 x 12).
+
+Se você perde 3 clientes assim, são R$ 18 mil por ano que deixam de entrar.
+
+Antes de gastar para trazer cliente novo, descubra por que o antigo saiu.
+
+Quantos clientes você perdeu este mês?
