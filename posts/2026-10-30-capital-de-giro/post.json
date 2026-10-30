@@ -1,0 +1,37 @@
+{
+ "titulo": "Lucro no papel, zero no caixa",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Lucro no papel, <span class=\"acc\">zero no caixa?</span></p><p>A conta que explica por que <b>empresa lucrativa</b> fica sem dinheiro para pagar boleto.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">O cenário</div><p class=\"big\">Vendeu <span class=\"acc\">R$ 100 mil</span></p><div class=\"box\"><p>Custos do mês: <b>R$ 70 mil.</b><br>Lucro no papel: <b>R$ 30 mil.</b></p><p>Mas o cliente paga em <b>60 dias</b> e você paga os custos em <b>30.</b></p></div>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 1 de 3</div><p class=\"big\">Prazo de <span class=\"acc\">recebimento</span></p><div class=\"box\"><p>Contas a receber ÷ vendas do mês × 30.</p><p>R$ 200 mil a receber ÷ R$ 100 mil × 30 = <b>60 dias.</b></p></div><p class=\"mut\">É quanto tempo seu dinheiro fica na mão do cliente.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 2 de 3</div><p class=\"big\">Prazo de <span class=\"acc\">pagamento</span></p><div class=\"box\"><p>Contas a pagar ÷ compras e custos do mês × 30.</p><p>R$ 70 mil a pagar ÷ R$ 70 mil × 30 = <b>30 dias.</b></p></div><p class=\"mut\">É quanto tempo o fornecedor espera por você.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 3 de 3 · O buraco</div><div class=\"stat\">R$ 70 MIL</div><p>é o dinheiro que você precisa ter <b>sobrando</b> para bancar 30 dias de diferença.</p><p class=\"mut\">60 − 30 = 30 dias × custo de R$ 70 mil por mês. Conta ilustrativa.</p>",
+  "<p class=\"big\">4 jeitos de <span class=\"acc\">fechar o buraco</span></p><ol><li><span><b>Receba mais cedo.</b> Entrada de 30% ou Pix à vista.</span></li><li><span><b>Negocie prazo</b> maior com fornecedor.</span></li><li><span><b>Cobre atraso</b> toda semana, não todo mês.</span></li><li><span><b>Reserve caixa</b> antes de crescer.</span></li></ol>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Estou lucrando, então tá tudo certo”</div><div>“Lucro positivo e 30 dias de caixa guardados”</div><div>“Vendo mais para resolver”</div><div>“Vender mais sem caixa aumenta o buraco”</div><div>“Cliente paga quando pode”</div><div>“Cobrança com data e responsável”</div></div>",
+  "<p class=\"big\">Lucro não paga boleto. <span class=\"acc\">Caixa paga.</span></p><p>Quantos dias seu cliente leva para te pagar? <b>Comenta aqui</b> e manda pro seu sócio.</p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Por que empresa que lucra fica sem caixa. Com a conta.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">A conta</div><div class=\"stat\">60 − 30</div><p>Cliente paga em 60 dias, você paga em 30? <b>São 30 dias financiando o cliente</b> com o seu dinheiro.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Em quantos dias seu cliente te paga?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Lucro de R$ 30 mil e <span class=\"acc\">caixa zerado.</span></p><p class=\"mut\" style=\"margin-top:20px\">Cliente paga em 60 dias. Você paga em 30.</p>",
+   "texto": "Já viu empresa com lucro de R$ 30 mil no mês e conta zerada?\n\nCliente paga em 60 dias. Você paga fornecedor e folha em 30.\n\nSão 30 dias com o seu dinheiro na mão do cliente.\n\nLucro é número de planilha. Caixa é o que paga boleto."
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quantos dias seu cliente leva <span class=\"acc\">para te pagar?</span></p>",
+   "texto": "Pergunta rápida pra quem tem empresa:\n\nem média, quantos dias o seu cliente leva para te pagar?\n\nE em quantos dias você paga o seu fornecedor?\n\nSe o primeiro número é maior que o segundo, você está financiando o cliente.\n\nComenta os seus dois números."
+  },
+  {
+   "card": "<p class=\"big\">Vender mais <span class=\"acc\">não resolve</span> falta de caixa.</p><p class=\"mut\" style=\"margin-top:20px\">Se cada venda nova demora 60 dias para virar dinheiro, o buraco só aumenta.</p>",
+   "texto": "Vender mais não resolve falta de caixa.\n\nSe cada venda nova demora 60 dias para virar dinheiro e você paga os custos em 30, quanto mais você vende, maior o buraco.\n\nPor isso tem empresa que quebra crescendo.\n\nAntes de acelerar, olhe o prazo."
+  }
+ ],
+ "legenda_linkedin": "Tem empresa lucrando no papel e sem dinheiro para pagar a folha.\n\nNão é falta de venda. É prazo.\n\nUm exemplo simples:\n\nA empresa vende R$ 100 mil no mês. Os custos são R$ 70 mil. Lucro no papel: R$ 30 mil.\n\nSó que o cliente paga em 60 dias e a empresa paga os custos em 30.\n\n1. Prazo de recebimento: contas a receber ÷ vendas do mês × 30. Com R$ 200 mil a receber e R$ 100 mil de vendas, são 60 dias.\n\n2. Prazo de pagamento: contas a pagar ÷ custos do mês × 30. Com R$ 70 mil a pagar e R$ 70 mil de custos, são 30 dias.\n\n3. A diferença é de 30 dias. Com custo de R$ 70 mil por mês, a empresa precisa ter cerca de R$ 70 mil de caixa para atravessar esse intervalo. (Conta ilustrativa: cada negócio tem seus números.)\n\nComo fechar o buraco: receber mais cedo (entrada ou Pix à vista), negociar prazo maior com fornecedor, cobrar atraso toda semana e reservar caixa antes de crescer.\n\nLucro não paga boleto. Caixa paga.\n\nEm quantos dias o seu cliente leva para te pagar?",
+ "legenda_instagram": "Sua empresa lucra e mesmo assim falta dinheiro no caixa? 👀\n\nQuase sempre é prazo: o cliente paga em 60 dias e você paga em 30.\n\nNo carrossel eu mostro a conta passo a passo e 4 jeitos de fechar o buraco. 👉\n\nSalva pra fazer a conta da sua empresa e manda pro seu sócio.\n\nComenta: em quantos dias seu cliente te paga?\n\n#empreendedorismo #gestaoempresarial #fluxodecaixa #financas #empresario",
+ "legenda_threads": "Lucro de R$ 30 mil no papel e caixa zerado?\n\nQuase sempre é prazo: o cliente paga em 60 dias, você paga em 30.\n\nMostrei a conta e 4 jeitos de fechar esse buraco no carrossel. Em quantos dias seu cliente te paga?",
+ "fontes": []
+}

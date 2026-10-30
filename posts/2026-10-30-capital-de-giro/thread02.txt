@@ -1,0 +1,9 @@
+Pergunta rápida pra quem tem empresa:
+
+em média, quantos dias o seu cliente leva para te pagar?
+
+E em quantos dias você paga o seu fornecedor?
+
+Se o primeiro número é maior que o segundo, você está financiando o cliente.
+
+Comenta os seus dois números.
