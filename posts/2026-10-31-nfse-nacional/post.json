@@ -1,0 +1,29 @@
+{
+ "titulo": "NFS-e Nacional vira obrigatória no Simples amanhã",
+ "css_extra": "",
+ "stories": [
+  "<div class=\"tag\">Começa amanhã</div><p class=\"big\">A nota fiscal de serviço <span class=\"acc\">muda amanhã</span> no Simples.</p><p class=\"mut\">NFS-e Nacional fica obrigatória em 1º de novembro.</p>",
+  "<div class=\"tag\">O que muda</div><p class=\"big\">Sai o sistema da prefeitura. <span class=\"acc\">Entra o nacional.</span></p><p class=\"mut\" style=\"margin-top:30px\">ME e EPP do Simples que prestam serviço passam a emitir pelo Emissor Nacional.</p>",
+  "<div class=\"tag\">Pergunta pra você</div><div class=\"q\">Seu contador já te avisou dessa mudança?</div><p class=\"mut\" style=\"margin-top:40px\">Me responde aqui no direct 👇</p>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Amanhã a nota de serviço <span class=\"acc\">muda</span> pra quem é do Simples.</p>",
+   "texto": "Amanhã (1º/11) a NFS-e Nacional passa a ser obrigatória para ME e EPP do Simples que prestam serviço.\n\nEm vez do sistema da prefeitura, a nota sai pelo Emissor Nacional.\n\nSe você tem empresa de serviço, fale com seu contador hoje. Não deixa para o dia da primeira nota.\n\nSeu contador já avisou?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se parar de vender hoje, <span class=\"acc\">quantos meses</span> o caixa aguenta?</p>",
+   "texto": "Pergunta pra quem tem empresa:\n\nse você parasse de vender hoje, por quantos meses o caixa pagaria aluguel, salários e impostos?\n\nA conta é simples: caixa disponível ÷ custo fixo mensal.\n\nSe der menos de 3, sua empresa está mais frágil do que parece.\n\nQuanto deu aí?"
+  },
+  {
+   "card": "<p class=\"big\">Delegar <span class=\"acc\">não é</span> abandonar.</p><p class=\"mut\" style=\"margin-top:20px\">Delegar é passar a tarefa e acompanhar o resultado.</p>",
+   "texto": "Delegar não é o mesmo que abandonar.\n\nDelegar é passar a tarefa, combinar o resultado esperado e acompanhar.\n\nAbandonar é jogar a tarefa e reclamar depois que não ficou bom.\n\nQuem confunde os dois acaba fazendo tudo sozinho.\n\nQual você faz mais?"
+  }
+ ],
+ "fontes": [
+  "https://fenacon.org.br/reforma-tributaria/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026/",
+  "https://coad.com.br/home/noticias-detalhe/139271/nfs-e-nacional-sera-obrigatoria-para-optantes-do-simples-nacional-a-partir-de-1-11-2026",
+  "https://www.legisweb.com.br/noticia/?id=34185",
+  "https://crcms.org.br/?p=37798"
+ ]
+}
