@@ -18,6 +18,14 @@
   {
    "card": "<p class=\"big\">Delegar <span class=\"acc\">não é</span> abandonar.</p><p class=\"mut\" style=\"margin-top:20px\">Delegar é passar a tarefa e acompanhar o resultado.</p>",
    "texto": "Delegar não é o mesmo que abandonar.\n\nDelegar é passar a tarefa, combinar o resultado esperado e acompanhar.\n\nAbandonar é jogar a tarefa e reclamar depois que não ficou bom.\n\nQuem confunde os dois acaba fazendo tudo sozinho.\n\nQual você faz mais?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Faturamento <span class=\"acc\">não é</span> lucro.</p><p class=\"mut\" style=\"margin-top:20px\">Faturou R$ 100 mil e gastou R$ 90 mil? Sobrou R$ 10 mil.</p>",
+   "texto": "Faturamento não é o mesmo que lucro.\n\nFaturou R$ 100 mil e gastou R$ 90 mil com custos, impostos e despesas? Sobraram R$ 10 mil. Uma margem de 10%.\n\nDá para ter prejuízo mesmo vendendo muito.\n\nVocê sabe qual foi o seu lucro no mês passado, ou só o faturamento?"
+  },
+  {
+   "card": "<div class=\"tag\">Lição de gestão</div><p class=\"big\">Pró-labore é <span class=\"acc\">salário.</span> Lucro é o que sobra.</p>",
+   "texto": "Pró-labore é o seu salário como dono. Lucro é o que sobra depois de pagar tudo, inclusive você.\n\nQuando o dono tira dinheiro do caixa sem regra, mistura os dois e não consegue mais enxergar se a empresa dá resultado.\n\nDefina um valor fixo para você e deixe o resto na empresa.\n\nVocê tem pró-labore definido?"
   }
  ],
  "fontes": [
