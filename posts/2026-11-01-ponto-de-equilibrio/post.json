@@ -28,6 +28,14 @@
   {
    "card": "<div class=\"tag\">A conta</div><p class=\"big\">Reunião sem pauta custa <span class=\"acc\">R$ 15.600 por ano.</span></p><p class=\"mut\" style=\"margin-top:20px\">6 pessoas, 1 hora por semana, R$ 50 a hora.</p>",
    "texto": "Reunião semanal de 1 hora com 6 pessoas.\n\nSe o custo médio é R$ 50 por hora, são R$ 300 por reunião.\n\nR$ 300 x 52 semanas = R$ 15.600 por ano.\n\nSe tem pauta e decisão, vale cada centavo. Se é só para \"alinhar\", pode virar uma mensagem de 5 linhas.\n\nQuantas reuniões da sua semana poderiam ser um texto?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Faturar não é <span class=\"acc\">lucrar.</span></p><p class=\"mut\" style=\"margin-top:20px\">Faturamento é o que entra. Lucro é o que sobra.</p>",
+   "texto": "Empresa que fatura R$ 100 mil por mês não tem R$ 100 mil de lucro.\n\nTira imposto, custo do produto, folha, aluguel, sistemas, comissão.\n\nO que sobra é o lucro. Às vezes são R$ 15 mil. Às vezes é zero. Às vezes é negativo.\n\nFaturamento impressiona. Lucro paga as contas.\n\nVocê sabe quanto sobra no fim do mês?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se você parar de vender hoje, <span class=\"acc\">quantos dias o caixa aguenta?</span></p>",
+   "texto": "Pergunta para quem tem empresa:\n\nse você ficasse 30 dias sem vender nada, o caixa pagaria as contas fixas (aluguel, folha, impostos)?\n\nA conta é simples: caixa disponível ÷ custo fixo mensal = meses de fôlego.\n\nMenos de 1 mês é zona de risco.\n\nQuantos meses a sua empresa aguenta?"
   }
  ],
  "legenda_linkedin": "Muita empresa vende todo mês e não sabe se está lucrando ou só pagando as contas.\n\nO número que responde isso é o ponto de equilíbrio: quantas vendas você precisa fazer para fechar o mês no zero a zero.\n\nUm exemplo simples:\n\nCusto fixo (aluguel, folha, sistemas): R$ 30 mil por mês.\nPreço de venda: R$ 200.\nCustos variáveis por venda (insumo, comissão, imposto): R$ 80.\n\n1. Margem de contribuição: R$ 200 − R$ 80 = R$ 120 por venda.\n\n2. Ponto de equilíbrio em vendas: R$ 30.000 ÷ R$ 120 = 250 vendas por mês.\n\n3. Em faturamento: 250 × R$ 200 = R$ 50 mil. Abaixo disso, prejuízo. Acima, cada venda extra deixa R$ 120 de lucro.\n\nQuer lucrar R$ 10 mil por mês? (R$ 30.000 + R$ 10.000) ÷ R$ 120 = 333,3, ou seja, 334 vendas (cerca de R$ 66,8 mil de faturamento).\n\nPara baixar essa meta: cortar R$ 3 mil de custo fixo leva a 225 vendas; subir o preço em 10% leva a 215; reduzir R$ 10 do custo variável leva a 231. (Conta ilustrativa: cada negócio tem seus números.)\n\nQuem não sabe o ponto de equilíbrio vende no escuro.\n\nQual é o da sua empresa?",
