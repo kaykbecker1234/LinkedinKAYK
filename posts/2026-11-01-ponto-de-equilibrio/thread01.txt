@@ -1,0 +1,8 @@
+Desconto de 10% parece pouco.
+
+Produto de R$ 100, custo de R$ 60: sobram R$ 40.
+Com 10% de desconto, o preço vai a R$ 90 e sobram R$ 30.
+
+Para ganhar o mesmo valor, você precisa vender 33% a mais.
+
+Desconto sem conta é só uma forma cara de se sentir vendendo.

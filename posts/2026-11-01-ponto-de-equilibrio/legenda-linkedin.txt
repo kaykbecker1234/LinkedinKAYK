@@ -1,0 +1,23 @@
+Muita empresa vende todo mês e não sabe se está lucrando ou só pagando as contas.
+
+O número que responde isso é o ponto de equilíbrio: quantas vendas você precisa fazer para fechar o mês no zero a zero.
+
+Um exemplo simples:
+
+Custo fixo (aluguel, folha, sistemas): R$ 30 mil por mês.
+Preço de venda: R$ 200.
+Custos variáveis por venda (insumo, comissão, imposto): R$ 80.
+
+1. Margem de contribuição: R$ 200 − R$ 80 = R$ 120 por venda.
+
+2. Ponto de equilíbrio em vendas: R$ 30.000 ÷ R$ 120 = 250 vendas por mês.
+
+3. Em faturamento: 250 × R$ 200 = R$ 50 mil. Abaixo disso, prejuízo. Acima, cada venda extra deixa R$ 120 de lucro.
+
+Quer lucrar R$ 10 mil por mês? (R$ 30.000 + R$ 10.000) ÷ R$ 120 = 333,3, ou seja, 334 vendas (cerca de R$ 66,8 mil de faturamento).
+
+Para baixar essa meta: cortar R$ 3 mil de custo fixo leva a 225 vendas; subir o preço em 10% leva a 215; reduzir R$ 10 do custo variável leva a 231. (Conta ilustrativa: cada negócio tem seus números.)
+
+Quem não sabe o ponto de equilíbrio vende no escuro.
+
+Qual é o da sua empresa?

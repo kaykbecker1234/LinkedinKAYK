@@ -1,0 +1,37 @@
+{
+ "titulo": "Ponto de equilíbrio: quanto vender para não ter prejuízo",
+ "css_extra": ".story .stat{font-size:170px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Quanto vender para <span class=\"acc\">não ter prejuízo?</span></p><p>A conta do <b>ponto de equilíbrio</b>: o número mínimo de vendas para a empresa fechar o mês no zero a zero.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">O cenário</div><p class=\"big\">Custo fixo de <span class=\"acc\">R$ 30 mil</span></p><div class=\"box\"><p>Aluguel, folha, sistemas: <b>R$ 30 mil por mês</b>, vendendo ou não.</p><p>Você vende a <b>R$ 200</b> e gasta <b>R$ 80</b> com insumo, comissão e imposto em cada venda.</p></div>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 1 de 3</div><p class=\"big\">Margem de <span class=\"acc\">contribuição</span></p><div class=\"box\"><p>Preço − custos variáveis.</p><p>R$ 200 − R$ 80 = <b>R$ 120 por venda.</b></p></div><p class=\"mut\">É o que sobra de cada venda para pagar o custo fixo e depois dar lucro.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 2 de 3</div><div class=\"stat\" style=\"font-size:165px;white-space:nowrap\">250 VENDAS</div><p>Custo fixo ÷ margem de contribuição.</p><p class=\"mut\">R$ 30.000 ÷ R$ 120 = 250 vendas por mês. Conta ilustrativa.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 3 de 3 · Em reais</div><div class=\"stat\">R$ 50 MIL</div><p>250 vendas × R$ 200. <b>Abaixo disso, prejuízo.</b> Acima, lucro.</p><p class=\"mut\">Depois das 250 vendas, cada nova venda deixa R$ 120 de lucro.</p>",
+  "<div class=\"bg\">05</div><div class=\"tag\">E se eu quiser lucrar?</div><p class=\"big\">Meta de <span class=\"acc\">R$ 10 mil</span> de lucro</p><div class=\"box\"><p>(R$ 30.000 + R$ 10.000) ÷ R$ 120 = 333,3.</p><p>Arredonde para cima: <b>334 vendas</b>, cerca de <b>R$ 66,8 mil</b> de faturamento.</p></div>",
+  "<p class=\"big\">3 jeitos de <span class=\"acc\">baixar a meta</span></p><ol><li><span><b>Corte R$ 3 mil de fixo.</b> Cai para 225 vendas.</span></li><li><span><b>Suba o preço 10%.</b> Cai para 215 vendas.</span></li><li><span><b>Reduza R$ 10 do custo variável.</b> Cai para 231 vendas.</span></li></ol><p class=\"mut\">Cada item isolado, sobre o exemplo do slide 2.</p>",
+  "<p class=\"big\">Quem não sabe o ponto de equilíbrio <span class=\"acc\">vende no escuro.</span></p><p>Qual é o da sua empresa? <b>Comenta aqui</b> e manda pro seu sócio.</p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Quantas vendas sua empresa precisa por mês para não ter prejuízo? A conta está lá.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">A conta</div><div class=\"stat\">R$ 30 MIL</div><p>de custo fixo ÷ <b>R$ 120</b> que sobram por venda = <b>250 vendas</b> só para empatar.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você sabe quantas vendas precisa fazer por mês para empatar?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Desconto não é <span class=\"acc\">estratégia.</span></p><p class=\"mut\" style=\"margin-top:20px\">É margem que você entrega de graça.</p>",
+   "texto": "Desconto de 10% parece pouco.\n\nProduto de R$ 100, custo de R$ 60: sobram R$ 40.\nCom 10% de desconto, o preço vai a R$ 90 e sobram R$ 30.\n\nPara ganhar o mesmo valor, você precisa vender 33% a mais.\n\nDesconto sem conta é só uma forma cara de se sentir vendendo."
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quando foi a última vez que você <span class=\"acc\">aumentou o preço?</span></p>",
+   "texto": "Pergunta honesta pra quem tem empresa:\n\nquando foi a última vez que você reajustou seus preços?\n\nSe faz mais de um ano, seus custos provavelmente subiram e sua margem encolheu sem você perceber.\n\nComenta aí: há quanto tempo seu preço está parado?"
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Reunião sem pauta custa <span class=\"acc\">R$ 15.600 por ano.</span></p><p class=\"mut\" style=\"margin-top:20px\">6 pessoas, 1 hora por semana, R$ 50 a hora.</p>",
+   "texto": "Reunião semanal de 1 hora com 6 pessoas.\n\nSe o custo médio é R$ 50 por hora, são R$ 300 por reunião.\n\nR$ 300 x 52 semanas = R$ 15.600 por ano.\n\nSe tem pauta e decisão, vale cada centavo. Se é só para \"alinhar\", pode virar uma mensagem de 5 linhas.\n\nQuantas reuniões da sua semana poderiam ser um texto?"
+  }
+ ],
+ "legenda_linkedin": "Muita empresa vende todo mês e não sabe se está lucrando ou só pagando as contas.\n\nO número que responde isso é o ponto de equilíbrio: quantas vendas você precisa fazer para fechar o mês no zero a zero.\n\nUm exemplo simples:\n\nCusto fixo (aluguel, folha, sistemas): R$ 30 mil por mês.\nPreço de venda: R$ 200.\nCustos variáveis por venda (insumo, comissão, imposto): R$ 80.\n\n1. Margem de contribuição: R$ 200 − R$ 80 = R$ 120 por venda.\n\n2. Ponto de equilíbrio em vendas: R$ 30.000 ÷ R$ 120 = 250 vendas por mês.\n\n3. Em faturamento: 250 × R$ 200 = R$ 50 mil. Abaixo disso, prejuízo. Acima, cada venda extra deixa R$ 120 de lucro.\n\nQuer lucrar R$ 10 mil por mês? (R$ 30.000 + R$ 10.000) ÷ R$ 120 = 333,3, ou seja, 334 vendas (cerca de R$ 66,8 mil de faturamento).\n\nPara baixar essa meta: cortar R$ 3 mil de custo fixo leva a 225 vendas; subir o preço em 10% leva a 215; reduzir R$ 10 do custo variável leva a 231. (Conta ilustrativa: cada negócio tem seus números.)\n\nQuem não sabe o ponto de equilíbrio vende no escuro.\n\nQual é o da sua empresa?",
+ "legenda_instagram": "Quantas vendas sua empresa precisa fazer por mês para não ter prejuízo? 🤔\n\nNo carrossel eu mostro a conta do ponto de equilíbrio passo a passo, com exemplo em reais e 3 jeitos de baixar a meta. 👉\n\nSalva pra fazer a conta da sua empresa e manda pro seu sócio.\n\nComenta: você sabe o seu ponto de equilíbrio?\n\n#empreendedorismo #gestaoempresarial #financas #pontodeequilibrio #empresario",
+ "legenda_threads": "Custo fixo de R$ 30 mil, preço de R$ 200 e custo de R$ 80 por venda. Quantas vendas para não ter prejuízo?\n\nR$ 30.000 ÷ R$ 120 = 250 vendas por mês.\n\nMostrei a conta completa e 3 jeitos de baixar essa meta no carrossel. Você sabe o ponto de equilíbrio da sua empresa?",
+ "fontes": []
+}
