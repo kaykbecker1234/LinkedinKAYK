@@ -1,0 +1,27 @@
+{
+ "titulo": "Dólar subiu 9% na semana: o que fazer com o custo da sua empresa",
+ "css_extra": ".story .stat{font-size:200px;white-space:nowrap}",
+ "stories": [
+  "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Dólar subiu <span class=\"acc\">9% em uma semana</span></p><p>A maior alta semanal desde 2008. Se você compra algo importado, a sua conta mudou.</p>",
+  "<div class=\"tag\">A conta</div><div class=\"stat\">+9%</div><p>Insumo de <b>R$ 1.000</b> atrelado ao dólar passa a custar cerca de <b>R$ 1.090</b>. O dólar fechou a R$ 5,44 na sexta (30/10).</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Algum custo da sua empresa acompanha o dólar? Você já refez o preço?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Dólar +9% em uma semana. <span class=\"acc\">Seu preço acompanhou?</span></p>",
+   "texto": "O dólar fechou a R$ 5,44 na sexta, alta de 9% na semana. Foi a maior desde 2008.\n\nUma conta simples:\n\nProduto vendido a R$ 100, com R$ 60 de custo atrelado ao dólar. Sobram R$ 40.\n\nCom o custo 9% maior, vai a R$ 65,40. Sobram R$ 34,60.\n\nO lucro por unidade caiu 13,5% sem você vender nada diferente.\n\nVocê já refez o preço?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quando foi a última vez que você <span class=\"acc\">revisou seu preço?</span></p>",
+   "texto": "Pergunta honesta para quem tem empresa:\n\nQuando foi a última vez que você revisou o preço de venda com os custos de hoje?\n\nSe a resposta é \"não lembro\", seu preço provavelmente está defasado.\n\nComenta aí há quanto tempo foi a sua última revisão."
+  },
+  {
+   "card": "<div class=\"tag\">Lição de gestão</div><p class=\"big\">Margem não some de uma vez. <span class=\"acc\">Ela vaza.</span></p>",
+   "texto": "Margem não desaparece de uma vez.\n\nEla vaza aos poucos: um fornecedor que reajustou, um custo que subiu, um preço que ninguém revisou.\n\nQuando o câmbio ou o custo mudam, o preço também precisa ser olhado.\n\nO que não é medido todo mês vira prejuízo de rodapé."
+  }
+ ],
+ "fontes": [
+  "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008",
+  "https://www.moneytimes.com.br/dolar-30-10-26-lils/"
+ ]
+}
