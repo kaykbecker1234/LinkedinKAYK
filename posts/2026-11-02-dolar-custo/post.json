@@ -18,6 +18,14 @@
   {
    "card": "<div class=\"tag\">Lição de gestão</div><p class=\"big\">Margem não some de uma vez. <span class=\"acc\">Ela vaza.</span></p>",
    "texto": "Margem não desaparece de uma vez.\n\nEla vaza aos poucos: um fornecedor que reajustou, um custo que subiu, um preço que ninguém revisou.\n\nQuando o câmbio ou o custo mudam, o preço também precisa ser olhado.\n\nO que não é medido todo mês vira prejuízo de rodapé."
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Faturar não é o mesmo que <span class=\"acc\">lucrar.</span></p>",
+   "texto": "Faturar não é o mesmo que lucrar.\n\nEmpresa que fatura R$ 100 mil e gasta R$ 95 mil entre custos, impostos e despesas fica com R$ 5 mil. Margem de 5%.\n\nSe o dono tira R$ 8 mil por mês \"do lucro\", está tirando mais do que a empresa gerou.\n\nFaturamento impressiona. Lucro paga as contas.\n\nVocê sabe qual é a sua margem?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Do que você tira da empresa, quanto é <span class=\"acc\">salário e quanto é lucro?</span></p>",
+   "texto": "Pergunta para quem é dono de empresa:\n\nDo dinheiro que você tira todo mês, quanto é pró-labore (o seu salário) e quanto é lucro?\n\nSe você não sabe separar, mistura o seu bolso com o caixa da empresa. E aí fica difícil saber se o negócio realmente dá resultado.\n\nComenta: você separa os dois?"
   }
  ],
  "fontes": [
