@@ -28,6 +28,14 @@
   {
    "card": "<p class=\"big\">Barato não é <span class=\"acc\">diferencial.</span></p><p class=\"mut\" style=\"margin-top:20px\">É falta de conta.</p>",
    "texto": "Preço baixo não é estratégia. Na maioria das vezes é falta de conta.\n\nQuem não sabe o próprio custo copia o preço do concorrente.\n\nE o concorrente pode estar perdendo dinheiro também.\n\nCalcule o seu custo antes de olhar o preço dos outros."
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><div class=\"stat\">−50%</div><p style=\"margin-top:40px\">no lucro com um desconto de <b>10%</b>, se a sua margem é de 20%.</p>",
+   "texto": "Desconto de 10% parece pouco. Não é.\n\nPreço R$ 100, custo R$ 80, lucro R$ 20.\n\nCom 10% de desconto: preço R$ 90, custo R$ 80, lucro R$ 10.\n\nVocê perdeu metade do lucro. Pra compensar, precisa vender o dobro.\n\nAntes de dar desconto, olhe a sua margem."
+  },
+  {
+   "card": "<p class=\"big\">Retirada não é <span class=\"acc\">pró-labore.</span></p><p class=\"mut\" style=\"margin-top:20px\">Tirar dinheiro do caixa quando precisa não é salário.</p>",
+   "texto": "Retirada não é pró-labore.\n\nSe você tira dinheiro do caixa quando precisa, sem valor definido, a empresa não sabe quanto custa ter você.\n\nResultado: o lucro que aparece na planilha não é o lucro real.\n\nDefina um valor fixo pro seu salário. O que sobrar depois disso é lucro.\n\nVocê tem pró-labore definido?"
   }
  ],
  "legenda_linkedin": "Cobrar \"no olho\" é um dos jeitos mais comuns de trabalhar de graça.\n\nA conta para saber quanto custa a sua hora tem 4 passos:\n\n1. Some todos os custos do mês, incluindo o seu pró-labore. Exemplo: R$ 18.000.\n\n2. Conte as horas que dá para cobrar. Reunião, proposta e cliente que some não entram. Com 160 horas e 60% faturável, são 96 horas.\n\n3. Divida: R$ 18.000 ÷ 96 = R$ 187,50. Esse é o mínimo para empatar.\n\n4. Some o lucro. Para 20% de lucro sobre o preço, divida por 0,80 (não multiplique por 1,20): R$ 187,50 ÷ 0,80 = R$ 234,38 por hora.\n\nQuem cobra R$ 150 por hora nesse exemplo fatura R$ 14.400 contra R$ 18.000 de custo. São R$ 3.600 de prejuízo por mês, escondidos no preço.\n\nOs 60% são um exemplo. Meça o percentual real da sua equipe. E se você paga imposto sobre a venda, ele entra na divisão junto com o lucro.\n\nPreço sem conta é palpite.\n\nVocê sabe quanto custa a hora da sua empresa hoje?",
