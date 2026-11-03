@@ -1,0 +1,37 @@
+{
+ "titulo": "Quanto custa a sua hora? A conta de 4 passos",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Você sabe quanto custa <span class=\"acc\">a sua hora?</span></p><p>Cobrar \"no olho\" é o jeito mais comum de <b>trabalhar de graça</b>. A conta em 4 passos.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 4</div><p class=\"big\">Some os <span class=\"acc\">custos</span> do mês</p><div class=\"box\"><p>Aluguel, salários, sistemas, contador, marketing, impostos fixos e <b>o seu pró-labore.</b></p><p>Exemplo: <b>R$ 18.000</b> por mês.</p></div>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 4</div><p class=\"big\">Conte as horas <span class=\"acc\">que dá pra cobrar</span></p><div class=\"box\"><p>160 h no mês, mas reunião, proposta e cliente que some não entram na conta.</p><p>Supondo 60% faturável: 160 × 0,60 = <b>96 horas.</b></p></div><p class=\"mut\">60% é um exemplo. Meça o seu número real.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 4 · Custo da hora</div><div class=\"stat\">R$ 187,50</div><p>R$ 18.000 ÷ 96 horas. <b>É o mínimo para empatar.</b></p><p class=\"mut\">Abaixo disso, cada hora vendida tira dinheiro do seu bolso.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 4</div><p class=\"big\">Agora some o <span class=\"acc\">lucro</span></p><div class=\"box\"><p>Quer 20% de lucro sobre o preço? <b>Divida por 0,80.</b> Não multiplique por 1,20.</p><p>R$ 187,50 ÷ 0,80 = <b>R$ 234,38 por hora.</b></p></div><p class=\"mut\">Paga imposto sobre a venda? Ele entra na divisão: 1 − lucro − imposto.</p>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Cobro R$ 150, tá bom”</div><div>“Cobro R$ 234 e sei por quê”</div><div>“Aceito qualquer cliente”</div><div>“Sei meu preço mínimo”</div><div>“Hora vazia é normal”</div><div>“Hora vazia também custa”</div></div>",
+  "<div class=\"tag\">O custo do achismo</div><div class=\"stat\">− R$ 3.600</div><p>por mês. Cobrando <b>R$ 150/h</b> em 96 horas entram R$ 14.400. O custo é R$ 18.000.</p><p class=\"mut\">Parece que fecha o mês. Na prática, o prejuízo está escondido no preço.</p>",
+  "<p class=\"big\">Preço sem conta é <span class=\"acc\">palpite.</span></p><p>Qual é o <b>custo da sua hora?</b> Comenta aqui e manda pro sócio.</p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Quanto custa a sua hora? A conta em 4 passos.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 187,50</div><p>R$ 18 mil de custo ÷ 96 horas cobráveis. <b>Cobrar menos que isso é pagar para trabalhar.</b></p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você sabe quanto custa uma hora da sua empresa?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Qual o <span class=\"acc\">preço mínimo</span> que você aceita?</p>",
+   "texto": "Pergunta direta pra quem vende serviço:\n\nqual é o menor preço por hora que você aceita sem sair no prejuízo?\n\nSe você não sabe responder na hora, está precificando no feeling.\n\nEu expliquei a conta no carrossel de hoje. Me conta o seu número aqui."
+  },
+  {
+   "card": "<div class=\"tag\">A conta</div><p class=\"big\">Calote de R$ 10 mil = <span class=\"acc\">R$ 50 mil</span> em vendas.</p><p class=\"mut\" style=\"margin-top:20px\">Com margem de 20%: 10.000 ÷ 0,20.</p>",
+   "texto": "Cliente que não paga custa mais do que parece.\n\nSe a sua margem é de 20%, cada R$ 100 vendidos deixam R$ 20.\n\nUm calote de R$ 10 mil exige R$ 50 mil em vendas novas só para repor.\n\nR$ 10.000 ÷ 0,20 = R$ 50.000.\n\nÀs vezes vender menos e cobrar melhor vale mais do que vender para todo mundo."
+  },
+  {
+   "card": "<p class=\"big\">Barato não é <span class=\"acc\">diferencial.</span></p><p class=\"mut\" style=\"margin-top:20px\">É falta de conta.</p>",
+   "texto": "Preço baixo não é estratégia. Na maioria das vezes é falta de conta.\n\nQuem não sabe o próprio custo copia o preço do concorrente.\n\nE o concorrente pode estar perdendo dinheiro também.\n\nCalcule o seu custo antes de olhar o preço dos outros."
+  }
+ ],
+ "legenda_linkedin": "Cobrar \"no olho\" é um dos jeitos mais comuns de trabalhar de graça.\n\nA conta para saber quanto custa a sua hora tem 4 passos:\n\n1. Some todos os custos do mês, incluindo o seu pró-labore. Exemplo: R$ 18.000.\n\n2. Conte as horas que dá para cobrar. Reunião, proposta e cliente que some não entram. Com 160 horas e 60% faturável, são 96 horas.\n\n3. Divida: R$ 18.000 ÷ 96 = R$ 187,50. Esse é o mínimo para empatar.\n\n4. Some o lucro. Para 20% de lucro sobre o preço, divida por 0,80 (não multiplique por 1,20): R$ 187,50 ÷ 0,80 = R$ 234,38 por hora.\n\nQuem cobra R$ 150 por hora nesse exemplo fatura R$ 14.400 contra R$ 18.000 de custo. São R$ 3.600 de prejuízo por mês, escondidos no preço.\n\nOs 60% são um exemplo. Meça o percentual real da sua equipe. E se você paga imposto sobre a venda, ele entra na divisão junto com o lucro.\n\nPreço sem conta é palpite.\n\nVocê sabe quanto custa a hora da sua empresa hoje?",
+ "legenda_instagram": "Você sabe quanto custa a sua hora? ⏱️\n\nCobrar \"no olho\" é o jeito mais comum de trabalhar de graça.\n\nNo carrossel: a conta em 4 passos, com exemplo em reais.\n\n01 Some os custos\n02 Conte as horas cobráveis\n03 Divida\n04 Some o lucro\n\nSalva pra fazer a conta da sua empresa e manda pro sócio. 👉\n\nComenta: qual é o custo da sua hora?\n\n#empreendedorismo #gestaoempresarial #precificacao #financas #empresario",
+ "legenda_threads": "Cobrar no olho é trabalhar de graça.\n\nCustos do mês ÷ horas que dá pra cobrar = custo da sua hora. Depois some o lucro.\n\nNo carrossel tem a conta completa com exemplo em reais. Você sabe o seu número?",
+ "fontes": []
+}
