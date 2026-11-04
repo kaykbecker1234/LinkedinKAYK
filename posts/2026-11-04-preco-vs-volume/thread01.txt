@@ -1,0 +1,9 @@
+Faturamento não é lucro.
+
+Empresa que fatura R$ 100 mil com margem de 5% sobra R$ 5 mil.
+
+Empresa que fatura R$ 60 mil com margem de 20% sobra R$ 12 mil.
+
+A menor ganha mais que o dobro.
+
+Você acompanha o faturamento ou a margem?

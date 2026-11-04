@@ -1,0 +1,25 @@
+{
+ "titulo": "Aumentar 10% o preço ou vender 10% a mais?",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "stories": [
+  "<p class=\"big\">Subir <span class=\"acc\">10% o preço</span> ou vender 10% a mais?</p><p>Qual rende mais lucro? A conta vem nos próximos stories.</p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">LUCRO ×2</div><p>1.000 vendas a R$ 100, custo variável de R$ 60, fixo de R$ 30 mil: lucro de R$ 10 mil. <b>Preço +10% = R$ 20 mil.</b> Vender +10% = R$ 14 mil.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Quando foi o último reajuste de preço da sua empresa?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<p class=\"big\">Faturamento não é <span class=\"acc\">lucro.</span></p><p class=\"mut\" style=\"margin-top:20px\">Faturar R$ 100 mil com 5% de margem deixa R$ 5 mil.</p>",
+   "texto": "Faturamento não é lucro.\n\nEmpresa que fatura R$ 100 mil com margem de 5% sobra R$ 5 mil.\n\nEmpresa que fatura R$ 60 mil com margem de 20% sobra R$ 12 mil.\n\nA menor ganha mais que o dobro.\n\nVocê acompanha o faturamento ou a margem?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se você parasse de vender por <span class=\"acc\">30 dias?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nse você ficasse 30 dias sem vender nada, o caixa pagaria as contas?\n\nSe a resposta é \"não sei\", esse é o primeiro número que você precisa descobrir.\n\nSoma dos custos fixos do mês = o quanto você precisa ter guardado por mês de folga.\n\nQuantos meses o seu caixa aguenta?"
+  },
+  {
+   "card": "<p class=\"big\">Meta vaga gera <span class=\"acc\">time perdido.</span></p><p class=\"mut\" style=\"margin-top:20px\">Todo mundo trabalha. Ninguém sabe pra onde.</p>",
+   "texto": "Time que não bate meta quase nunca tem problema de talento.\n\nTem problema de meta.\n\n\"Vender mais\" não é meta. \"R$ 80 mil até dia 30, sendo R$ 20 mil por pessoa\" é.\n\nMeta com número, prazo e dono vira rotina. Meta vaga vira esperança."
+  }
+ ],
+ "legenda_linkedin": "",
+ "fontes": []
+}
