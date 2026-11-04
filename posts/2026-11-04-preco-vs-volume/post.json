@@ -18,6 +18,14 @@
   {
    "card": "<p class=\"big\">Meta vaga gera <span class=\"acc\">time perdido.</span></p><p class=\"mut\" style=\"margin-top:20px\">Todo mundo trabalha. Ninguém sabe pra onde.</p>",
    "texto": "Time que não bate meta quase nunca tem problema de talento.\n\nTem problema de meta.\n\n\"Vender mais\" não é meta. \"R$ 80 mil até dia 30, sendo R$ 20 mil por pessoa\" é.\n\nMeta com número, prazo e dono vira rotina. Meta vaga vira esperança."
+  },
+  {
+   "card": "<p class=\"big\">Vender a prazo é <span class=\"acc\">financiar o cliente.</span></p><p class=\"mut\" style=\"margin-top:20px\">Você paga o fornecedor hoje e recebe em 90 dias.</p>",
+   "texto": "Vender em 3x sem juros parece ótimo.\n\nMas se você paga o fornecedor à vista e recebe em 30, 60 e 90 dias, você está financiando o cliente com o seu caixa.\n\nVenda de R$ 30 mil assim deixa R$ 20 mil do seu dinheiro na rua por até 2 meses.\n\nAntes de parcelar, pergunta: meu caixa aguenta esperar?"
+  },
+  {
+   "card": "<p class=\"big\">Ocupado não é <span class=\"acc\">produtivo.</span></p><p class=\"mut\" style=\"margin-top:20px\">Agenda cheia e resultado parado é sinal de alerta.</p>",
+   "texto": "Dono de empresa ocupado não é o mesmo que dono de empresa produtivo.\n\nSe você passa o dia apagando incêndio, apagar incêndio virou o seu cargo.\n\nProcesso escrito e responsável definido tiram você da operação.\n\nO que você ainda faz na empresa que alguém do time já poderia fazer?"
   }
  ],
  "legenda_linkedin": "",
