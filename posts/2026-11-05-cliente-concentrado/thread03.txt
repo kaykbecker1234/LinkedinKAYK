@@ -1,0 +1,9 @@
+Desconto não é estratégia de venda. É corte no seu lucro.
+
+Produto de R$ 100 com custo variável de R$ 60 deixa R$ 40.
+
+Com 10% de desconto, deixa R$ 30. O lucro por venda caiu 25%.
+
+Para voltar ao mesmo resultado, você precisa vender 33% a mais.
+
+Vale mesmo a pena dar desconto?

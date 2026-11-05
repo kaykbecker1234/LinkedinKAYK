@@ -1,0 +1,39 @@
+{
+ "titulo": "Um cliente paga metade da sua conta? O risco da dependência",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Um cliente paga <span class=\"acc\">metade</span> da sua conta?</p><p>O risco que <b>ninguém vê</b> até o dia em que ele vai embora.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 4</div><p class=\"big\">Calcule a <span class=\"acc\">concentração</span></p><div class=\"box\"><p>Faturamento do cliente ÷ faturamento total do mês.</p><p>Exemplo: R$ 40 mil de R$ 100 mil = <b>40% da receita</b> em uma única empresa.</p></div>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 4 · A conta</div><div class=\"stat\">-R$ 4 MIL</div><p>Faturando R$ 100 mil, com <b>35% de margem</b> e R$ 25 mil de custo fixo, você lucra R$ 10 mil.</p><p class=\"mut\">Sem o cliente de R$ 40 mil: 60 × 35% = R$ 21 mil. Menos R$ 25 mil de custo fixo. Prejuízo de R$ 4 mil por mês.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 4</div><p class=\"big\">Cliente grande <span class=\"acc\">manda em você</span></p><div class=\"box\"><p>Pede desconto. Pede prazo de 60 dias. Pede urgência.</p><p>E você aceita, porque <b>não pode perdê-lo.</b></p></div><p class=\"mut\">Quem depende de um cliente deixa de negociar.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 4</div><p class=\"big\">Quanto é <span class=\"acc\">demais?</span></p><div class=\"box\"><p>Regra prática de mercado: nenhum cliente acima de <b>20% a 30%</b> da receita.</p><p>Não é lei. É um alerta para você agir antes que vire problema.</p></div>",
+  "<p class=\"big\" style=\"font-size:84px\">Como se <span class=\"acc\">proteger</span></p><ol><li>Prospecte todo mês, mesmo com a agenda cheia.</li><li>Defina uma meta de novos clientes.</li><li>Feche contrato com prazo e aviso prévio.</li><li>Guarde 3 meses de custo fixo em caixa.</li></ol>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Ele é meu melhor cliente”</div><div>“Ele é 40% da minha receita”</div><div>“Nunca vai sair”</div><div>“Se sair, tenho 3 meses de caixa”</div><div>“Aceito o desconto”</div><div>“Negocio, porque não dependo dele”</div></div>",
+  "<p class=\"big\">Cliente grande é bênção. <span class=\"acc\">Dependência é risco.</span></p><p>Qual % da sua receita vem do seu <b>maior cliente?</b> Comenta aqui.</p>"
+ ],
+ "stories": [
+  "<div class=\"tag\">Novo post no feed</div><p class=\"big\">Um cliente paga <span class=\"acc\">metade</span> da sua conta?</p><p>Saiu o carrossel sobre o risco de depender de um cliente só.</p>",
+  "<div class=\"tag\">A conta</div><div class=\"stat\">-R$ 4 MIL</div><p>Empresa que fatura <b>R$ 100 mil</b> e perde o cliente de <b>R$ 40 mil</b> passa de lucro de R$ 10 mil para prejuízo. O custo fixo não cai.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Quantos % da sua receita vêm do seu maior cliente?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Frase de impacto</div><p class=\"big\">Cliente que você não pode perder <span class=\"acc\">é dono da sua empresa.</span></p>",
+   "texto": "Cliente que você não pode perder deixou de ser cliente.\n\nVirou o dono da sua empresa.\n\nEle define o preço, o prazo e a urgência. Você só executa.\n\nSe um único cliente paga mais de 30% da sua receita, o seu próximo passo é conquistar outros."
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se você tirasse <span class=\"acc\">15 dias de férias?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nSe você sumisse por 15 dias, a empresa continuaria vendendo e entregando?\n\nSe a resposta é \"não\", o negócio ainda depende de você, e não de processo.\n\nQual tarefa só você faz hoje? Comenta."
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Desconto não é estratégia. <span class=\"acc\">É corte no lucro.</span></p>",
+   "texto": "Desconto não é estratégia de venda. É corte no seu lucro.\n\nProduto de R$ 100 com custo variável de R$ 60 deixa R$ 40.\n\nCom 10% de desconto, deixa R$ 30. O lucro por venda caiu 25%.\n\nPara voltar ao mesmo resultado, você precisa vender 33% a mais.\n\nVale mesmo a pena dar desconto?"
+  }
+ ],
+ "legenda_linkedin": "Cliente grande é ótimo. Até o dia em que ele vai embora.\n\nSe um único cliente paga 40% da sua receita, ele não é só cliente. Ele é um risco para a empresa.\n\nA conta, com números de exemplo:\n\nFaturamento de R$ 100 mil, margem de 35% e custo fixo de R$ 25 mil. Lucro: R$ 10 mil.\n\nO cliente de R$ 40 mil sai. Sobram R$ 60 mil de faturamento, R$ 21 mil de margem e os mesmos R$ 25 mil de custo fixo. Resultado: prejuízo de R$ 4 mil por mês.\n\nO pior é o que acontece antes disso. Quem depende de um cliente aceita desconto, prazo de 60 dias e urgência, porque não pode perdê-lo.\n\nUma regra prática de mercado (não é lei): nenhum cliente acima de 20% a 30% da receita.\n\nPara se proteger:\n1. Prospecte todo mês, mesmo com a agenda cheia.\n2. Defina meta de novos clientes.\n3. Feche contrato com prazo e aviso prévio.\n4. Guarde 3 meses de custo fixo em caixa.\n\nQual % da sua receita vem do seu maior cliente?",
+ "legenda_instagram": "Seu melhor cliente pode ser o seu maior risco. 👀\n\nSe um cliente paga 40% da sua receita e sai, o custo fixo continua. No exemplo do carrossel, a empresa passa de R$ 10 mil de lucro para R$ 4 mil de prejuízo por mês.\n\nArrasta pro lado e faça a conta da sua empresa. 👉\n\nSalva esse post e manda pro seu sócio.\n\nComenta: quantos % da sua receita vêm do seu maior cliente?\n\n#empreendedorismo #gestaoempresarial #financas #empresario #negocios",
+ "legenda_threads": "Um cliente paga 40% da sua receita e sai.\n\nO custo fixo continua. Uma empresa que lucrava R$ 10 mil por mês passa a ter R$ 4 mil de prejuízo.\n\nFiz a conta no carrossel. Quantos % da sua receita vêm do seu maior cliente?",
+ "fontes": [
+  "Conteúdo educativo com contas ilustrativas (sem fonte externa)"
+ ]
+}
