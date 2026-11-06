@@ -18,6 +18,14 @@
   {
    "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se seu melhor funcionário <span class=\"acc\">saísse amanhã?</span></p>",
    "texto": "Pergunta para dono de empresa:\n\nse o seu melhor funcionário pedisse demissão amanhã, o que pararia de funcionar?\n\nSe a resposta é \"muita coisa\", o problema não é ele sair. É o conhecimento morar só na cabeça dele.\n\nProcesso escrito protege a empresa de qualquer saída.\n\nO que na sua empresa só uma pessoa sabe fazer?"
+  },
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><p class=\"big\">Reunião sem pauta <span class=\"acc\">queima dinheiro.</span></p><p class=\"mut\" style=\"margin-top:20px\">8 pessoas, 1 hora, custo médio de R$ 50 por hora: R$ 400 por reunião.</p>",
+   "texto": "Reunião sem pauta é custo, não gestão.\n\n8 pessoas numa reunião de 1 hora, com custo médio de R$ 50 por hora cada, são R$ 400 a cada encontro.\n\nSe isso acontece 3 vezes por semana, são R$ 4.800 por mês, só em tempo parado.\n\nAntes de marcar: qual é a decisão que sai dessa reunião? Se não tem, mande um resumo por escrito.\n\nQuantas reuniões da sua semana têm pauta?"
+  },
+  {
+   "card": "<p class=\"big\">Prazo de <span class=\"acc\">30 dias</span> pro cliente e 7 pro fornecedor?</p><p class=\"mut\" style=\"margin-top:20px\">Você está financiando o seu cliente.</p>",
+   "texto": "Você dá 30 dias de prazo pro cliente e paga o fornecedor em 7?\n\nEntão você financia o seu cliente com o seu caixa. São 23 dias em que o dinheiro já saiu e ainda não voltou.\n\nÉ por isso que empresa lucrativa quebra: o lucro existe no papel, mas o caixa acaba antes.\n\nNegocie prazo maior com o fornecedor ou reduza o prazo de recebimento.\n\nQual é o seu prazo médio de recebimento hoje?"
   }
  ],
  "legenda_linkedin": "",
