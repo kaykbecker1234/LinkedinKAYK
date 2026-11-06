@@ -1,0 +1,25 @@
+{
+ "titulo": "Caixa da empresa não é a sua conta pessoal",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "stories": [
+  "<p class=\"big\">Você paga a <span class=\"acc\">conta de casa</span> com o caixa da empresa?</p><p>Esse hábito esconde o lucro real. A conta vem nos próximos stories.</p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 90 MIL</div><p>Empresa lucra R$ 20 mil por mês e o dono retira R$ 35 mil. O caixa perde <b>R$ 15 mil por mês.</b> Em 6 meses, R$ 90 mil a menos.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Quanto você retira por mês e quanto a empresa realmente lucra?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<p class=\"big\">Retirada não é <span class=\"acc\">lucro.</span></p><p class=\"mut\" style=\"margin-top:20px\">Se o dono tira mais do que a empresa lucra, o caixa paga a diferença.</p>",
+   "texto": "Retirada do dono não é lucro da empresa.\n\nEmpresa que lucra R$ 20 mil e o dono tira R$ 35 mil está gastando R$ 15 mil do caixa todo mês.\n\nEm 6 meses, são R$ 90 mil a menos, e o balanço ainda pode parecer \"no azul\".\n\nDefina um valor fixo de retirada e deixe o lucro de verdade ficar na empresa.\n\nVocê sabe a diferença entre os dois?"
+  },
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><p class=\"big\">Desconto de 10% <span class=\"acc\">custa 33% do lucro.</span></p>",
+   "texto": "Desconto de 10% parece pouco.\n\nProduto a R$ 100, custo de R$ 70: lucro de R$ 30.\n\nCom 10% de desconto, o preço vai a R$ 90 e o lucro cai para R$ 20. Perdeu 33% do lucro.\n\nPra compensar, você precisa vender 50% a mais.\n\nAntes de dar desconto, faça essa conta."
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se seu melhor funcionário <span class=\"acc\">saísse amanhã?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nse o seu melhor funcionário pedisse demissão amanhã, o que pararia de funcionar?\n\nSe a resposta é \"muita coisa\", o problema não é ele sair. É o conhecimento morar só na cabeça dele.\n\nProcesso escrito protege a empresa de qualquer saída.\n\nO que na sua empresa só uma pessoa sabe fazer?"
+  }
+ ],
+ "legenda_linkedin": "",
+ "fontes": []
+}

@@ -1,0 +1,9 @@
+Desconto de 10% parece pouco.
+
+Produto a R$ 100, custo de R$ 70: lucro de R$ 30.
+
+Com 10% de desconto, o preço vai a R$ 90 e o lucro cai para R$ 20. Perdeu 33% do lucro.
+
+Pra compensar, você precisa vender 50% a mais.
+
+Antes de dar desconto, faça essa conta.
