@@ -28,6 +28,14 @@
   {
    "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quando foi a última vez que você <span class=\"acc\">renegociou</span> com o fornecedor?</p>",
    "texto": "Pergunta para dono de empresa:\n\nquando foi a última vez que você renegociou preço ou prazo com seu fornecedor?\n\nSe você compra R$ 40 mil por mês e consegue 5% de desconto, são R$ 2 mil por mês, ou R$ 24 mil por ano. Sem vender nada a mais.\n\nPedir custa uma conversa. Não pedir custa todo mês.\n\nQual fornecedor você deveria chamar essa semana?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Faturamento <span class=\"acc\">não é lucro.</span></p><p class=\"mut\" style=\"margin-top:20px\">Fatura R$ 200 mil, sobra R$ 15 mil.</p>",
+   "texto": "Faturamento não é lucro.\n\nEmpresa que fatura R$ 200 mil num mês e gasta R$ 185 mil com custos e despesas fica com R$ 15 mil. Isso é 7,5% de margem.\n\nMuita gente comemora o R$ 200 mil e nem olha o R$ 15 mil.\n\nQuem cresce só o faturamento pode estar crescendo o problema.\n\nVocê sabe qual é a sua margem hoje?"
+  },
+  {
+   "card": "<div class=\"tag\">Frase de impacto</div><p class=\"big\">Dono sem <span style=\"white-space:nowrap\">pró-labore</span> <span class=\"acc\">não sabe o lucro real.</span></p>",
+   "texto": "Dono que não se paga pró-labore não sabe o lucro real da empresa.\n\nExemplo: a empresa lucra R$ 10 mil por mês, mas o dono trabalha nela o dia todo. Se o trabalho dele valeria R$ 8 mil no mercado, o lucro de verdade é R$ 2 mil.\n\nMisturar o seu salário com o lucro esconde o quanto o negócio rende.\n\nQuanto você se paga hoje?"
   }
  ],
  "legenda_linkedin": "Muita empresa lucra no papel e fica sem dinheiro no caixa. Um dos motivos é o estoque parado.\n\nEstoque é dinheiro que já saiu da sua conta e ainda não voltou.\n\nA conta: duas empresas com R$ 100 mil em estoque cada, lucro bruto de 40% sobre o custo (exemplo ilustrativo).\n\nEmpresa A gira o estoque 4 vezes ao ano. Vende R$ 400 mil em custo e tem R$ 160 mil de lucro bruto.\n\nEmpresa B gira 2 vezes ao ano. Vende R$ 200 mil em custo e tem R$ 80 mil de lucro bruto.\n\nMesmo dinheiro investido, metade do resultado.\n\nComo calcular o seu giro:\n1. Custo do que você vendeu nos últimos 12 meses.\n2. Divida pelo estoque médio.\n3. Divida 365 pelo resultado e veja quantos dias o estoque fica parado.\n\nComo destravar: liste o que não vende há 90 dias (regra prática, ajuste ao seu setor), faça promoção ou combo, compre menos e com mais frequência e negocie prazo com o fornecedor.\n\nEstoque parado não aparece no prejuízo. Aparece no caixa.\n\nQual item da sua empresa está parado há mais tempo?",
