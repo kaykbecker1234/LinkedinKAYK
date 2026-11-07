@@ -1,0 +1,37 @@
+{
+ "titulo": "Estoque parado é dinheiro parado",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Seu estoque é <span class=\"acc\">dinheiro parado?</span></p><p>A conta que mostra quanto o <b>giro</b> vale no seu lucro.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Conceito</div><p class=\"big\">Giro de <span class=\"acc\">estoque</span></p><div class=\"box\"><p>Quantas vezes o estoque <b>vira venda</b> em um ano.</p><p>Custo do que você vendeu no ano ÷ estoque médio.</p></div>",
+  "<div class=\"bg\">02</div><div class=\"tag\">A conta · Dois estoques iguais</div><p class=\"big\" style=\"font-size:84px\">Mesmo dinheiro, <span class=\"acc\">lucro diferente</span></p><div class=\"vs\"><div class=\"hd\">Empresa A</div><div class=\"hd r\">Empresa B</div><div>Estoque: R$ 100 mil</div><div>Estoque: R$ 100 mil</div><div>Giro: 4 vezes ao ano</div><div>Giro: 2 vezes ao ano</div><div>Lucro bruto: R$ 160 mil</div><div>Lucro bruto: R$ 80 mil</div></div><p class=\"mut\">Exemplo com lucro bruto de 40% sobre o custo.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">O que isso significa</div><div class=\"stat\">2X</div><p>Com o mesmo dinheiro no estoque, a empresa A ganha <b>o dobro.</b></p><p class=\"mut\">A: o produto fica cerca de 91 dias parado (365 ÷ 4). B: cerca de 183 dias.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">O custo escondido</div><div class=\"stat\">R$ 1 MIL</div><p>por mês é o que R$ 100 mil parados <b>deixam de render</b> se o dinheiro estivesse aplicado a 1% ao mês.</p><p class=\"mut\">Exemplo ilustrativo. Fora o risco de perda, validade e desvalorização.</p>",
+  "<p class=\"big\" style=\"font-size:84px\">Calcule o seu <span class=\"acc\">giro</span></p><ol><li>Pegue o custo do que vendeu nos últimos 12 meses.</li><li>Divida pelo estoque médio do período.</li><li>Divida 365 pelo resultado: são os dias de estoque.</li></ol>",
+  "<p class=\"big\" style=\"font-size:84px\">Como destravar o <span class=\"acc\">caixa</span></p><ol><li>Liste o que não vende há 90 dias ou mais.</li><li>Faça promoção ou combo para girar esses itens.</li><li>Compre menos, e com mais frequência.</li><li>Negocie prazo maior com o fornecedor.</li></ol><p class=\"mut\">Os 90 dias são uma regra prática, ajuste ao seu setor.</p>",
+  "<p class=\"big\">Estoque parado não aparece no prejuízo. <span class=\"acc\">Aparece no caixa.</span></p><p>Qual item da sua empresa está <b>parado há mais tempo?</b> Comenta aqui.</p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Seu estoque está <span class=\"acc\">parado?</span></p><p>Hoje tem carrossel novo no feed: a conta do giro de estoque.</p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">2X</div><p>Dois estoques de R$ 100 mil. Um gira 4 vezes ao ano, o outro 2. <b>O primeiro lucra o dobro</b> com o mesmo dinheiro.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Qual produto da sua empresa está parado há mais tempo?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<p class=\"big\">Delegar não é <span class=\"acc\">largar.</span></p><p class=\"mut\" style=\"margin-top:20px\">Delegar é passar a tarefa com prazo, padrão e retorno combinados.</p>",
+   "texto": "Delegar não é largar a tarefa na mão de alguém.\n\nDelegar é combinar três coisas: o resultado esperado, o prazo e quando você vai olhar o andamento.\n\nSem isso, a tarefa volta pra você errada, e você conclui que \"ninguém faz direito\".\n\nO problema, muitas vezes, é o combinado que não existiu.\n\nVocê delega o resultado ou só a tarefa?"
+  },
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><p class=\"big\">Calote de 5% <span class=\"acc\">come metade do lucro.</span></p><p class=\"mut\" style=\"margin-top:20px\">Com margem líquida de 10%.</p>",
+   "texto": "Inadimplência de 5% parece pouco.\n\nEmpresa que fatura R$ 100 mil e lucra R$ 10 mil: se 5% dos clientes não pagam, são R$ 5 mil a menos, e os custos continuam os mesmos.\n\nO lucro cai de R$ 10 mil para R$ 5 mil. Metade.\n\nPor isso cobrança em dia não é detalhe, é lucro.\n\nQuanto da sua receita está atrasada hoje?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quando foi a última vez que você <span class=\"acc\">renegociou</span> com o fornecedor?</p>",
+   "texto": "Pergunta para dono de empresa:\n\nquando foi a última vez que você renegociou preço ou prazo com seu fornecedor?\n\nSe você compra R$ 40 mil por mês e consegue 5% de desconto, são R$ 2 mil por mês, ou R$ 24 mil por ano. Sem vender nada a mais.\n\nPedir custa uma conversa. Não pedir custa todo mês.\n\nQual fornecedor você deveria chamar essa semana?"
+  }
+ ],
+ "legenda_linkedin": "Muita empresa lucra no papel e fica sem dinheiro no caixa. Um dos motivos é o estoque parado.\n\nEstoque é dinheiro que já saiu da sua conta e ainda não voltou.\n\nA conta: duas empresas com R$ 100 mil em estoque cada, lucro bruto de 40% sobre o custo (exemplo ilustrativo).\n\nEmpresa A gira o estoque 4 vezes ao ano. Vende R$ 400 mil em custo e tem R$ 160 mil de lucro bruto.\n\nEmpresa B gira 2 vezes ao ano. Vende R$ 200 mil em custo e tem R$ 80 mil de lucro bruto.\n\nMesmo dinheiro investido, metade do resultado.\n\nComo calcular o seu giro:\n1. Custo do que você vendeu nos últimos 12 meses.\n2. Divida pelo estoque médio.\n3. Divida 365 pelo resultado e veja quantos dias o estoque fica parado.\n\nComo destravar: liste o que não vende há 90 dias (regra prática, ajuste ao seu setor), faça promoção ou combo, compre menos e com mais frequência e negocie prazo com o fornecedor.\n\nEstoque parado não aparece no prejuízo. Aparece no caixa.\n\nQual item da sua empresa está parado há mais tempo?",
+ "legenda_instagram": "Seu estoque pode ser dinheiro parado. 📦\n\nDois estoques iguais de R$ 100 mil: um gira 4 vezes ao ano, o outro 2. O primeiro lucra o dobro com o mesmo dinheiro.\n\nArrasta pro lado e veja a conta, como calcular o seu giro e como destravar o caixa. 👉\n\nSalva pra fazer a conta e manda pro sócio.\n\nComenta: qual item está parado há mais tempo aí?\n\n#empreendedorismo #gestaoempresarial #financas #empresario #negocios",
+ "legenda_threads": "Estoque parado é dinheiro que saiu do caixa e não voltou.\n\nDois estoques de R$ 100 mil: um gira 4 vezes ao ano, o outro 2. O primeiro lucra o dobro com o mesmo dinheiro.\n\nFiz a conta completa no carrossel. Qual item seu está parado há mais tempo?",
+ "fontes": []
+}
