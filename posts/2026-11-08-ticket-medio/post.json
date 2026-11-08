@@ -1,0 +1,33 @@
+{
+ "titulo": "Ticket médio: R$ 48 mil por ano sem cliente novo",
+ "css_extra": ".story .stat{font-size:190px;white-space:nowrap}",
+ "stories": [
+  "<p class=\"big\">Você precisa de mais <span class=\"acc\">clientes</span> ou de mais ticket?</p><p>Muita empresa corre atrás de cliente novo e esquece a conta mais simples. Ela vem nos próximos stories.</p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 48 MIL</div><p>500 clientes por mês com ticket de R$ 80 = R$ 40 mil. Com ticket 10% maior (R$ 88), são <b>R$ 4 mil a mais por mês.</b> R$ 48 mil por ano, sem cliente novo.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Qual é o seu ticket médio hoje e o que você faria para subir 10%?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><p class=\"big\">Ticket 10% maior <span class=\"acc\">vale R$ 48 mil.</span></p><p class=\"mut\" style=\"margin-top:20px\">500 clientes por mês, ticket de R$ 80 para R$ 88.</p>",
+   "texto": "Nem todo crescimento precisa de cliente novo.\n\n500 clientes por mês com ticket médio de R$ 80 faturam R$ 40 mil.\n\nSe o ticket sobe 10%, para R$ 88, são R$ 44 mil: R$ 4 mil a mais por mês, R$ 48 mil por ano.\n\nCombo, upgrade e oferta no momento da compra são formas de chegar lá.\n\nVocê sabe o seu ticket médio de cabeça?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quantos meses o caixa <span class=\"acc\">aguenta sem vender?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nse as vendas parassem hoje, por quantos meses o caixa pagaria os custos fixos?\n\nA conta é simples: dinheiro em caixa dividido pelo custo fixo mensal.\n\nMuita empresa descobre que tem 3 semanas, não 3 meses.\n\nQuanto tempo a sua aguenta?"
+  },
+  {
+   "card": "<p class=\"big\">Cultura é o que você <span class=\"acc\">tolera.</span></p><p class=\"mut\" style=\"margin-top:20px\">Não o que está escrito na parede.</p>",
+   "texto": "Cultura da empresa não é o quadro de valores na parede.\n\nÉ o comportamento que o líder aceita sem corrigir.\n\nSe o atraso é tolerado, pontualidade não existe. Se o erro é escondido, transparência não existe.\n\nO time aprende com o que você permite, não com o que você fala.\n\nQual comportamento você tem tolerado e deveria corrigir?"
+  },
+  {
+   "card": "<p class=\"big\">Equipe ocupada <span class=\"acc\">não é</span> equipe produtiva.</p><p class=\"mut\" style=\"margin-top:20px\">Ocupação mede esforço. Produtividade mede resultado.</p>",
+   "texto": "Equipe ocupada não é o mesmo que equipe produtiva.\n\nOcupado é agenda cheia, reunião, mensagem, urgência.\n\nProdutivo é entregar o resultado combinado no prazo.\n\nSe todo mundo vive correndo e pouca coisa fica pronta, o problema costuma ser prioridade, não esforço.\n\nVocê mede o que o time faz ou o que o time entrega?"
+  },
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><p class=\"big\">Cliente atrasou 30 dias? <span class=\"acc\">Você pagou o juros.</span></p><p class=\"mut\" style=\"margin-top:20px\">R$ 10 mil em atraso, com crédito a 3% ao mês: R$ 300.</p>",
+   "texto": "Fatura atrasada tem custo, mesmo que o cliente acabe pagando.\n\nExemplo: R$ 10 mil recebidos 30 dias depois. Se você usa crédito a 3% ao mês para cobrir o caixa, são R$ 300 de juros que saíram do seu bolso.\n\nFaça isso com 10 clientes e são R$ 3 mil por mês.\n\nCobre no dia seguinte ao vencimento, sem constrangimento.\n\nQuando você cobra o primeiro atraso?"
+  }
+ ],
+ "legenda_linkedin": "",
+ "fontes": []
+}
