@@ -1,0 +1,37 @@
+{
+ "titulo": "Funcionário de R$ 3 mil custa R$ 3,6 mil: a conta antes de contratar",
+ "slides": [
+  "<p class=\"big\">Funcionário de R$ 3 mil <span class=\"acc\">não custa R$ 3 mil.</span></p><p>A conta que muito dono de empresa esquece <b>antes de contratar.</b></p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Camada 1 de 4</div><div class=\"stat\">R$ 3.000</div><p>É o salário combinado. <b>É só o começo da conta.</b></p><p class=\"mut\">Exemplo ilustrativo, sem vale-transporte ou vale-refeição.</p>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Camada 2 de 4</div><p class=\"big\"><span class=\"acc\">FGTS</span> de 8%</p><div class=\"box\"><p>Você deposita <b>8% sobre salário, 13º e 1/3 de férias.</b></p><p>Em um salário de R$ 3.000, são cerca de <b>R$ 267 por mês.</b></p></div>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Camada 3 de 4</div><p class=\"big\"><span class=\"acc\">13º</span> e férias</p><div class=\"box\"><p>13º: R$ 3.000 ÷ 12 = <b>R$ 250 por mês.</b></p><p>1/3 de férias: R$ 1.000 ÷ 12 = <b>R$ 83 por mês.</b></p></div><p class=\"mut\">Dinheiro que você precisa guardar todo mês, porque a conta chega.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Camada 4 de 4 · Fora do Simples</div><p class=\"big\">INSS <span class=\"acc\">patronal</span></p><div class=\"box\"><p>No Lucro Presumido ou Real, são cerca de <b>20% sobre a folha</b>, mais RAT e terceiros.</p><p>R$ 3.000 + 13º = <b>cerca de R$ 650 a mais.</b></p></div><p class=\"mut\">No Simples, boa parte disso já vai dentro do imposto único. Depende do anexo.</p>",
+  "<div class=\"tag\">A conta fechada</div><div class=\"stat\">R$ 3.600</div><p>é o custo mensal de quem recebe R$ 3.000 <b>(Simples, sem benefícios).</b> Fora do Simples, chega perto de <b>R$ 4.250.</b></p><p class=\"mut\">R$ 3.000 + R$ 267 + R$ 333 = R$ 3.600.</p>",
+  "<div class=\"tag\">A pergunta que ninguém faz</div><div class=\"stat\">R$ 10 MIL</div><p>é quanto você precisa <b>vender a mais</b> para pagar esses R$ 3.600, com margem de 35%.</p><p class=\"mut\">R$ 3.600 ÷ 0,35 = R$ 10.285.</p>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Ele custa R$ 3 mil”</div><div>“Custa R$ 3,6 mil por mês”</div><div>“Vou contratar e ver”</div><div>“Preciso de R$ 10 mil a mais em vendas”</div><div>“Se não der, eu demito”</div><div>“Defini a meta que paga essa vaga em 90 dias”</div></div>",
+  "<p class=\"big\">Contratar sem fazer a conta é <span class=\"acc\">apostar.</span></p><p>Qual foi a última vaga que você abriu <b>sem calcular o custo real?</b> Comenta aqui e manda pro sócio.</p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Quanto custa de verdade um funcionário de R$ 3 mil? A conta é maior do que parece.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 10 MIL</div><p>É quanto você precisa <b>vender a mais</b> para pagar um funcionário de R$ 3 mil, com margem de 35%.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você já contratou sem calcular o custo total? Como foi?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<p class=\"big\">Contratar não resolve <span class=\"acc\">problema de processo.</span></p><p class=\"mut\" style=\"margin-top:20px\">Só aumenta o tamanho dele.</p>",
+   "texto": "Contratar mais gente não resolve bagunça de processo.\n\nSe a tarefa não tem passo a passo, um funcionário novo só vai repetir o erro mais rápido.\n\nPrimeiro escreva como o trabalho é feito. Depois veja se falta mão de obra de verdade.\n\nSua última contratação resolveu um problema ou escondeu um?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se você sumisse 30 dias, <span class=\"acc\">o que para?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nse você ficasse 30 dias sem responder ninguém, o que pararia?\n\nQuanto mais coisa para, mais a empresa depende de você e menos ela vale.\n\nO primeiro passo é anotar o que só você sabe fazer.\n\nO que pararia na sua empresa?"
+  },
+  {
+   "card": "<p class=\"big\">Treinar custa. <span class=\"acc\">Não treinar custa mais.</span></p><p class=\"mut\" style=\"margin-top:20px\">Erro e rotatividade saem do seu caixa.</p>",
+   "texto": "Treinar o time custa tempo e dinheiro.\n\nMas quem não treina paga duas vezes: no erro que se repete e na troca de funcionário que sai frustrado.\n\nUm bom treinamento começa simples: mostrar como se faz, deixar fazer com você olhando e dar retorno rápido.\n\nQuando foi a última vez que você treinou alguém de verdade?"
+  }
+ ],
+ "legenda_linkedin": "Funcionário de R$ 3 mil não custa R$ 3 mil.\n\nMuito dono de empresa decide contratar olhando só o salário. A conta real é maior.\n\nExemplo ilustrativo, salário de R$ 3.000, sem vale-transporte ou vale-refeição:\n\n1. FGTS de 8% sobre salário, 13º e 1/3 de férias: cerca de R$ 267 por mês.\n2. 13º salário: R$ 250 por mês guardados.\n3. 1/3 de férias: R$ 83 por mês guardados.\n\nTotal: cerca de R$ 3.600 por mês.\n\nFora do Simples Nacional (Lucro Presumido ou Real), ainda entra o INSS patronal de cerca de 20% sobre a folha, mais RAT e terceiros. Nesse caso, o custo chega perto de R$ 4.250.\n\nAgora a conta que quase ninguém faz: com margem de contribuição de 35%, para pagar R$ 3.600 por mês você precisa vender cerca de R$ 10 mil a mais. R$ 3.600 dividido por 0,35.\n\nAntes de abrir a vaga:\n- some salário, encargos e benefícios\n- divida pela sua margem para saber a venda extra necessária\n- defina em quanto tempo essa vaga se paga\n\nContratar sem fazer essa conta é apostar.\n\nQual foi a última vaga que você abriu sem calcular o custo real?",
+ "legenda_instagram": "Funcionário de R$ 3 mil não custa R$ 3 mil. 👀\n\nFGTS, 13º e férias já levam o custo para cerca de R$ 3.600 por mês. Fora do Simples, pode chegar perto de R$ 4.250.\n\nE com margem de 35%, você precisa vender cerca de R$ 10 mil a mais só para pagar essa vaga.\n\nArrasta pro lado que eu mostro a conta completa. 👉\n\nSalva pra fazer a conta antes da próxima contratação e manda pro sócio.\n\nComenta: você já contratou sem calcular o custo real?\n\n#empreendedorismo #gestaoempresarial #financas #empresario #negocios",
+ "legenda_threads": "Funcionário de R$ 3 mil não custa R$ 3 mil.\n\nCom FGTS, 13º e férias, são cerca de R$ 3.600 por mês. E com margem de 35%, você precisa vender uns R$ 10 mil a mais para pagar essa vaga.\n\nA conta completa está no carrossel. Você faz essa conta antes de contratar?",
+ "fontes": []
+}

@@ -1,0 +1,24 @@
+Funcionário de R$ 3 mil não custa R$ 3 mil.
+
+Muito dono de empresa decide contratar olhando só o salário. A conta real é maior.
+
+Exemplo ilustrativo, salário de R$ 3.000, sem vale-transporte ou vale-refeição:
+
+1. FGTS de 8% sobre salário, 13º e 1/3 de férias: cerca de R$ 267 por mês.
+2. 13º salário: R$ 250 por mês guardados.
+3. 1/3 de férias: R$ 83 por mês guardados.
+
+Total: cerca de R$ 3.600 por mês.
+
+Fora do Simples Nacional (Lucro Presumido ou Real), ainda entra o INSS patronal de cerca de 20% sobre a folha, mais RAT e terceiros. Nesse caso, o custo chega perto de R$ 4.250.
+
+Agora a conta que quase ninguém faz: com margem de contribuição de 35%, para pagar R$ 3.600 por mês você precisa vender cerca de R$ 10 mil a mais. R$ 3.600 dividido por 0,35.
+
+Antes de abrir a vaga:
+- some salário, encargos e benefícios
+- divida pela sua margem para saber a venda extra necessária
+- defina em quanto tempo essa vaga se paga
+
+Contratar sem fazer essa conta é apostar.
+
+Qual foi a última vaga que você abriu sem calcular o custo real?
