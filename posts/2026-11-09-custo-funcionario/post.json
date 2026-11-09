@@ -28,6 +28,14 @@
   {
    "card": "<p class=\"big\">Treinar custa. <span class=\"acc\">Não treinar custa mais.</span></p><p class=\"mut\" style=\"margin-top:20px\">Erro e rotatividade saem do seu caixa.</p>",
    "texto": "Treinar o time custa tempo e dinheiro.\n\nMas quem não treina paga duas vezes: no erro que se repete e na troca de funcionário que sai frustrado.\n\nUm bom treinamento começa simples: mostrar como se faz, deixar fazer com você olhando e dar retorno rápido.\n\nQuando foi a última vez que você treinou alguém de verdade?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado + conta</div><p class=\"big\">Margem de 33% não é <span class=\"acc\">markup de 33%.</span></p><p class=\"mut\" style=\"margin-top:20px\">Custo R$ 100, venda R$ 150: markup 50%, margem 33%.</p>",
+   "texto": "Margem e markup não são a mesma coisa.\n\nProduto que custa R$ 100 e vende por R$ 150:\n\n- markup: 50% (o lucro sobre o custo)\n- margem: 33% (o lucro sobre o preço de venda)\n\nQuem mistura os dois acaba precificando abaixo do que precisa e não entende por que o caixa aperta.\n\nVocê calcula o preço pela margem ou pelo markup?"
+  },
+  {
+   "card": "<p class=\"big\">Faturar muito <span class=\"acc\">não é lucrar muito.</span></p><p class=\"mut\" style=\"margin-top:20px\">Faturamento é o que entra. Lucro é o que sobra.</p>",
+   "texto": "Faturar R$ 100 mil não é o mesmo que lucrar R$ 100 mil.\n\nFaturamento é o que entra. Lucro é o que sobra depois de custo, imposto, salário e despesa fixa.\n\nTem empresa que fatura bem e fecha o mês no vermelho porque só olha a primeira linha.\n\nQual número você olha primeiro no fim do mês?"
   }
  ],
  "legenda_linkedin": "Funcionário de R$ 3 mil não custa R$ 3 mil.\n\nMuito dono de empresa decide contratar olhando só o salário. A conta real é maior.\n\nExemplo ilustrativo, salário de R$ 3.000, sem vale-transporte ou vale-refeição:\n\n1. FGTS de 8% sobre salário, 13º e 1/3 de férias: cerca de R$ 267 por mês.\n2. 13º salário: R$ 250 por mês guardados.\n3. 1/3 de férias: R$ 83 por mês guardados.\n\nTotal: cerca de R$ 3.600 por mês.\n\nFora do Simples Nacional (Lucro Presumido ou Real), ainda entra o INSS patronal de cerca de 20% sobre a folha, mais RAT e terceiros. Nesse caso, o custo chega perto de R$ 4.250.\n\nAgora a conta que quase ninguém faz: com margem de contribuição de 35%, para pagar R$ 3.600 por mês você precisa vender cerca de R$ 10 mil a mais. R$ 3.600 dividido por 0,35.\n\nAntes de abrir a vaga:\n- some salário, encargos e benefícios\n- divida pela sua margem para saber a venda extra necessária\n- defina em quanto tempo essa vaga se paga\n\nContratar sem fazer essa conta é apostar.\n\nQual foi a última vaga que você abriu sem calcular o custo real?",

@@ -1,0 +1,10 @@
+Margem e markup não são a mesma coisa.
+
+Produto que custa R$ 100 e vende por R$ 150:
+
+- markup: 50% (o lucro sobre o custo)
+- margem: 33% (o lucro sobre o preço de venda)
+
+Quem mistura os dois acaba precificando abaixo do que precisa e não entende por que o caixa aperta.
+
+Você calcula o preço pela margem ou pelo markup?
