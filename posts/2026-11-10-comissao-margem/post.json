@@ -1,0 +1,25 @@
+{
+ "titulo": "Comissão sobre faturamento ou sobre margem? A conta que muda o lucro",
+ "css_extra": ".story .stat{font-size:135px;white-space:nowrap}",
+ "stories": [
+  "<p class=\"big\">Seu vendedor ganha <span class=\"acc\">10% de comissão.</span> Sobre o quê?</p><p>Sobre o faturamento ou sobre a margem? A diferença pode ser do tamanho do seu lucro. A conta vem nos próximos stories.</p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">1/3 DA MARGEM</div><p>Venda de R$ 10 mil com margem de 30% deixa R$ 3 mil. Comissão de 10% sobre a venda são <b>R$ 1 mil: um terço da margem.</b> Sobre a margem, seriam R$ 300.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Sua comissão é sobre venda ou sobre margem? Você sabe quanto sobra?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quando você revisou seus preços <span class=\"acc\">pela última vez?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nquando foi a última vez que você revisou o preço do que vende?\n\nO custo do fornecedor, do aluguel e da folha muda ao longo do ano. Se o preço fica parado, a margem encolhe sem barulho.\n\nNão precisa ser aumento: às vezes é ajustar o mix, o desconto ou o frete.\n\nHá quantos meses o seu preço não é revisado?"
+  },
+  {
+   "card": "<p class=\"big\">Se só você sabe fazer, <span class=\"acc\">você não tem empresa.</span></p><p class=\"mut\" style=\"margin-top:20px\">Tem um emprego com mais responsabilidade.</p>",
+   "texto": "Se o negócio para quando você sai, você tem um emprego, não uma empresa.\n\nProcesso escrito, passo a passo, é o que permite outra pessoa executar com o mesmo padrão.\n\nComece pelo que mais se repete: atendimento, orçamento, entrega.\n\nUma tarefa por semana já muda o jogo em alguns meses.\n\nO que só você sabe fazer na sua empresa hoje?"
+  },
+  {
+   "card": "<p class=\"big\">Meta sem prazo e sem dono <span class=\"acc\">é desejo.</span></p><p class=\"mut\" style=\"margin-top:20px\">Meta de verdade tem número, data e responsável.</p>",
+   "texto": "Meta sem prazo e sem responsável é desejo.\n\n\"Vender mais\" não é meta. \"Vender R$ 120 mil em dezembro, com a Ana responsável pela carteira\" é.\n\nNúmero, data e dono. Sem os três, ninguém sabe se bateu ou não.\n\nSuas metas passam nesse teste?"
+  }
+ ],
+ "legenda_linkedin": "",
+ "fontes": []
+}
