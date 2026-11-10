@@ -18,6 +18,14 @@
   {
    "card": "<p class=\"big\">Meta sem prazo e sem dono <span class=\"acc\">é desejo.</span></p><p class=\"mut\" style=\"margin-top:20px\">Meta de verdade tem número, data e responsável.</p>",
    "texto": "Meta sem prazo e sem responsável é desejo.\n\n\"Vender mais\" não é meta. \"Vender R$ 120 mil em dezembro, com a Ana responsável pela carteira\" é.\n\nNúmero, data e dono. Sem os três, ninguém sabe se bateu ou não.\n\nSuas metas passam nesse teste?"
+  },
+  {
+   "card": "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 5 MIL</div><p class=\"mut\" style=\"margin-top:20px\">Calote de 5% em R$ 100 mil de vendas.</p>",
+   "texto": "Vender a prazo sem cobrar direito sai caro.\n\nEmpresa que vende R$ 100 mil no mês e não recebe 5% perde R$ 5 mil.\n\nSe a margem líquida é de 10%, o lucro esperado era R$ 10 mil. Metade dele sumiu num calote.\n\nAnálise de crédito, entrada e cobrança no dia seguinte ao vencimento custam menos que a perda.\n\nVocê sabe quanto da sua carteira está atrasado hoje?"
+  },
+  {
+   "card": "<p class=\"big\">Delegar não é jogar tarefa. <span class=\"acc\">É combinar resultado.</span></p><p class=\"mut\" style=\"margin-top:20px\">Resultado esperado, prazo e como medir.</p>",
+   "texto": "Delegar não é jogar a tarefa e sumir.\n\nDelegar de verdade é combinar três coisas:\n\n1. o resultado esperado\n2. o prazo\n3. como vocês vão medir\n\nSem isso, o dono refaz o trabalho de todo mundo e a empresa continua dependendo dele.\n\nQual tarefa você ainda faz e poderia delegar essa semana?"
   }
  ],
  "legenda_linkedin": "",
