@@ -1,0 +1,24 @@
+Você sabe quanto custa trazer um cliente novo?
+
+Muita empresa investe em anúncio e vendas sem fazer essa conta. E acaba pagando para vender.
+
+Exemplo ilustrativo, em 4 passos:
+
+1. Some o que gastou para vender no mês: R$ 3.000 em anúncios + R$ 2.000 do time de vendas = R$ 5.000.
+2. Divida pelos clientes novos: R$ 5.000 ÷ 25 = R$ 200. Esse é o CAC, o custo de aquisição de cliente.
+3. Veja quanto ele deixa por compra: ticket de R$ 150 com margem de contribuição de 40% = R$ 60.
+4. Veja quanto ele deixa na vida: 6 compras por ano, durante 2 anos = 12 compras × R$ 60 = R$ 720. Esse é o LTV.
+
+O detalhe que pouca gente vê: na primeira compra, esse cliente dá prejuízo de R$ 140. Ele só se paga a partir da 4ª compra.
+
+LTV ÷ CAC = R$ 720 ÷ R$ 200 = 3,6. Uma regra prática do mercado diz que abaixo de 3 vezes o cliente está caro demais ou não volta o suficiente.
+
+Para melhorar a conta:
+- venda de novo para quem já comprou
+- meça o CAC por canal, não no total
+- corte o canal mais caro
+- suba o ticket com combo
+
+Cliente que não volta dá prejuízo.
+
+Você sabe quanto paga para trazer cada cliente?
