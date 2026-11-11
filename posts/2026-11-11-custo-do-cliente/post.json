@@ -1,38 +1,46 @@
 {
- "titulo": "Quanto custa trazer um cliente? CAC e LTV em 4 passos",
- "css_extra": ".story .stat{font-size:135px;white-space:nowrap}",
- "slides": [
-  "<p class=\"big\">Você sabe quanto custa <span class=\"acc\">trazer um cliente?</span></p><p>Se não sabe, pode estar <b>pagando para vender.</b> A conta em 4 passos.</p>",
-  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 4</div><p class=\"big\">Some o que <span class=\"acc\">gastou para vender</span></p><div class=\"box\"><p>Anúncios: <b>R$ 3.000</b></p><p>Parte do time de vendas: <b>R$ 2.000</b></p><p>Total no mês: <b>R$ 5.000</b></p></div><p class=\"mut\">Exemplo ilustrativo.</p>",
-  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 4</div><div class=\"stat\">R$ 200</div><p>R$ 5.000 ÷ 25 clientes novos no mês = <b>R$ 200 por cliente.</b></p><p class=\"mut\">Esse é o CAC: custo de aquisição de cliente.</p>",
-  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 4</div><p class=\"big\">Quanto ele <span class=\"acc\">deixa por compra</span></p><div class=\"box\"><p>Ticket médio: <b>R$ 150</b></p><p>Margem de contribuição de 40%: <b>R$ 60 por compra</b></p></div><p class=\"mut\">Use a margem, não o faturamento.</p>",
-  "<div class=\"tag\">A armadilha</div><div class=\"stat\">− R$ 140</div><p>Na primeira compra, você <b>perde dinheiro:</b> R$&nbsp;60 de margem contra R$&nbsp;200 de CAC.</p><p class=\"mut\">O cliente só se paga a partir da 4ª compra.</p>",
-  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 4</div><p class=\"big\">Quanto ele deixa <span class=\"acc\">na vida</span></p><div class=\"box\"><p>Compra 6 vezes por ano, durante 2 anos: <b>12 compras.</b></p><p>12 × R$ 60 = <b>R$ 720 de margem.</b></p></div><p class=\"mut\">Esse é o LTV: o valor do cliente ao longo do tempo.</p>",
-  "<div class=\"tag\">A régua</div><div class=\"stat\">3,6 VEZES</div><p>LTV ÷ CAC = R$ 720 ÷ R$ 200. <b>Cada real investido volta 3,6.</b></p><p class=\"mut\">Regra prática do mercado: abaixo de 3 vezes, o cliente está caro ou não volta o suficiente.</p>",
-  "<p class=\"big\">Como melhorar <span class=\"acc\">a conta</span></p><ol><li>Venda de novo para quem já comprou</li><li>Meça o CAC por canal, não no total</li><li>Corte o canal mais caro</li><li>Suba o ticket com combo</li></ol>",
-  "<p class=\"big\">Cliente que não volta <span class=\"acc\">dá prejuízo.</span></p><p>Você sabe quanto paga para trazer cada cliente? <b>Comenta aqui e manda pro sócio.</b></p>"
- ],
- "stories": [
-  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Quanto custa trazer um cliente novo? Se você não sabe, pode estar pagando para vender.</p><div class=\"cta\">Vai lá ver</div>",
-  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">− R$ 140</div><p>Cliente que custou R$ 200 para trazer e deixa R$ 60 por compra <b>dá prejuízo na primeira venda.</b></p>",
-  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você sabe quanto gasta para trazer cada cliente novo?</div>"
- ],
- "threads": [
-  {
-   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Black Friday é 27/11. <span class=\"acc\">Seu caixa aguenta?</span></p><p class=\"mut\" style=\"margin-top:20px\">Estoque se paga agora. Venda parcelada entra aos poucos.</p>",
-   "texto": "Faltam 16 dias para a Black Friday, que cai em 27 de novembro.\n\nAntes de encher o estoque, faça uma conta: você paga o fornecedor em 30 dias, mas a venda parcelada no cartão entra uma parcela por mês.\n\nVendeu em 10x? O dinheiro chega até setembro do ano que vem. Antecipar tem taxa.\n\nBlack Friday boa é a que vende e não deixa o caixa no vermelho em dezembro.\n\nVocê já fez essa conta?"
-  },
-  {
-   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">De onde vem o cliente que <span class=\"acc\">mais volta?</span></p>",
-   "texto": "Pergunta para dono de empresa:\n\nde onde vem o cliente que mais compra de novo com você? Indicação, Instagram, anúncio, loja física?\n\nNem todo canal traz o mesmo cliente. Às vezes o canal mais barato traz quem compra uma vez e some.\n\nSaber isso muda onde você coloca o dinheiro de marketing.\n\nQual é o seu melhor canal hoje?"
-  },
-  {
-   "card": "<p class=\"big\">Cliente que reclama <span class=\"acc\">ainda quer ficar.</span></p><p class=\"mut\" style=\"margin-top:20px\">O perigoso é o que some calado.</p>",
-   "texto": "Cliente que reclama ainda quer ficar.\n\nEle está te dando a chance de corrigir. O que preocupa é o que não fala nada e simplesmente não volta.\n\nResponder rápido, assumir o erro e resolver costuma valer mais do que qualquer desconto.\n\nE toda reclamação repetida é um processo pedindo conserto.\n\nComo você trata reclamação na sua empresa?"
-  }
- ],
- "legenda_linkedin": "Você sabe quanto custa trazer um cliente novo?\n\nMuita empresa investe em anúncio e vendas sem fazer essa conta. E acaba pagando para vender.\n\nExemplo ilustrativo, em 4 passos:\n\n1. Some o que gastou para vender no mês: R$ 3.000 em anúncios + R$ 2.000 do time de vendas = R$ 5.000.\n2. Divida pelos clientes novos: R$ 5.000 ÷ 25 = R$ 200. Esse é o CAC, o custo de aquisição de cliente.\n3. Veja quanto ele deixa por compra: ticket de R$ 150 com margem de contribuição de 40% = R$ 60.\n4. Veja quanto ele deixa na vida: 6 compras por ano, durante 2 anos = 12 compras × R$ 60 = R$ 720. Esse é o LTV.\n\nO detalhe que pouca gente vê: na primeira compra, esse cliente dá prejuízo de R$ 140. Ele só se paga a partir da 4ª compra.\n\nLTV ÷ CAC = R$ 720 ÷ R$ 200 = 3,6. Uma regra prática do mercado diz que abaixo de 3 vezes o cliente está caro demais ou não volta o suficiente.\n\nPara melhorar a conta:\n- venda de novo para quem já comprou\n- meça o CAC por canal, não no total\n- corte o canal mais caro\n- suba o ticket com combo\n\nCliente que não volta dá prejuízo.\n\nVocê sabe quanto paga para trazer cada cliente?",
- "legenda_instagram": "Você sabe quanto custa trazer um cliente? 👀\n\nSe você gasta R$ 5 mil para conseguir 25 clientes, cada um custou R$ 200. Se ele deixa R$ 60 de margem por compra, a primeira venda dá prejuízo.\n\nArrasta pro lado que eu mostro a conta completa em 4 passos. 👉\n\nSalva pra fazer essa conta na sua empresa e manda pro sócio.\n\nComenta: você sabe o seu custo por cliente?\n\n#empreendedorismo #gestaoempresarial #marketing #vendas #empresario",
- "legenda_threads": "Você sabe quanto custa trazer um cliente?\n\nGastou R$ 5 mil para conseguir 25 clientes: cada um custou R$ 200. Se ele deixa R$ 60 de margem por compra, a primeira venda dá prejuízo. Só se paga na 4ª.\n\nA conta completa, com CAC e LTV, está no carrossel. Você sabe o seu custo por cliente?",
- "fontes": []
+  "titulo": "Quanto custa trazer um cliente? CAC e LTV em 4 passos",
+  "css_extra": ".story .stat{font-size:135px;white-space:nowrap}",
+  "slides": [
+    "<p class=\"big\">Você sabe quanto custa <span class=\"acc\">trazer um cliente?</span></p><p>Se não sabe, pode estar <b>pagando para vender.</b> A conta em 4 passos.</p>",
+    "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 4</div><p class=\"big\">Some o que <span class=\"acc\">gastou para vender</span></p><div class=\"box\"><p>Anúncios: <b>R$ 3.000</b></p><p>Parte do time de vendas: <b>R$ 2.000</b></p><p>Total no mês: <b>R$ 5.000</b></p></div><p class=\"mut\">Exemplo ilustrativo.</p>",
+    "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 4</div><div class=\"stat\">R$ 200</div><p>R$ 5.000 ÷ 25 clientes novos no mês = <b>R$ 200 por cliente.</b></p><p class=\"mut\">Esse é o CAC: custo de aquisição de cliente.</p>",
+    "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 4</div><p class=\"big\">Quanto ele <span class=\"acc\">deixa por compra</span></p><div class=\"box\"><p>Ticket médio: <b>R$ 150</b></p><p>Margem de contribuição de 40%: <b>R$ 60 por compra</b></p></div><p class=\"mut\">Use a margem, não o faturamento.</p>",
+    "<div class=\"tag\">A armadilha</div><div class=\"stat\">− R$ 140</div><p>Na primeira compra, você <b>perde dinheiro:</b> R$&nbsp;60 de margem contra R$&nbsp;200 de CAC.</p><p class=\"mut\">O cliente só se paga a partir da 4ª compra.</p>",
+    "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 4</div><p class=\"big\">Quanto ele deixa <span class=\"acc\">na vida</span></p><div class=\"box\"><p>Compra 6 vezes por ano, durante 2 anos: <b>12 compras.</b></p><p>12 × R$ 60 = <b>R$ 720 de margem.</b></p></div><p class=\"mut\">Esse é o LTV: o valor do cliente ao longo do tempo.</p>",
+    "<div class=\"tag\">A régua</div><div class=\"stat\">3,6 VEZES</div><p>LTV ÷ CAC = R$ 720 ÷ R$ 200. <b>Cada real investido volta 3,6.</b></p><p class=\"mut\">Regra prática do mercado: abaixo de 3 vezes, o cliente está caro ou não volta o suficiente.</p>",
+    "<p class=\"big\">Como melhorar <span class=\"acc\">a conta</span></p><ol><li>Venda de novo para quem já comprou</li><li>Meça o CAC por canal, não no total</li><li>Corte o canal mais caro</li><li>Suba o ticket com combo</li></ol>",
+    "<p class=\"big\">Cliente que não volta <span class=\"acc\">dá prejuízo.</span></p><p>Você sabe quanto paga para trazer cada cliente? <b>Comenta aqui e manda pro sócio.</b></p>"
+  ],
+  "stories": [
+    "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Quanto custa trazer um cliente novo? Se você não sabe, pode estar pagando para vender.</p><div class=\"cta\">Vai lá ver</div>",
+    "<div class=\"tag\">Conta rápida</div><div class=\"stat\">− R$ 140</div><p>Cliente que custou R$ 200 para trazer e deixa R$ 60 por compra <b>dá prejuízo na primeira venda.</b></p>",
+    "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você sabe quanto gasta para trazer cada cliente novo?</div>"
+  ],
+  "threads": [
+    {
+      "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Black Friday é 27/11. <span class=\"acc\">Seu caixa aguenta?</span></p><p class=\"mut\" style=\"margin-top:20px\">Estoque se paga agora. Venda parcelada entra aos poucos.</p>",
+      "texto": "Faltam 16 dias para a Black Friday, que cai em 27 de novembro.\n\nAntes de encher o estoque, faça uma conta: você paga o fornecedor em 30 dias, mas a venda parcelada no cartão entra uma parcela por mês.\n\nVendeu em 10x? O dinheiro chega até setembro do ano que vem. Antecipar tem taxa.\n\nBlack Friday boa é a que vende e não deixa o caixa no vermelho em dezembro.\n\nVocê já fez essa conta?"
+    },
+    {
+      "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">De onde vem o cliente que <span class=\"acc\">mais volta?</span></p>",
+      "texto": "Pergunta para dono de empresa:\n\nde onde vem o cliente que mais compra de novo com você? Indicação, Instagram, anúncio, loja física?\n\nNem todo canal traz o mesmo cliente. Às vezes o canal mais barato traz quem compra uma vez e some.\n\nSaber isso muda onde você coloca o dinheiro de marketing.\n\nQual é o seu melhor canal hoje?"
+    },
+    {
+      "card": "<p class=\"big\">Cliente que reclama <span class=\"acc\">ainda quer ficar.</span></p><p class=\"mut\" style=\"margin-top:20px\">O perigoso é o que some calado.</p>",
+      "texto": "Cliente que reclama ainda quer ficar.\n\nEle está te dando a chance de corrigir. O que preocupa é o que não fala nada e simplesmente não volta.\n\nResponder rápido, assumir o erro e resolver costuma valer mais do que qualquer desconto.\n\nE toda reclamação repetida é um processo pedindo conserto.\n\nComo você trata reclamação na sua empresa?"
+    },
+    {
+      "card": "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 6.408</div><p class=\"mut\" style=\"margin-top:20px\">por ano em 6 assinaturas de R$ 89 que ninguém usa.</p>",
+      "texto": "Faz uma conta rápida hoje.\n\n6 ferramentas de R$ 89 por mês que ninguém abre mais: R$ 534 por mês. R$ 6.408 por ano.\n\nSistema que foi trocado, app de teste que virou cobrança, plano maior do que você precisa.\n\nAbre a fatura do cartão da empresa e marca o que foi usado no último mês. O resto, cancela.\n\nQuantas assinaturas você paga sem usar?"
+    },
+    {
+      "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Feedback não é o mesmo que <span class=\"acc\">bronca.</span></p><p class=\"mut\" style=\"margin-top:20px\">Bronca descarrega. Feedback corrige.</p>",
+      "texto": "Feedback não é o mesmo que bronca.\n\nBronca é desabafo na hora da raiva, na frente de todo mundo.\n\nFeedback é em particular, logo depois do fato, com o exemplo concreto e o que muda dali pra frente.\n\nUm faz a pessoa esconder o erro. O outro faz ela parar de repetir.\n\nNa sua empresa, o time recebe qual dos dois?"
+    }
+  ],
+  "legenda_linkedin": "Você sabe quanto custa trazer um cliente novo?\n\nMuita empresa investe em anúncio e vendas sem fazer essa conta. E acaba pagando para vender.\n\nExemplo ilustrativo, em 4 passos:\n\n1. Some o que gastou para vender no mês: R$ 3.000 em anúncios + R$ 2.000 do time de vendas = R$ 5.000.\n2. Divida pelos clientes novos: R$ 5.000 ÷ 25 = R$ 200. Esse é o CAC, o custo de aquisição de cliente.\n3. Veja quanto ele deixa por compra: ticket de R$ 150 com margem de contribuição de 40% = R$ 60.\n4. Veja quanto ele deixa na vida: 6 compras por ano, durante 2 anos = 12 compras × R$ 60 = R$ 720. Esse é o LTV.\n\nO detalhe que pouca gente vê: na primeira compra, esse cliente dá prejuízo de R$ 140. Ele só se paga a partir da 4ª compra.\n\nLTV ÷ CAC = R$ 720 ÷ R$ 200 = 3,6. Uma regra prática do mercado diz que abaixo de 3 vezes o cliente está caro demais ou não volta o suficiente.\n\nPara melhorar a conta:\n- venda de novo para quem já comprou\n- meça o CAC por canal, não no total\n- corte o canal mais caro\n- suba o ticket com combo\n\nCliente que não volta dá prejuízo.\n\nVocê sabe quanto paga para trazer cada cliente?",
+  "legenda_instagram": "Você sabe quanto custa trazer um cliente? 👀\n\nSe você gasta R$ 5 mil para conseguir 25 clientes, cada um custou R$ 200. Se ele deixa R$ 60 de margem por compra, a primeira venda dá prejuízo.\n\nArrasta pro lado que eu mostro a conta completa em 4 passos. 👉\n\nSalva pra fazer essa conta na sua empresa e manda pro sócio.\n\nComenta: você sabe o seu custo por cliente?\n\n#empreendedorismo #gestaoempresarial #marketing #vendas #empresario",
+  "legenda_threads": "Você sabe quanto custa trazer um cliente?\n\nGastou R$ 5 mil para conseguir 25 clientes: cada um custou R$ 200. Se ele deixa R$ 60 de margem por compra, a primeira venda dá prejuízo. Só se paga na 4ª.\n\nA conta completa, com CAC e LTV, está no carrossel. Você sabe o seu custo por cliente?",
+  "fontes": []
 }
