@@ -17,11 +17,22 @@
   {
    "card": "<p class=\"big\">Sócio sem acordo escrito é <span class=\"acc\">briga marcada.</span></p><p class=\"mut\" style=\"margin-top:20px\">Escreva enquanto está tudo bem.</p>",
    "texto": "Sociedade começa na confiança e muitas vezes termina na falta de um papel.\n\nO acordo de sócios precisa dizer: quem faz o quê, quanto cada um tira por mês, o que acontece se um quiser sair e como decidir quando os dois discordam.\n\nEscrever isso quando está tudo bem é barato. Discutir depois da briga sai caro.\n\nSua empresa tem acordo de sócios?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado do dia</div><p class=\"big\">1ª parcela do 13º: <span class=\"acc\">até 30 de novembro.</span></p><p class=\"mut\" style=\"margin-top:20px\">A 2ª vence em 18 de dezembro. Seu caixa já separou?</p>",
+   "texto": "A 1ª parcela do 13º tem que cair na conta do funcionário até 30 de novembro, uma segunda-feira. É metade do salário, sem desconto de INSS e IR.\n\nA 2ª vence em 18 de dezembro, porque o dia 20 cai num domingo.\n\nExemplo: folha de R$ 30 mil = R$ 15 mil até 30/11 e o restante até 18/12, mais FGTS e encargos.\n\nQuem guardou 1/12 da folha por mês está tranquilo. Seu caixa já está separado?"
+  },
+  {
+   "card": "<p class=\"big\">Contratar rápido não é <span class=\"acc\">contratar bem.</span></p><p class=\"mut\" style=\"margin-top:20px\">Contratação errada sai mais cara que vaga aberta.</p>",
+   "texto": "Contratar rápido não é o mesmo que contratar bem.\n\nA vaga aperta e o dono pega o primeiro que aparece.\n\nSó que a contratação errada custa salário, encargos, treinamento, o time cobrindo os erros e, no fim, a demissão.\n\nAntes de abrir a vaga, escreva o que a pessoa precisa entregar nos primeiros 90 dias. Se você não sabe dizer, ainda não está pronto para contratar.\n\nVocê já contratou no desespero?"
   }
  ],
  "fontes": [
   "https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude",
   "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-do-fim-da-6x1-escala-5x2-comeca-em-60-dias",
-  "https://valor.globo.com/empresas/noticia/2026/11/11/empresas-fazem-calculos-do-fim-da-escala-6x1-e-estudam-estrategias-para-adotar-novo-modelo.ghtml"
+  "https://valor.globo.com/empresas/noticia/2026/11/11/empresas-fazem-calculos-do-fim-da-escala-6x1-e-estudam-estrategias-para-adotar-novo-modelo.ghtml",
+  "https://diariodonordeste.verdesmares.com.br/negocios/13-salario-em-2026-veja-qual-e-a-data-limite-para-o-pagamento-da-1-parcela-1.3802766",
+  "https://www.band.com.br/economia/empresas-devem-antecipar-segunda-parcela-do-13o-salario",
+  "https://www.opovo.com.br/trends/13o-salario-de-2026-tem-duas-datas-chave-primeira-parcela-ate-30-de-novembro-e-segunda-ate-18-de-dezembro/"
  ]
 }
