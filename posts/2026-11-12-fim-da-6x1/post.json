@@ -1,0 +1,27 @@
+{
+ "titulo": "Fim da 6x1: faltam semanas para refazer a escala",
+ "stories": [
+  "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Fim da 6x1: <span class=\"acc\">sua escala tem prazo.</span></p><p>A partir de meados de dezembro, a jornada máxima cai de 44 para 42 horas, com <b>2 folgas por semana.</b></p>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">-20 HORAS</div><p>Equipe de 10 pessoas: de 440 para <b>420 horas por semana.</b> Quando chegar a 40 horas, em 2027, <b>falta 1 pessoa inteira.</b></p><p class=\"mut\">Exemplo ilustrativo, mesma demanda.</p>",
+  "<p class=\"big\">Quem deixar pra dezembro <span class=\"acc\">paga hora extra.</span></p><div class=\"q\">Você já refez a escala do seu time? Responde no direct.</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Fim da 6x1: <span class=\"acc\">sua escala tem prazo.</span></p><p class=\"mut\" style=\"margin-top:20px\">42 horas e 2 folgas por semana a partir de meados de dezembro.</p>",
+   "texto": "A emenda que acaba com a escala 6x1 foi promulgada em 16 de outubro.\n\n60 dias depois da publicação, em meados de dezembro, a jornada máxima cai de 44 para 42 horas, com 2 folgas por semana. Em 14 meses, chega a 40 horas, sem redução de salário.\n\nQuem deixar para refazer a escala na última semana vai pagar em hora extra.\n\nVocê já sentou para redesenhar a escala do seu time?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Por que seu último cliente <span class=\"acc\">parou de comprar?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nvocê sabe por que o último cliente que sumiu parou de comprar?\n\nA maioria não sabe, porque nunca perguntou.\n\nUma ligação de 5 minutos para quem saiu ensina mais do que muita pesquisa. Às vezes foi preço. Muitas vezes foi atendimento, prazo ou esquecimento.\n\nVocê liga para o cliente que parou de comprar?"
+  },
+  {
+   "card": "<p class=\"big\">Sócio sem acordo escrito é <span class=\"acc\">briga marcada.</span></p><p class=\"mut\" style=\"margin-top:20px\">Escreva enquanto está tudo bem.</p>",
+   "texto": "Sociedade começa na confiança e muitas vezes termina na falta de um papel.\n\nO acordo de sócios precisa dizer: quem faz o quê, quanto cada um tira por mês, o que acontece se um quiser sair e como decidir quando os dois discordam.\n\nEscrever isso quando está tudo bem é barato. Discutir depois da briga sai caro.\n\nSua empresa tem acordo de sócios?"
+  }
+ ],
+ "fontes": [
+  "https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude",
+  "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-do-fim-da-6x1-escala-5x2-comeca-em-60-dias",
+  "https://valor.globo.com/empresas/noticia/2026/11/11/empresas-fazem-calculos-do-fim-da-escala-6x1-e-estudam-estrategias-para-adotar-novo-modelo.ghtml"
+ ]
+}
