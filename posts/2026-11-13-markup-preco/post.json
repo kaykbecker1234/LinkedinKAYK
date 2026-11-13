@@ -1,0 +1,38 @@
+{
+ "titulo": "Custo + 40% dá prejuízo: a conta certa do preço de venda",
+ "css_extra": ".story .stat{font-size:200px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Custo + 40% <span class=\"acc\">dá prejuízo.</span></p><p>Se você forma preço somando porcentagem no custo, está <b>perdendo dinheiro em cada venda.</b> A conta certa em 4 passos.</p>",
+  "<div class=\"tag\">O erro mais comum</div><div class=\"stat\">R$ 84</div><p>O produto custa <b>R$ 60.</b> Você soma 40% e vende por R$ 84.</p><p class=\"mut\">Os 40% eram para cobrir imposto, despesas, comissão e lucro. Parece que fecha. Não fecha.</p>",
+  "<div class=\"tag\">Por que dá errado</div><p class=\"big\" style=\"font-size:100px\">A porcentagem é <span class=\"acc\">do preço</span></p><div class=\"box\"><p>Imposto, comissão e despesas saem do <b>valor da venda</b>, não do custo.</p><p>Em R$ 84, isso dá <b>R$ 25,20</b> sem o lucro. Mas só sobraram R$ 24.</p></div><p class=\"mut\">Resultado: <b>prejuízo de R$ 1,20</b> por venda.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 4</div><p class=\"big\">Ache o <span class=\"acc\">custo real</span></p><div class=\"box\"><p>Compra + frete + embalagem.</p><p>No exemplo: <b>R$ 60 por unidade.</b></p></div><p class=\"mut\">Números ilustrativos.</p>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 4 · Sobre a venda</div><ol><li>Imposto: 6%</li><li>Despesas fixas: 20%</li><li>Comissão: 4%</li><li>Lucro desejado: 10%</li></ol><p>Total: <b>40% do preço.</b></p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 4</div><div class=\"stat\">0,60</div><p>100% − 40% = <b>60%.</b> Esse é o seu markup divisor.</p><p class=\"mut\">É a parte do preço que sobra para pagar o custo do produto.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 4</div><div class=\"stat\">R$ 100</div><p>Custo ÷ markup divisor: <b>R$ 60 ÷ 0,60 = R$ 100.</b></p><p class=\"mut\">Prova: 100 − 60 − 6 − 20 − 4 = R$ 10 de lucro. Os 10% que você queria.</p>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">conta</span></p><div class=\"vs\"><div class=\"hd\">Custo + 40%</div><div class=\"hd r\">Markup divisor</div><div>Preço: R$ 84</div><div>Preço: R$ 100</div><div>Imposto, despesas e comissão: R$ 25,20</div><div>Imposto, despesas e comissão: R$ 30</div><div>Resultado: − R$ 1,20</div><div>Resultado: + R$ 10</div></div>",
+  "<p class=\"big\">Preço se calcula <span class=\"acc\">de cima para baixo.</span></p><p>Você soma porcentagem no custo ou usa markup? <b>Comenta aqui e manda pra quem cuida do preço.</b></p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Custo + 40% dá prejuízo. A conta certa do preço de venda em 4 passos.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">− R$ 1,20</div><p>Custo de R$ 60, vendido a R$ 84 com 40% de imposto, despesas, comissão e lucro: <b>cada venda dá prejuízo.</b></p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Como você forma o preço: soma porcentagem no custo ou usa markup?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Qual foi sua última decisão <span class=\"acc\">com número na mão?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nqual foi a última decisão que você tomou olhando um número, e não uma sensação?\n\nContratar, dar desconto, abrir filial, cortar um fornecedor.\n\nSensação ajuda. Mas \"acho que está vendendo bem\" e \"vendemos 15% a mais que outubro\" levam a decisões bem diferentes.\n\nQual número você olha antes de decidir?"
+  },
+  {
+   "card": "<p class=\"big\">Reunião sem dono e sem prazo <span class=\"acc\">volta semana que vem.</span></p>",
+   "texto": "Reunião que termina sem dono e sem prazo vai se repetir na semana que vem.\n\nMesmo assunto, mesmas pessoas, mesma conclusão: \"vamos ver isso\".\n\nAntes de encerrar, três perguntas:\n\no que foi decidido?\nquem faz?\naté quando?\n\nSe ninguém sabe responder, a reunião não acabou.\n\nSuas reuniões terminam com isso definido?"
+  },
+  {
+   "card": "<p class=\"big\">Crescer não é o mesmo que <span class=\"acc\">lucrar mais.</span></p><p class=\"mut\" style=\"margin-top:20px\">R$&nbsp;150&nbsp;mil a 12% rende menos que R$&nbsp;100&nbsp;mil a 20%.</p>",
+   "texto": "Crescer não é o mesmo que lucrar mais.\n\nEmpresa que vende R$ 100 mil com 20% de margem líquida lucra R$ 20 mil.\n\nSe ela vai para R$ 150 mil dando desconto e a margem cai para 12%, lucra R$ 18 mil.\n\nVendeu 50% a mais e ganhou menos. Com mais estoque, mais gente e mais trabalho.\n\nVocê está crescendo o faturamento ou o lucro?"
+  }
+ ],
+ "legenda_linkedin": "Custo + 40% dá prejuízo.\n\nParece estranho, mas é uma das formas mais comuns de formar preço em pequena empresa. E está errada.\n\nO exemplo: o produto custa R$ 60. O dono soma 40% para cobrir imposto (6%), despesas fixas (20%), comissão (4%) e lucro (10%). Vende por R$ 84.\n\nO problema: essas porcentagens saem do preço de venda, não do custo. Em R$ 84, imposto, despesas e comissão somam R$ 25,20. Só sobraram R$ 24 acima do custo. Resultado: prejuízo de R$ 1,20 por venda, e o lucro de 10% nunca aparece.\n\nA conta certa em 4 passos:\n\n1. Ache o custo real do produto (compra, frete, embalagem): R$ 60.\n2. Some tudo o que sai da venda, em porcentagem do preço: 40%.\n3. Calcule o markup divisor: 100% − 40% = 0,60.\n4. Divida o custo por ele: R$ 60 ÷ 0,60 = R$ 100.\n\nProva: 100 − 60 − 6 − 20 − 4 = R$ 10. Exatamente os 10% de lucro planejados.\n\nOs números são ilustrativos. A alíquota de imposto e o peso das despesas mudam de empresa para empresa, e vale conferir os seus com o contador.\n\nPreço se calcula de cima para baixo.\n\nNa sua empresa, o preço é formado somando porcentagem no custo ou com markup?",
+ "legenda_instagram": "Custo + 40% dá prejuízo. 👀\n\nProduto de R$ 60 vendido a R$ 84 parece ter 40% para imposto, despesas, comissão e lucro. Mas essas porcentagens saem do preço, não do custo. Resultado: R$ 1,20 de prejuízo por venda.\n\nArrasta pro lado que eu mostro a conta certa do markup em 4 passos. 👉\n\nSalva pra revisar seus preços e manda pra quem cuida disso na sua empresa.\n\nComenta: você soma porcentagem no custo ou usa markup?\n\n#empreendedorismo #gestaoempresarial #precificacao #financas #empresario",
+ "legenda_threads": "Custo + 40% dá prejuízo.\n\nProduto de R$ 60 vendido a R$ 84: imposto, despesas e comissão saem do preço, não do custo. Somam R$ 25,20 e sobraram só R$ 24. Prejuízo de R$ 1,20 por venda.\n\nA conta certa é custo ÷ (1 − 40%) = R$ 100. Expliquei passo a passo no carrossel.\n\nComo você forma o seu preço?",
+ "fontes": []
+}

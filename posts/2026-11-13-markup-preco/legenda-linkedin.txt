@@ -1,0 +1,22 @@
+Custo + 40% dá prejuízo.
+
+Parece estranho, mas é uma das formas mais comuns de formar preço em pequena empresa. E está errada.
+
+O exemplo: o produto custa R$ 60. O dono soma 40% para cobrir imposto (6%), despesas fixas (20%), comissão (4%) e lucro (10%). Vende por R$ 84.
+
+O problema: essas porcentagens saem do preço de venda, não do custo. Em R$ 84, imposto, despesas e comissão somam R$ 25,20. Só sobraram R$ 24 acima do custo. Resultado: prejuízo de R$ 1,20 por venda, e o lucro de 10% nunca aparece.
+
+A conta certa em 4 passos:
+
+1. Ache o custo real do produto (compra, frete, embalagem): R$ 60.
+2. Some tudo o que sai da venda, em porcentagem do preço: 40%.
+3. Calcule o markup divisor: 100% − 40% = 0,60.
+4. Divida o custo por ele: R$ 60 ÷ 0,60 = R$ 100.
+
+Prova: 100 − 60 − 6 − 20 − 4 = R$ 10. Exatamente os 10% de lucro planejados.
+
+Os números são ilustrativos. A alíquota de imposto e o peso das despesas mudam de empresa para empresa, e vale conferir os seus com o contador.
+
+Preço se calcula de cima para baixo.
+
+Na sua empresa, o preço é formado somando porcentagem no custo ou com markup?
