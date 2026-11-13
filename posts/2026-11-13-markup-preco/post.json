@@ -29,6 +29,14 @@
   {
    "card": "<p class=\"big\">Crescer não é o mesmo que <span class=\"acc\">lucrar mais.</span></p><p class=\"mut\" style=\"margin-top:20px\">R$&nbsp;150&nbsp;mil a 12% rende menos que R$&nbsp;100&nbsp;mil a 20%.</p>",
    "texto": "Crescer não é o mesmo que lucrar mais.\n\nEmpresa que vende R$ 100 mil com 20% de margem líquida lucra R$ 20 mil.\n\nSe ela vai para R$ 150 mil dando desconto e a margem cai para 12%, lucra R$ 18 mil.\n\nVendeu 50% a mais e ganhou menos. Com mais estoque, mais gente e mais trabalho.\n\nVocê está crescendo o faturamento ou o lucro?"
+  },
+  {
+   "card": "<div class=\"tag\">Gestão de time</div><p class=\"big\">Seu melhor vendedor <span class=\"acc\">pode virar seu pior gerente</span></p>",
+   "texto": "Promover o melhor vendedor a gerente parece justo.\n\nMas vender e liderar são trabalhos diferentes. Um fecha negócio. O outro faz o time fechar.\n\nSem preparo, você corre o risco de perder um ótimo vendedor e ganhar um gerente que não sabe delegar nem cobrar.\n\nAntes de promover, pergunte: ele quer liderar? Já ensina os colegas sem ninguém pedir?\n\nComo foi a última promoção na sua empresa?"
+  },
+  {
+   "card": "<div class=\"tag\">Caixa</div><p class=\"big\">Lucro no papel <span class=\"acc\">não paga boleto</span></p>",
+   "texto": "Lucro no papel não paga boleto.\n\nSua empresa vendeu R$ 100 mil no mês, com lucro de R$ 15 mil.\n\nMas R$ 60 mil foram a prazo e só entram daqui a 60 dias. No mês, entraram R$ 40 mil e saíram R$ 70 mil entre folha, aluguel e fornecedor.\n\nFaltaram R$ 30 mil. Com lucro.\n\nO resultado mostra se você ganha dinheiro. O fluxo de caixa mostra se ele chega a tempo.\n\nVocê acompanha os dois?"
   }
  ],
  "legenda_linkedin": "Custo + 40% dá prejuízo.\n\nParece estranho, mas é uma das formas mais comuns de formar preço em pequena empresa. E está errada.\n\nO exemplo: o produto custa R$ 60. O dono soma 40% para cobrir imposto (6%), despesas fixas (20%), comissão (4%) e lucro (10%). Vende por R$ 84.\n\nO problema: essas porcentagens saem do preço de venda, não do custo. Em R$ 84, imposto, despesas e comissão somam R$ 25,20. Só sobraram R$ 24 acima do custo. Resultado: prejuízo de R$ 1,20 por venda, e o lucro de 10% nunca aparece.\n\nA conta certa em 4 passos:\n\n1. Ache o custo real do produto (compra, frete, embalagem): R$ 60.\n2. Some tudo o que sai da venda, em porcentagem do preço: 40%.\n3. Calcule o markup divisor: 100% − 40% = 0,60.\n4. Divida o custo por ele: R$ 60 ÷ 0,60 = R$ 100.\n\nProva: 100 − 60 − 6 − 20 − 4 = R$ 10. Exatamente os 10% de lucro planejados.\n\nOs números são ilustrativos. A alíquota de imposto e o peso das despesas mudam de empresa para empresa, e vale conferir os seus com o contador.\n\nPreço se calcula de cima para baixo.\n\nNa sua empresa, o preço é formado somando porcentagem no custo ou com markup?",
