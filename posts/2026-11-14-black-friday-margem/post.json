@@ -1,0 +1,26 @@
+{
+ "titulo": "Black Friday em 13 dias: desconto sem conta é prejuízo",
+ "stories": [
+  "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Black Friday: <span class=\"acc\">faltam 13 dias.</span></p><p>É no dia 27 de novembro. Antes de baixar preço, <b>faça a conta da sua margem.</b></p>",
+  "<div class=\"tag\">Dado do dia</div><div class=\"stat\">R$ 13,3 BI</div><p>é a projeção de vendas do e-commerce nos 4 dias de Black Friday, <b>alta de 20,7%</b> sobre o ano passado.</p><p class=\"mut\">Fonte: Confi/Neotrust e E-Commerce Brasil.</p>",
+  "<p class=\"big\">Desconto sem conta é <span class=\"acc\">prejuízo com fila.</span></p><div class=\"q\">Sua empresa vai entrar na Black Friday? Responde no direct.</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Dado do dia</div><p class=\"big\">Ticket médio do e-commerce <span class=\"acc\">caiu 13,4%.</span></p><p class=\"mut\" style=\"margin-top:20px\">De R$ 309,70 para R$ 268,20 (jan. a set.). Fonte: Neotrust.</p>",
+   "texto": "O brasileiro está comprando mais vezes, mas gastando menos por pedido.\n\nNo e-commerce, de janeiro a setembro, o ticket médio caiu 13,4%: de R$ 309,70 para R$ 268,20, segundo a Neotrust.\n\nPara quem vende, isso muda a conta. Frete, embalagem e taxa de cartão pesam muito mais num pedido pequeno.\n\nVocê sabe quanto custa despachar cada pedido da sua empresa?"
+  },
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Quanto sua empresa paga <span class=\"acc\">de imposto?</span></p><p class=\"mut\" style=\"margin-top:20px\">Em % do faturamento. Sem perguntar pro contador.</p>",
+   "texto": "Pergunta para dono de empresa:\n\nsem ligar para o contador, você sabe dizer quanto do seu faturamento vai para imposto?\n\nNão é o nome do regime. É o percentual que sai do caixa todo mês.\n\nQuem não sabe esse número não consegue formar preço, não sabe se vale mudar de regime e leva susto em todo mês bom de venda.\n\nVocê sabe o seu?"
+  },
+  {
+   "card": "<p class=\"big\">Sistema caro não conserta <span class=\"acc\">processo bagunçado.</span></p><p class=\"mut\" style=\"margin-top:20px\">Primeiro o processo no papel. Depois a ferramenta.</p>",
+   "texto": "Sistema caro não é o mesmo que empresa organizada.\n\nMuito dono compra o ERP mais completo do mercado achando que a bagunça vai acabar. Seis meses depois, o time voltou para a planilha e o WhatsApp.\n\nFerramenta só automatiza o que já existe. Se o processo não está claro, ela automatiza a bagunça.\n\nAntes de assinar, escreva o passo a passo de como a tarefa é feita hoje.\n\nVocê já pagou por um sistema que ninguém usa?"
+  }
+ ],
+ "fontes": [
+  "https://exame.com/invest/mercados/black-friday-deve-movimentar-r-133-bilhoes-mas-crise-no-varejo-desafia-vendas-2/",
+  "https://www.infomoney.com.br/minhas-financas/sem-bets-com-compras-antecipadas-e-tiktok-shop-o-que-esperar-da-black-friday-2026/"
+ ]
+}
