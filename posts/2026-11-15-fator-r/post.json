@@ -1,0 +1,43 @@
+{
+ "titulo": "Fator R: pagar 15,5% ou 6% de imposto no Simples",
+ "css_extra": ".story .stat{font-size:200px;white-space:nowrap}",
+ "slides": [
+  "<p class=\"big\">Pagar 15,5% ou <span class=\"acc\">só 6%?</span></p><p>Se sua empresa de serviço está no Simples, um número decide a alíquota: o <b>Fator R.</b> A conta em 5 passos.</p>",
+  "<div class=\"tag\">O que é o Fator R</div><p class=\"big\" style=\"font-size:100px\">Folha ÷ <span class=\"acc\">faturamento</span></p><div class=\"box\"><p>Folha dos últimos 12 meses (salários, <b>pró-labore</b>, INSS patronal e FGTS) dividida pela receita dos mesmos 12 meses.</p><p><b>28% ou mais:</b> Anexo III, a partir de 6%.<br><b>Abaixo de 28%:</b> Anexo V, a partir de 15,5%.</p></div><p class=\"mut\">Vale para várias atividades de serviço, como medicina, psicologia, arquitetura e engenharia.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 5 · O exemplo</div><div class=\"stat\">R$ 15 MIL</div><p>Empresa de serviço fatura <b>R$ 15 mil por mês</b> (R$ 180 mil em 12 meses).</p><p>O sócio tira <b>R$ 2 mil</b> de pró-labore. Não tem funcionário.</p><p class=\"mut\">Números ilustrativos.</p>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 5 · Calcule</div><div class=\"stat\">13,3%</div><p>R$ 24 mil de folha ÷ R$ 180 mil de receita.</p><p>Abaixo de 28%: <b>Anexo V, 15,5%.</b> Imposto do mês: <b>R$ 2.325.</b></p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 5 · A folha que falta</div><div class=\"stat\">R$ 4.200</div><p>28% de R$ 180 mil = R$ 50,4 mil por ano.</p><p>Ou seja: <b>R$ 4.200 por mês</b> de pró-labore para chegar ao Anexo III.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 5 · O custo de subir</div><ol><li>INSS do sócio (11%): de R$&nbsp;220 para R$&nbsp;462</li><li>Custo extra: R$ 242 por mês</li><li>IR na fonte: zero até R$ 5 mil (regra de 2026)</li></ol><p class=\"mut\">O dinheiro a mais vai para o próprio sócio. Só muda o nome: de lucro para pró-labore.</p>",
+  "<div class=\"bg\">05</div><div class=\"tag\">Passo 5 de 5 · Compare</div><div class=\"vs\"><div class=\"hd\">Anexo V</div><div class=\"hd r\">Anexo III</div><div>Pró-labore: R$ 2.000</div><div>Pró-labore: R$ 4.200</div><div>Imposto (15,5%): R$ 2.325</div><div>Imposto (6%): R$ 900</div><div>INSS do sócio: R$ 220</div><div>INSS do sócio: R$ 462</div><div>Total: R$ 2.545</div><div>Total: R$ 1.362</div></div><p style=\"margin-top:34px\">Diferença: <b>R$ 1.183 por mês.</b> Cerca de <b>R$ 14 mil por ano.</b></p>",
+  "<div class=\"tag\">O erro mais comum</div><p class=\"big\" style=\"font-size:100px\">A conta é de <span class=\"acc\">12 meses</span></p><p>Subir o pró-labore hoje não muda o anexo no mês que vem. O Fator R usa a folha dos <b>12 meses anteriores</b> e é recalculado todo mês.</p><p class=\"mut\">Planeje com o contador antes de mexer.</p>",
+  "<p class=\"big\">Imposto também <span class=\"acc\">se planeja.</span></p><p>Sua empresa já fez a conta do Fator R? <b>Comenta aqui e manda pro seu sócio.</b></p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Fator R: o número que decide se sua empresa de serviço paga 15,5% ou 6% no Simples.</p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 1.183</div><p>Por mês a menos de imposto + INSS, numa empresa de serviço que fatura <b>R$ 15 mil</b>, só ajustando o pró-labore.</p><p class=\"mut\">Exemplo ilustrativo.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Sua empresa está no Anexo III ou no Anexo V do Simples?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Que tarefa você ainda faz <span class=\"acc\">que já devia ter passado?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nqual tarefa você ainda faz toda semana que já devia ter passado para alguém há um ano?\n\nConferir nota, responder orçamento, fechar o caixa, cobrar cliente.\n\nCada hora nisso é uma hora a menos vendendo, negociando ou pensando no próximo passo.\n\nQual é a sua?"
+  },
+  {
+   "card": "<p class=\"big\">Preço baixo atrai quem <span class=\"acc\">sai pelo próximo preço baixo.</span></p>",
+   "texto": "Preço baixo atrai o cliente que vai embora pelo próximo preço baixo.\n\nQuem compra só pelo preço não tem motivo para ficar. Aparece um concorrente R$ 5 mais barato e ele some.\n\nQuem fica é quem compra pelo atendimento, pelo prazo cumprido, pela confiança.\n\nBaixar preço é fácil. Construir motivo para o cliente voltar dá trabalho, mas é o que segura a empresa.\n\nVocê compete em preço ou em motivo?"
+  },
+  {
+   "card": "<div class=\"tag\">Finanças</div><p class=\"big\">Pró-labore não é <span class=\"acc\">tirar o que sobra.</span></p>",
+   "texto": "Pró-labore não é o mesmo que tirar dinheiro quando sobra.\n\nPró-labore é o salário do sócio: valor fixo, todo mês, com INSS.\n\nLucro é outra coisa. Só se distribui depois de fechar o mês e ver quanto a empresa realmente ganhou.\n\nQuem tira um pouco aqui, um pouco ali, não sabe se a empresa dá lucro ou se está sendo sustentada pelo caixa.\n\nVocê tem pró-labore definido?"
+  }
+ ],
+ "legenda_linkedin": "Pagar 15,5% ou 6% de imposto.\n\nPara muita empresa de serviço no Simples Nacional, quem decide isso é um número que pouca gente acompanha: o Fator R.\n\nA regra está na Lei Complementar 123: divida a folha dos últimos 12 meses (salários, pró-labore, INSS patronal e FGTS) pela receita dos mesmos 12 meses. Deu 28% ou mais, a empresa fica no Anexo III, que começa em 6%. Abaixo disso, vai para o Anexo V, que começa em 15,5%.\n\nUm exemplo ilustrativo:\n\nEmpresa de serviço que fatura R$ 15 mil por mês (R$ 180 mil no ano). O sócio tira R$ 2 mil de pró-labore e não tem funcionário. Fator R: 13,3%. Anexo V. Imposto do mês: R$ 2.325.\n\nPara chegar a 28%, a folha precisa ser de R$ 4.200 por mês. Subindo o pró-labore para esse valor, o INSS do sócio (11%) vai de R$ 220 para R$ 462. Em 2026, pró-labore de até R$ 5 mil não tem IR retido na fonte.\n\nNo Anexo III, o imposto cai para R$ 900. Somando imposto e INSS: R$ 2.545 contra R$ 1.362. São R$ 1.183 por mês, cerca de R$ 14 mil por ano.\n\nO cuidado: o Fator R usa a folha dos 12 meses anteriores e é recalculado todo mês. O ajuste leva tempo para aparecer, e cada CNAE tem sua regra. Faça a conta com o contador.\n\nFontes: Receita Federal (Portal do Simples Nacional) e Sebrae.\n\nSua empresa está no Anexo III ou no Anexo V?",
+ "legenda_instagram": "15,5% ou 6% de imposto? 👀\n\nSe sua empresa de serviço está no Simples, o Fator R decide. Folha dos últimos 12 meses ÷ faturamento dos últimos 12 meses: com 28% ou mais, Anexo III (a partir de 6%). Abaixo disso, Anexo V (a partir de 15,5%).\n\nNo exemplo do carrossel, ajustar o pró-labore economiza R$ 1.183 por mês. Arrasta pro lado que eu mostro a conta. 👉\n\nSalva e manda pro seu sócio (e pro contador).\n\n#empreendedorismo #simplesnacional #gestaoempresarial #impostos #empresario",
+ "legenda_threads": "Pagar 15,5% ou 6% de imposto no Simples?\n\nEm muita empresa de serviço, quem decide é o Fator R: folha dos últimos 12 meses ÷ faturamento. Com 28% ou mais, Anexo III. Abaixo, Anexo V.\n\nNo exemplo de uma empresa que fatura R$ 15 mil por mês, ajustar o pró-labore deixa R$ 1.183 por mês no caixa, já contando o INSS a mais.\n\nMostrei a conta no carrossel. Você já fez a sua?",
+ "fontes": [
+  "https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=415ad600-7d43-4e55-971b-55df99e95ef3",
+  "https://m.sebrae.com.br/sites/PortalSebrae/sebraeaz/empresas-do-simples-nacional-poderao-pagar-menos-impostos,9b0d427bf1ff0610VgnVCM1000004c00210aRCRD",
+  "https://documentacao.senior.com.br/exigenciaslegais/noticias/trabalhista-previdenciaria/2025/2025-11-27-trabalhista-lei-15-270-2025-reforma-do-imposto-de-renda-2026",
+  "https://coad.com.br/home/noticias-detalhe/135097/receita-federal-orienta-fontes-pagadoras-e-contribuintes-a-calcular-a-reducao-do-imposto-de-renda-a-partir-de-janeiro2026"
+ ]
+}

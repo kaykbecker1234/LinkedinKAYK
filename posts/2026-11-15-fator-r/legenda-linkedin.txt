@@ -1,0 +1,19 @@
+Pagar 15,5% ou 6% de imposto.
+
+Para muita empresa de serviço no Simples Nacional, quem decide isso é um número que pouca gente acompanha: o Fator R.
+
+A regra está na Lei Complementar 123: divida a folha dos últimos 12 meses (salários, pró-labore, INSS patronal e FGTS) pela receita dos mesmos 12 meses. Deu 28% ou mais, a empresa fica no Anexo III, que começa em 6%. Abaixo disso, vai para o Anexo V, que começa em 15,5%.
+
+Um exemplo ilustrativo:
+
+Empresa de serviço que fatura R$ 15 mil por mês (R$ 180 mil no ano). O sócio tira R$ 2 mil de pró-labore e não tem funcionário. Fator R: 13,3%. Anexo V. Imposto do mês: R$ 2.325.
+
+Para chegar a 28%, a folha precisa ser de R$ 4.200 por mês. Subindo o pró-labore para esse valor, o INSS do sócio (11%) vai de R$ 220 para R$ 462. Em 2026, pró-labore de até R$ 5 mil não tem IR retido na fonte.
+
+No Anexo III, o imposto cai para R$ 900. Somando imposto e INSS: R$ 2.545 contra R$ 1.362. São R$ 1.183 por mês, cerca de R$ 14 mil por ano.
+
+O cuidado: o Fator R usa a folha dos 12 meses anteriores e é recalculado todo mês. O ajuste leva tempo para aparecer, e cada CNAE tem sua regra. Faça a conta com o contador.
+
+Fontes: Receita Federal (Portal do Simples Nacional) e Sebrae.
+
+Sua empresa está no Anexo III ou no Anexo V?
