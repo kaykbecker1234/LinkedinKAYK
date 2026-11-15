@@ -29,6 +29,14 @@
   {
    "card": "<div class=\"tag\">Finanças</div><p class=\"big\">Pró-labore não é <span class=\"acc\">tirar o que sobra.</span></p>",
    "texto": "Pró-labore não é o mesmo que tirar dinheiro quando sobra.\n\nPró-labore é o salário do sócio: valor fixo, todo mês, com INSS.\n\nLucro é outra coisa. Só se distribui depois de fechar o mês e ver quanto a empresa realmente ganhou.\n\nQuem tira um pouco aqui, um pouco ali, não sabe se a empresa dá lucro ou se está sendo sustentada pelo caixa.\n\nVocê tem pró-labore definido?"
+  },
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"stat\">9,4 MI</p><p class=\"big\">de empresas <span class=\"acc\">no vermelho.</span></p>",
+   "texto": "Recorde: 9,4 milhões de empresas estão inadimplentes no Brasil, segundo a Serasa Experian (dados de setembro).\n\n95% são micro e pequenas.\n\nMuita empresa não quebra por falta de venda. Quebra porque vendeu, não recebeu e pagou as contas com empréstimo.\n\nAntes de vender a prazo, olhe para quem está vendendo. E cobre no primeiro dia de atraso, não no trigésimo.\n\nSua empresa cobra em dia?"
+  },
+  {
+   "card": "<div class=\"tag\">Juros</div><p class=\"stat\">13,75%</p><p class=\"big\">Crédito continua <span class=\"acc\">caro.</span></p>",
+   "texto": "A Selic parou de cair: o Copom manteve os juros em 13,75% ao ano em 4 de novembro, depois de cinco cortes seguidos.\n\nPara o empresário, o recado é simples: crédito continua caro.\n\nEmpréstimo para tapar buraco de caixa é o mais perigoso. Os juros chegam todo mês. A venda, nem sempre.\n\nAntes de ir ao banco, tente negociar prazo com fornecedor e cobrar quem te deve.\n\nQuanto sua empresa paga de juros por mês?"
   }
  ],
  "legenda_linkedin": "Pagar 15,5% ou 6% de imposto.\n\nPara muita empresa de serviço no Simples Nacional, quem decide isso é um número que pouca gente acompanha: o Fator R.\n\nA regra está na Lei Complementar 123: divida a folha dos últimos 12 meses (salários, pró-labore, INSS patronal e FGTS) pela receita dos mesmos 12 meses. Deu 28% ou mais, a empresa fica no Anexo III, que começa em 6%. Abaixo disso, vai para o Anexo V, que começa em 15,5%.\n\nUm exemplo ilustrativo:\n\nEmpresa de serviço que fatura R$ 15 mil por mês (R$ 180 mil no ano). O sócio tira R$ 2 mil de pró-labore e não tem funcionário. Fator R: 13,3%. Anexo V. Imposto do mês: R$ 2.325.\n\nPara chegar a 28%, a folha precisa ser de R$ 4.200 por mês. Subindo o pró-labore para esse valor, o INSS do sócio (11%) vai de R$ 220 para R$ 462. Em 2026, pró-labore de até R$ 5 mil não tem IR retido na fonte.\n\nNo Anexo III, o imposto cai para R$ 900. Somando imposto e INSS: R$ 2.545 contra R$ 1.362. São R$ 1.183 por mês, cerca de R$ 14 mil por ano.\n\nO cuidado: o Fator R usa a folha dos 12 meses anteriores e é recalculado todo mês. O ajuste leva tempo para aparecer, e cada CNAE tem sua regra. Faça a conta com o contador.\n\nFontes: Receita Federal (Portal do Simples Nacional) e Sebrae.\n\nSua empresa está no Anexo III ou no Anexo V?",
@@ -38,6 +46,10 @@
   "https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=415ad600-7d43-4e55-971b-55df99e95ef3",
   "https://m.sebrae.com.br/sites/PortalSebrae/sebraeaz/empresas-do-simples-nacional-poderao-pagar-menos-impostos,9b0d427bf1ff0610VgnVCM1000004c00210aRCRD",
   "https://documentacao.senior.com.br/exigenciaslegais/noticias/trabalhista-previdenciaria/2025/2025-11-27-trabalhista-lei-15-270-2025-reforma-do-imposto-de-renda-2026",
-  "https://coad.com.br/home/noticias-detalhe/135097/receita-federal-orienta-fontes-pagadoras-e-contribuintes-a-calcular-a-reducao-do-imposto-de-renda-a-partir-de-janeiro2026"
+  "https://coad.com.br/home/noticias-detalhe/135097/receita-federal-orienta-fontes-pagadoras-e-contribuintes-a-calcular-a-reducao-do-imposto-de-renda-a-partir-de-janeiro2026",
+  "https://www.contabeis.com.br/noticias/80875/inadimplencia-empresarial-chega-a-9-4-milhoes-de-cnpjs",
+  "https://www.letsmoney.com.br/credito/serasa-inadimplencia-empresas-setembro-2026/",
+  "https://www.suno.com.br/noticias/copom-mantem-selic-1375-novembro-2026-go/",
+  "https://istoe.com.br/copom-mantem-selic-1375-novembro-2026"
  ]
 }
