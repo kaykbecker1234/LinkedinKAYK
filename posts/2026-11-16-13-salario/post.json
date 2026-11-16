@@ -1,0 +1,27 @@
+{
+ "titulo": "13º põe R$ 399 bi na economia: sua empresa está pronta para vender e para pagar?",
+ "stories": [
+  "<div class=\"tag\">Assunto do dia</div><p class=\"big\">O 13º vai <span class=\"acc\">encher o caixa</span> do seu cliente.</p><p>Dezembro chega com dinheiro extra na rua. <b>Sua empresa está pronta para vender e para pagar o próprio 13º?</b></p>",
+  "<div class=\"tag\">Dado do dia</div><div class=\"stat\">R$ 399 BI</div><p>é quanto o 13º deve colocar na economia em 2026. São <b>99,7 milhões de pessoas</b> recebendo, em média, <b>R$ 3.720</b>.</p><p class=\"mut\">Fonte: Dieese, via CNN Brasil.</p>",
+  "<p class=\"big\">1ª parcela: <span class=\"acc\">até 30/11.</span></p><p>Quem não separou o dinheiro do 13º do time vai sentir o aperto agora.</p><div class=\"q\">Você já reservou o 13º da sua equipe? Responde no direct.</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Se tivesse que cortar 10% dos custos amanhã, <span class=\"acc\">por onde começaria?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nse você tivesse que cortar 10% dos custos amanhã, saberia por onde começar?\n\nQuem sabe responder tem os custos separados por linha: folha, aluguel, fornecedor, sistema, frete.\n\nQuem não sabe vai cortar no susto. E quase sempre corta o que não devia.\n\nQual seria o seu primeiro corte?"
+  },
+  {
+   "card": "<p class=\"big\">Funcionário bom raramente sai só pelo salário. <span class=\"acc\">Sai quando não vê futuro.</span></p>",
+   "texto": "Funcionário bom raramente sai só pelo salário.\n\nSai quando não sabe o que se espera dele, quando nunca ouve um retorno sobre o trabalho e quando não enxerga para onde pode crescer.\n\nAumento segura por alguns meses. Rumo claro segura por anos.\n\nVocê já conversou com o seu melhor funcionário sobre o próximo passo dele?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Cliente satisfeito não é o mesmo que <span class=\"acc\">cliente fiel.</span></p>",
+   "texto": "Cliente satisfeito não é o mesmo que cliente fiel.\n\nO satisfeito gostou, pagou e foi embora. Compra de novo se lembrar de você antes do concorrente.\n\nO fiel volta sem você pedir e ainda indica.\n\nA diferença quase nunca está no produto. Está no que acontece depois da venda: o retorno, o pós-venda, o problema resolvido rápido.\n\nO que sua empresa faz depois que o cliente paga?"
+  }
+ ],
+ "fontes": [
+  "https://www.dieese.org.br/notaaimprensa/2026/decimoTerceiroSalario2026.html",
+  "https://www.cnnbrasil.com.br/economia/money/macroeconomia/13o-salario-deve-injetar-r-399-bilhoes-na-economia-em-2026-estima-dieese/",
+  "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm"
+ ]
+}
