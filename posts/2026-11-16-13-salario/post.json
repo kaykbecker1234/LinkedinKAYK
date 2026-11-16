@@ -17,11 +17,23 @@
   {
    "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Cliente satisfeito não é o mesmo que <span class=\"acc\">cliente fiel.</span></p>",
    "texto": "Cliente satisfeito não é o mesmo que cliente fiel.\n\nO satisfeito gostou, pagou e foi embora. Compra de novo se lembrar de você antes do concorrente.\n\nO fiel volta sem você pedir e ainda indica.\n\nA diferença quase nunca está no produto. Está no que acontece depois da venda: o retorno, o pós-venda, o problema resolvido rápido.\n\nO que sua empresa faz depois que o cliente paga?"
+  },
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Crédito barato <span class=\"acc\">não vem tão cedo.</span></p><p>Focus de hoje: Selic projetada para o fim de 2027 subiu para <b>12,75%</b>.</p>",
+   "texto": "O Boletim Focus de hoje subiu a projeção da Selic para o fim de 2027: de 12,50% para 12,75% ao ano. Para o fim de 2026, segue em 13,75%.\n\nTradução para quem tem empresa: crédito barato não vem tão cedo.\n\nSe o seu plano para o ano que vem depende de pegar empréstimo mais em conta, refaça a conta com o juro de hoje.\n\nCrescer com caixa próprio ficou ainda mais valioso.\n\nSua empresa depende de crédito para girar?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado + comentário</div><div class=\"stat\">3,93 MI</div><p>de pequenos negócios abertos no Brasil de janeiro a agosto de 2026. <b>Abrir é a parte fácil.</b></p><p class=\"src\">Fonte: Sebrae</p>",
+   "texto": "De janeiro a agosto de 2026, o Brasil abriu 3,93 milhões de pequenos negócios, 14,3% a mais que no mesmo período de 2025. 77% são MEI. Os dados são do Sebrae.\n\nAbrir CNPJ é a parte fácil.\n\nO que mantém a empresa de pé é outra coisa: preço que cobre o custo, caixa separado da conta pessoal e cliente que volta.\n\nSe você abriu este ano, qual dessas três está mais fraca hoje?"
   }
  ],
  "fontes": [
   "https://www.dieese.org.br/notaaimprensa/2026/decimoTerceiroSalario2026.html",
   "https://www.cnnbrasil.com.br/economia/money/macroeconomia/13o-salario-deve-injetar-r-399-bilhoes-na-economia-em-2026-estima-dieese/",
-  "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm"
+  "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm",
+  "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/",
+  "https://sbtnews.sbt.com.br/noticia/economia/focus-mercado-eleva-previsoes-de-inflacao-e-selic-para-2027",
+  "https://agenciasebrae.com.br/dados/quase-4-milhoes-de-pequenos-negocios-ja-foram-abertos-em-2026/",
+  "https://www.cartacapital.com.br/do-micro-ao-macro/quase-4-milhoes-de-pequenos-negocios-ja-foram-abertos-em-2026/"
  ]
 }
