@@ -1,44 +1,57 @@
 {
- "titulo": "Antecipar a maquininha: a taxa de 2,5% que come metade do lucro",
- "css_extra": ".story .stat{font-size:200px;white-space:nowrap}",
- "slides": [
-  "<p class=\"big\">Antecipar a maquininha <span class=\"acc\">custa caro.</span></p><p>Uma taxa de 2,5% parece pequena. Na venda parcelada, ela pode levar <b>metade do seu lucro.</b> A conta em 5 passos.</p>",
-  "<div class=\"tag\">O que é antecipação</div><p class=\"big\" style=\"font-size:100px\">Receber hoje, <span class=\"acc\">pagar juros</span></p><div class=\"box\"><p>Venda parcelada no cartão cai na conta <b>mês a mês.</b></p><p>Antecipar é pedir para a maquininha adiantar esse dinheiro. Ela cobra uma taxa <b>por mês adiantado</b>, em cada parcela.</p></div>",
-  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 5 · O exemplo</div><div class=\"stat\">R$ 3 MIL</div><p>Venda de <b>R$ 3 mil em 3x</b> no cartão: três parcelas de R$ 1.000.</p><p>Taxa de antecipação: <b>2,5% ao mês.</b></p><p class=\"mut\">Números ilustrativos. Cada maquininha tem sua tabela.</p>",
-  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 5 · Parcela por parcela</div><ol><li>1ª parcela (30 dias): 2,5% = R$&nbsp;25</li><li>2ª parcela (60 dias): 5% = R$&nbsp;50</li><li>3ª parcela (90 dias): 7,5% = R$&nbsp;75</li></ol><p class=\"mut\">Quanto mais longe a parcela, mais cara a antecipação.</p>",
-  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 5 · Some</div><div class=\"stat\">R$ 150</div><p>Saem <b>5% da venda</b> só para receber antes.</p><p>E isso vem <b>além</b> da taxa normal do cartão.</p>",
-  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 5 · Compare com o lucro</div><div class=\"stat\">METADE</div><p>Com margem de lucro de <b>10%</b>, a venda de R$ 3 mil deixava <b>R$ 300.</b></p><p>Antecipando, sobram <b>R$ 150.</b> Metade do lucro foi para a maquininha.</p>",
-  "<div class=\"bg\">05</div><div class=\"tag\">Passo 5 de 5 · Em juros do ano</div><div class=\"stat\">34%</div><p>2,5% ao mês, mês após mês, viram cerca de <b>34% ao ano.</b></p><p>É mais que o dobro da Selic, hoje em <b>13,75%.</b></p><p class=\"mut\">Antecipar tudo, todo mês, é um empréstimo caro e fixo.</p>",
-  "<div class=\"tag\">O que fazer</div><ol><li>Antecipe só quando precisar, não tudo no automático</li><li>Compare a taxa de 2 ou 3 maquininhas</li><li>Dê desconto no Pix à vista</li><li>Alinhe o prazo do fornecedor ao do cartão</li></ol>",
-  "<p class=\"big\">Dinheiro adiantado <span class=\"acc\">tem preço.</span></p><p>Sua empresa antecipa tudo no automático? <b>Comenta aqui e manda pro seu sócio.</b></p>"
- ],
- "stories": [
-  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>A taxa de antecipação da maquininha que pode levar metade do lucro da sua venda parcelada.</p><div class=\"cta\">Vai lá ver</div>",
-  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 150</div><p>É o custo de antecipar uma venda de <b>R$ 3 mil em 3x</b> a 2,5% ao mês. Metade do lucro, com margem de 10%.</p><p class=\"mut\">Exemplo ilustrativo.</p>",
-  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você antecipa as vendas no cartão? Sabe quanto paga de taxa?</div>"
- ],
- "threads": [
-  {
-   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Que número você olha <span class=\"acc\">toda segunda?</span></p>",
-   "texto": "Pergunta para dono de empresa:\n\nqual número você olha toda segunda-feira de manhã?\n\nSaldo do caixa, vendas da semana, contas a receber, margem.\n\nQuem não olha nenhum toma decisão pelo humor do dia. E descobre o problema quando o boleto não fecha.\n\nUm número só, toda semana, já muda o jogo.\n\nQual é o seu?"
-  },
-  {
-   "card": "<p class=\"big\">Processo não engessa. <span class=\"acc\">Processo libera o dono.</span></p>",
-   "texto": "Processo não engessa a empresa. Processo libera o dono.\n\nSem processo, toda dúvida vira pergunta para você. Todo pedido passa pela sua mão. Você vira o gargalo.\n\nCom o passo a passo escrito, o time resolve sozinho o que é rotina. E você fica com o que só você pode fazer.\n\nComeça pela tarefa que mais te interrompe.\n\nQual seria a sua?"
-  },
-  {
-   "card": "<div class=\"tag\">Atendimento</div><p class=\"big\">Responder rápido não é <span class=\"acc\">atender bem.</span></p>",
-   "texto": "Responder rápido no WhatsApp não é o mesmo que atender bem.\n\nRápido é mandar um \"oi, tudo bem?\" em 10 segundos.\n\nBem é resolver o que o cliente pediu: preço certo, prazo certo, sem ele ter que perguntar duas vezes.\n\nCliente perdoa uma resposta que demora meia hora. Não perdoa ter que explicar tudo de novo.\n\nSua empresa mede a velocidade ou a solução?"
-  }
- ],
- "legenda_linkedin": "Uma taxa de 2,5% parece pequena.\n\nNa antecipação da maquininha, ela pode levar metade do lucro de uma venda parcelada.\n\nComo funciona: a venda parcelada no cartão cai na conta mês a mês. Quando a empresa antecipa, a maquininha adianta o dinheiro e cobra a taxa por mês adiantado, em cada parcela.\n\nUm exemplo ilustrativo:\n\nVenda de R$ 3 mil em 3x. Taxa de antecipação de 2,5% ao mês.\n\n1ª parcela (30 dias): R$ 25.\n2ª parcela (60 dias): R$ 50.\n3ª parcela (90 dias): R$ 75.\n\nTotal: R$ 150, ou 5% da venda. Isso além da taxa normal do cartão.\n\nCom margem de lucro de 10%, essa venda deixava R$ 300. Antecipando, sobram R$ 150.\n\nE 2,5% ao mês, mês após mês, viram cerca de 34% ao ano. Mais que o dobro da Selic, que o Copom manteve em 13,75% neste mês.\n\nAntecipar não é proibido. O problema é antecipar tudo, no automático, sem fazer a conta.\n\nO que fazer:\n→ Antecipe só quando precisar.\n→ Compare a taxa de 2 ou 3 maquininhas.\n→ Dê desconto no Pix à vista.\n→ Alinhe o prazo do fornecedor ao prazo do cartão.\n\nFontes: guia de cartões de pagamento do Sebrae, Stone e Copom/Banco Central (via Suno e IstoÉ).\n\nSua empresa antecipa as vendas no cartão? Já fez essa conta?",
- "legenda_instagram": "2,5% parece pouco. Não é. 👀\n\nNa antecipação da maquininha, a taxa é cobrada por mês adiantado, em cada parcela. Numa venda de R$ 3 mil em 3x, saem R$ 150. Com margem de 10%, é metade do lucro.\n\nArrasta pro lado que eu mostro a conta e o que fazer. 👉\n\nSalva e manda pro seu sócio.\n\n#empreendedorismo #gestaofinanceira #fluxodecaixa #pequenasempresas #empresario",
- "legenda_threads": "2,5% de taxa parece pouco.\n\nNa antecipação da maquininha, a taxa é cobrada por mês adiantado, em cada parcela. Venda de R$ 3 mil em 3x: R$ 25 + R$ 50 + R$ 75 = R$ 150.\n\nCom margem de 10%, a venda deixava R$ 300 de lucro. Antecipando, sobram R$ 150.\n\nE 2,5% ao mês viram cerca de 34% ao ano.\n\nMostrei a conta no carrossel. Você antecipa no automático?",
- "fontes": [
-  "https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/MS/Anexos/Guia%20para%20Empresario%20-Cartoes%20de%20Pagamento.PDF",
-  "https://conteudo.stone.com.br/taxa-de-antecipacao-de-recebiveis/",
-  "https://blog.asaas.com/antecipacao-de-recebiveis-tire-suas-principais-duvidas-sobre-o-assunto",
-  "https://www.suno.com.br/noticias/copom-mantem-selic-1375-novembro-2026-go/",
-  "https://istoe.com.br/copom-mantem-selic-1375-novembro-2026"
- ]
+  "titulo": "Antecipar a maquininha: a taxa de 2,5% que come metade do lucro",
+  "css_extra": ".story .stat{font-size:200px;white-space:nowrap}",
+  "slides": [
+    "<p class=\"big\">Antecipar a maquininha <span class=\"acc\">custa caro.</span></p><p>Uma taxa de 2,5% parece pequena. Na venda parcelada, ela pode levar <b>metade do seu lucro.</b> A conta em 5 passos.</p>",
+    "<div class=\"tag\">O que é antecipação</div><p class=\"big\" style=\"font-size:100px\">Receber hoje, <span class=\"acc\">pagar juros</span></p><div class=\"box\"><p>Venda parcelada no cartão cai na conta <b>mês a mês.</b></p><p>Antecipar é pedir para a maquininha adiantar esse dinheiro. Ela cobra uma taxa <b>por mês adiantado</b>, em cada parcela.</p></div>",
+    "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 5 · O exemplo</div><div class=\"stat\">R$ 3 MIL</div><p>Venda de <b>R$ 3 mil em 3x</b> no cartão: três parcelas de R$ 1.000.</p><p>Taxa de antecipação: <b>2,5% ao mês.</b></p><p class=\"mut\">Números ilustrativos. Cada maquininha tem sua tabela.</p>",
+    "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 5 · Parcela por parcela</div><ol><li>1ª parcela (30 dias): 2,5% = R$&nbsp;25</li><li>2ª parcela (60 dias): 5% = R$&nbsp;50</li><li>3ª parcela (90 dias): 7,5% = R$&nbsp;75</li></ol><p class=\"mut\">Quanto mais longe a parcela, mais cara a antecipação.</p>",
+    "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 5 · Some</div><div class=\"stat\">R$ 150</div><p>Saem <b>5% da venda</b> só para receber antes.</p><p>E isso vem <b>além</b> da taxa normal do cartão.</p>",
+    "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 5 · Compare com o lucro</div><div class=\"stat\">METADE</div><p>Com margem de lucro de <b>10%</b>, a venda de R$ 3 mil deixava <b>R$ 300.</b></p><p>Antecipando, sobram <b>R$ 150.</b> Metade do lucro foi para a maquininha.</p>",
+    "<div class=\"bg\">05</div><div class=\"tag\">Passo 5 de 5 · Em juros do ano</div><div class=\"stat\">34%</div><p>2,5% ao mês, mês após mês, viram cerca de <b>34% ao ano.</b></p><p>É mais que o dobro da Selic, hoje em <b>13,75%.</b></p><p class=\"mut\">Antecipar tudo, todo mês, é um empréstimo caro e fixo.</p>",
+    "<div class=\"tag\">O que fazer</div><ol><li>Antecipe só quando precisar, não tudo no automático</li><li>Compare a taxa de 2 ou 3 maquininhas</li><li>Dê desconto no Pix à vista</li><li>Alinhe o prazo do fornecedor ao do cartão</li></ol>",
+    "<p class=\"big\">Dinheiro adiantado <span class=\"acc\">tem preço.</span></p><p>Sua empresa antecipa tudo no automático? <b>Comenta aqui e manda pro seu sócio.</b></p>"
+  ],
+  "stories": [
+    "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>A taxa de antecipação da maquininha que pode levar metade do lucro da sua venda parcelada.</p><div class=\"cta\">Vai lá ver</div>",
+    "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 150</div><p>É o custo de antecipar uma venda de <b>R$ 3 mil em 3x</b> a 2,5% ao mês. Metade do lucro, com margem de 10%.</p><p class=\"mut\">Exemplo ilustrativo.</p>",
+    "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você antecipa as vendas no cartão? Sabe quanto paga de taxa?</div>"
+  ],
+  "threads": [
+    {
+      "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Que número você olha <span class=\"acc\">toda segunda?</span></p>",
+      "texto": "Pergunta para dono de empresa:\n\nqual número você olha toda segunda-feira de manhã?\n\nSaldo do caixa, vendas da semana, contas a receber, margem.\n\nQuem não olha nenhum toma decisão pelo humor do dia. E descobre o problema quando o boleto não fecha.\n\nUm número só, toda semana, já muda o jogo.\n\nQual é o seu?"
+    },
+    {
+      "card": "<p class=\"big\">Processo não engessa. <span class=\"acc\">Processo libera o dono.</span></p>",
+      "texto": "Processo não engessa a empresa. Processo libera o dono.\n\nSem processo, toda dúvida vira pergunta para você. Todo pedido passa pela sua mão. Você vira o gargalo.\n\nCom o passo a passo escrito, o time resolve sozinho o que é rotina. E você fica com o que só você pode fazer.\n\nComeça pela tarefa que mais te interrompe.\n\nQual seria a sua?"
+    },
+    {
+      "card": "<div class=\"tag\">Atendimento</div><p class=\"big\">Responder rápido não é <span class=\"acc\">atender bem.</span></p>",
+      "texto": "Responder rápido no WhatsApp não é o mesmo que atender bem.\n\nRápido é mandar um \"oi, tudo bem?\" em 10 segundos.\n\nBem é resolver o que o cliente pediu: preço certo, prazo certo, sem ele ter que perguntar duas vezes.\n\nCliente perdoa uma resposta que demora meia hora. Não perdoa ter que explicar tudo de novo.\n\nSua empresa mede a velocidade ou a solução?"
+    },
+    {
+      "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">A Meta vai <span class=\"acc\">comparar seu preço.</span></p><p>Achados, o app novo da Meta, junta Marketplace, grupos do Facebook e Instagram. E <b>marca quem está mais barato.</b></p>",
+      "texto": "A Meta lançou hoje no Brasil o Achados, app que junta o que está à venda no Facebook Marketplace, nos grupos e no Instagram. Por enquanto, só para Android.\n\nUm detalhe chama atenção: o app destaca anúncios com preço abaixo de produtos parecidos.\n\nSe você vende pelo Instagram, seu cliente vai ver seu preço do lado do concorrente.\n\nQuem briga só no preço perde. Foto boa, resposta rápida e boa avaliação viram diferencial.\n\nVocê já vende por lá?"
+    },
+    {
+      "card": "<div class=\"tag\">Dado + comentário</div><div class=\"stat\" style=\"font-size:215px\">R$ 40,4 BI</div><p>saíram do orçamento das famílias para as bets de janeiro a julho de 2026. <b>É dinheiro que não passou no seu caixa.</b></p><p class=\"src\">Fonte: Comsefaz (estimativa)</p>",
+      "texto": "Um estudo do Comsefaz estima que as bets tiraram R$ 40,4 bilhões, em termos líquidos, do orçamento das famílias de janeiro a julho de 2026.\n\nE quase 30% da renda das famílias já vai para pagar juros e dívidas.\n\nPara quem vende, isso é cliente com menos sobra no fim do mês.\n\nAntes de vender a prazo, olhe o histórico de quem compra. E tenha uma opção de entrada para quem está apertado.\n\nSeu cliente está pagando em dia?"
+    }
+  ],
+  "legenda_linkedin": "Uma taxa de 2,5% parece pequena.\n\nNa antecipação da maquininha, ela pode levar metade do lucro de uma venda parcelada.\n\nComo funciona: a venda parcelada no cartão cai na conta mês a mês. Quando a empresa antecipa, a maquininha adianta o dinheiro e cobra a taxa por mês adiantado, em cada parcela.\n\nUm exemplo ilustrativo:\n\nVenda de R$ 3 mil em 3x. Taxa de antecipação de 2,5% ao mês.\n\n1ª parcela (30 dias): R$ 25.\n2ª parcela (60 dias): R$ 50.\n3ª parcela (90 dias): R$ 75.\n\nTotal: R$ 150, ou 5% da venda. Isso além da taxa normal do cartão.\n\nCom margem de lucro de 10%, essa venda deixava R$ 300. Antecipando, sobram R$ 150.\n\nE 2,5% ao mês, mês após mês, viram cerca de 34% ao ano. Mais que o dobro da Selic, que o Copom manteve em 13,75% neste mês.\n\nAntecipar não é proibido. O problema é antecipar tudo, no automático, sem fazer a conta.\n\nO que fazer:\n→ Antecipe só quando precisar.\n→ Compare a taxa de 2 ou 3 maquininhas.\n→ Dê desconto no Pix à vista.\n→ Alinhe o prazo do fornecedor ao prazo do cartão.\n\nFontes: guia de cartões de pagamento do Sebrae, Stone e Copom/Banco Central (via Suno e IstoÉ).\n\nSua empresa antecipa as vendas no cartão? Já fez essa conta?",
+  "legenda_instagram": "2,5% parece pouco. Não é. 👀\n\nNa antecipação da maquininha, a taxa é cobrada por mês adiantado, em cada parcela. Numa venda de R$ 3 mil em 3x, saem R$ 150. Com margem de 10%, é metade do lucro.\n\nArrasta pro lado que eu mostro a conta e o que fazer. 👉\n\nSalva e manda pro seu sócio.\n\n#empreendedorismo #gestaofinanceira #fluxodecaixa #pequenasempresas #empresario",
+  "legenda_threads": "2,5% de taxa parece pouco.\n\nNa antecipação da maquininha, a taxa é cobrada por mês adiantado, em cada parcela. Venda de R$ 3 mil em 3x: R$ 25 + R$ 50 + R$ 75 = R$ 150.\n\nCom margem de 10%, a venda deixava R$ 300 de lucro. Antecipando, sobram R$ 150.\n\nE 2,5% ao mês viram cerca de 34% ao ano.\n\nMostrei a conta no carrossel. Você antecipa no automático?",
+  "fontes": [
+    "https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/MS/Anexos/Guia%20para%20Empresario%20-Cartoes%20de%20Pagamento.PDF",
+    "https://conteudo.stone.com.br/taxa-de-antecipacao-de-recebiveis/",
+    "https://blog.asaas.com/antecipacao-de-recebiveis-tire-suas-principais-duvidas-sobre-o-assunto",
+    "https://www.suno.com.br/noticias/copom-mantem-selic-1375-novembro-2026-go/",
+    "https://istoe.com.br/copom-mantem-selic-1375-novembro-2026",
+    "https://g1.globo.com/tecnologia/noticia/2026/11/17/meta-lanca-app-de-compra-e-venda-de-produtos-usados-no-brasil-para-concorrer-com-enjoei.ghtml",
+    "https://about.fb.com/br/news/2026/11/chegou-o-achados-o-melhor-lugar-para-garimpar-tudo-o-que-voce-ama/",
+    "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+    "Poder360, 16/11/2026: 'Bets estão associadas à saída de R$ 40,4 bi das famílias, diz Comsefaz'",
+    "Comsefaz, 4º Boletim Fiscal dos Estados Brasileiros: 'Estudo aponta R$ 40,4 bilhões em transferências líquidas associadas às bets nos primeiros sete meses de 2026'"
+  ]
 }
