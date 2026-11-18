@@ -1,0 +1,26 @@
+{
+ "titulo": "Pequena empresa busca 10% mais crédito: para investir ou para tapar buraco?",
+ "stories": [
+  "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Pequena empresa está pegando <span class=\"acc\">mais crédito.</span></p><p>Com juro alto. <b>A pergunta é: esse dinheiro vai para crescer ou para fechar o mês?</b></p>",
+  "<div class=\"tag\">Dado do dia</div><div class=\"stat\">+10%</div><p>foi o aumento da busca por crédito das <b>micro e pequenas empresas</b> nos 12 meses até setembro.</p><p class=\"mut\">Fonte: Serasa Experian, via Times Brasil e Mercado&amp;Consumo.</p>",
+  "<p class=\"big\">Empréstimo para pagar conta atrasada é <span class=\"acc\">buraco novo.</span></p><p>Crédito bom paga a si mesmo: estoque que gira, máquina que produz mais.</p><div class=\"q\">Sua empresa pegou crédito este ano? Para investir ou para cobrir o caixa? Responde no direct.</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Você tem cliente que dá <span class=\"acc\">mais trabalho do que lucro?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nvocê tem algum cliente que dá mais trabalho do que lucro?\n\nAquele que pede desconto em toda compra, paga atrasado e exige atendimento de cliente grande.\n\nFaz a conta: quanto ele paga, quanto custa o tempo do seu time com ele e quanto você perde esperando o pagamento.\n\nÀs vezes o melhor negócio é renegociar. Ou deixar ir.\n\nVocê já perdeu um cliente e o lucro aumentou?"
+  },
+  {
+   "card": "<p class=\"big\">Treinar custa. <span class=\"acc\">Não treinar custa mais.</span></p>",
+   "texto": "Treinar funcionário custa. Não treinar custa mais.\n\nO funcionário sem treino erra o pedido, refaz o serviço, atende mal e pergunta tudo para o dono.\n\nCada erro desses se repete todo dia, sem aparecer em nenhuma planilha.\n\nUm passo a passo escrito e uma tarde de treino resolvem boa parte disso.\n\nQuanto tempo você dedicou a treinar sua equipe este mês?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Ocupado não é o mesmo que <span class=\"acc\">produtivo.</span></p>",
+   "texto": "Ocupado não é o mesmo que produtivo.\n\nTem dono que trabalha 12 horas por dia apagando incêndio: responde mensagem, resolve problema do funcionário, corre atrás de fornecedor.\n\nNo fim do dia, cansado, não fez nada que faça a empresa vender mais ou gastar menos.\n\nAgenda cheia não é sinal de empresa crescendo.\n\nQuantas horas da sua semana vão para o que realmente traz dinheiro?"
+  }
+ ],
+ "fontes": [
+  "https://timesbrasil.com.br/brasil/procura-por-credito-reflete-necessidades-das-empresas-mas-enfrenta-mercado-mais-restritivo-diz-serasa",
+  "https://mercadoeconsumo.com.br/17/11/2026/economia/serasa-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao"
+ ]
+}
