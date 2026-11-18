@@ -17,10 +17,22 @@
   {
    "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Ocupado não é o mesmo que <span class=\"acc\">produtivo.</span></p>",
    "texto": "Ocupado não é o mesmo que produtivo.\n\nTem dono que trabalha 12 horas por dia apagando incêndio: responde mensagem, resolve problema do funcionário, corre atrás de fornecedor.\n\nNo fim do dia, cansado, não fez nada que faça a empresa vender mais ou gastar menos.\n\nAgenda cheia não é sinal de empresa crescendo.\n\nQuantas horas da sua semana vão para o que realmente traz dinheiro?"
+  },
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">A economia <span class=\"acc\">pisou no freio.</span></p><p>O PIB caiu 0,2% no 3º trimestre, segundo o Monitor do PIB da FGV. <b>Primeira queda depois de 20 trimestres de alta.</b></p><p class=\"src\">Fonte: FGV Ibre (estimativa)</p>",
+   "texto": "O Monitor do PIB da FGV, divulgado hoje, estima que a economia caiu 0,2% no 3º trimestre. É a primeira queda depois de 20 trimestres seguidos de alta.\n\nO consumo das famílias cresceu só 0,3% na comparação com um ano antes, o menor ritmo em quase um ano.\n\nCliente mais cauteloso compra menos e demora mais para decidir.\n\nÉ hora de olhar o caixa e o custo fixo antes de assumir gasto novo.\n\nSuas vendas já sentiram?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado + comentário</div><div class=\"stat\">5,2%</div><p>foi o desemprego no Brasil no 3º trimestre. Em Santa Catarina, <b>2,2%.</b></p><p>Com pouca gente procurando emprego, <b>quem é bom escolhe onde trabalhar.</b></p><p class=\"src\">Fonte: IBGE, Pnad Contínua</p>",
+   "texto": "O desemprego ficou em 5,2% no 3º trimestre, segundo o IBGE. Um ano antes era 5,6%. Em Santa Catarina, só 2,2%.\n\nPara quem contrata, isso tem outro nome: falta gente.\n\nA vaga demora mais para fechar, o salário pedido sobe e o funcionário bom recebe proposta do concorrente.\n\nSai mais barato segurar quem já está na equipe do que repor depois.\n\nQuanto tempo a última vaga da sua empresa ficou aberta?"
   }
  ],
  "fontes": [
   "https://timesbrasil.com.br/brasil/procura-por-credito-reflete-necessidades-das-empresas-mas-enfrenta-mercado-mais-restritivo-diz-serasa",
-  "https://mercadoeconsumo.com.br/17/11/2026/economia/serasa-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao"
+  "https://mercadoeconsumo.com.br/17/11/2026/economia/serasa-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao",
+  "https://www.cnnbrasil.com.br/economia/money/macroeconomia/monitor-do-pib-medido-pela-fgv-aponta-queda-de-02-no-3o-trimestre/",
+  "https://www.infomoney.com.br/economia/monitor-do-pib-medido-pela-fgv-aponta-queda-de-02-no-3o-trimestre-ante-2o-trimestre/",
+  "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ibge-taxa-de-desemprego-recua-em-8-das-27-unidades-da-federacao-no-3o-trimestre/",
+  "https://www.spacemoney.com.br/economia/indicadores-economicos/desemprego-5-2-3-trimestre-2026"
  ]
 }
