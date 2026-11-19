@@ -1,0 +1,43 @@
+{
+ "titulo": "Pró-labore: quanto o dono pode tirar sem quebrar a empresa",
+ "slides": [
+  "<p class=\"big\">Você tira <span class=\"acc\">o que sobra?</span></p><p>Isso não é salário. É sorte.</p><p><b>Pró-labore em 5 passos:</b> quanto o dono pode tirar sem quebrar a empresa.</p>",
+  "<div class=\"bg\">01</div><div class=\"tag\">Passo 1 de 5</div><p class=\"big\">Separe os <span class=\"acc\">dois dinheiros</span></p><div class=\"box\"><p><b>Pró-labore:</b> seu salário pelo trabalho. Fixo, todo mês.</p><p><b>Lucro:</b> o que sobra depois que o mês fecha.</p></div><p class=\"mut\">Misturou os dois? Você nunca vai saber se a empresa dá lucro.</p>",
+  "<div class=\"bg\">02</div><div class=\"tag\">Passo 2 de 5</div><p class=\"big\">Quanto custaria <span class=\"acc\">te substituir?</span></p><div class=\"box\"><p>Se você contratasse alguém para fazer o seu trabalho, quanto pagaria?</p><p>Esse é o <b>ponto de partida</b> do seu pró-labore.</p></div><p class=\"mut\">Se a empresa não aguenta pagar isso, o problema não é o seu salário. É o negócio.</p>",
+  "<div class=\"bg\">03</div><div class=\"tag\">Passo 3 de 5 · Ponto de equilíbrio</div><div class=\"stat\">R$ 65 MIL</div><p>é quanto precisa vender quem tem <b>R$ 20 mil de custo fixo</b>, <b>R$ 6 mil de pró-labore</b> e margem de 40%.</p><p class=\"mut\">Sem o seu salário na conta, parecia R$ 50 mil. Vendeu R$ 55 mil? Faltam R$ 10 mil.</p>",
+  "<div class=\"bg\">04</div><div class=\"tag\">Passo 4 de 5</div><p class=\"big\">Lucro só com o <span class=\"acc\">mês fechado</span></p><div class=\"box\"><p>Receitas − todos os custos − pró-labore = <b>lucro.</b></p><p>Primeiro separa a reserva. <b>Depois</b> distribui.</p></div><p class=\"mut\">Regra prática do mercado: reserva de 3 a 6 meses de custo fixo.</p>",
+  "<div class=\"bg\">05</div><div class=\"tag\">Passo 5 de 5</div><p class=\"big\" style=\"font-size:96px\">Cada um tem <span class=\"acc\">seu imposto</span></p><div class=\"vs\"><div class=\"hd\">Pró-labore</div><div class=\"hd r\">Lucro distribuído</div><div>11% de INSS do sócio</div><div>Sem INSS</div><div>Conta para a aposentadoria</div><div>Não conta</div><div>IR pela tabela (zero até R$ 5 mil)</div><div>Acima de R$ 50 mil/mês da mesma empresa: retém 10%</div></div><p class=\"src\">Fontes: Lei 15.270/2025, Receita Federal, Caixa, BDMG. Confirme seu caso com o contador.</p>",
+  "<p class=\"big\" style=\"font-size:96px\">Achismo vs <span class=\"acc\">gestão</span></p><div class=\"vs\"><div class=\"hd\">Achismo</div><div class=\"hd r\">Gestão</div><div>“Tiro o que sobra”</div><div>“Tiro R$ 6 mil fixos todo dia 5”</div><div>“Lucro é o que tem na conta”</div><div>“Lucro é o que sobra depois do meu salário”</div><div>“Pego quando preciso”</div><div>“Distribuo depois de fechar o mês”</div></div>",
+  "<p class=\"big\">Dono sem salário <span class=\"acc\">tem emprego, não empresa.</span></p><p>Você tem pró-labore fixo ou tira o que sobra? <b>Comenta aqui.</b></p>"
+ ],
+ "stories": [
+  "<p class=\"big\">Post novo no <span class=\"acc\">feed</span></p><p>Pró-labore em 5 passos: quanto o dono pode tirar <b>sem quebrar a empresa.</b></p><div class=\"cta\">Vai lá ver</div>",
+  "<div class=\"tag\">Conta rápida</div><div class=\"stat\">R$ 15 MIL</div><p>a mais de venda por mês: é o que <b>R$ 6 mil de pró-labore</b> exigem com margem de 40%.</p><p class=\"mut\">R$ 6 mil ÷ 40% = R$ 15 mil.</p>",
+  "<p class=\"big\">Responde no <span class=\"acc\">direct</span></p><div class=\"q\">Você tem pró-labore fixo ou tira o que sobra no fim do mês?</div>"
+ ],
+ "threads": [
+  {
+   "card": "<div class=\"tag\">Pergunta</div><p class=\"big\">Qual decisão saiu cara por <span class=\"acc\">falta de conta?</span></p>",
+   "texto": "Pergunta para dono de empresa:\n\nqual foi a decisão mais cara que você tomou sem fazer conta antes?\n\nPode ser a contratação no impulso, o desconto que virou prejuízo, o estoque comprado porque estava barato ou o ponto novo que não se pagou.\n\nTodo empresário tem uma dessas. O problema é repetir.\n\nConta aqui a sua. Pode ajudar quem está prestes a cometer a mesma."
+  },
+  {
+   "card": "<p class=\"big\">Orçamento sem retorno é <span class=\"acc\">venda abandonada.</span></p>",
+   "texto": "Orçamento enviado sem retorno é venda abandonada.\n\nO cliente pediu preço porque tinha interesse. Se você não liga de novo, alguém liga.\n\nMuita empresa gasta com anúncio para gerar contato e depois deixa o orçamento morrer no WhatsApp.\n\nUma lista simples resolve: quem recebeu orçamento, em que dia, e quando você vai retornar.\n\nQuantos orçamentos parados você tem hoje?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Funcionário antigo não é o mesmo que <span class=\"acc\">funcionário bom.</span></p>",
+   "texto": "Funcionário antigo não é o mesmo que funcionário bom.\n\nTempo de casa vale muito quando vem com entrega. Sem entrega, vira só costume.\n\nTem empresa que segura alguém há 10 anos porque \"sempre esteve aqui\", enquanto o time inteiro vê e aprende que resultado não importa.\n\nLealdade se reconhece. Desempenho se cobra. Os dois juntos.\n\nNa sua empresa, quem é promovido: quem entrega ou quem está há mais tempo?"
+  }
+ ],
+ "legenda_linkedin": "Tem dono de empresa que não tem salário.\n\nTira o que sobra no fim do mês. Quando sobra.\n\nIsso não é pró-labore. É sorte. E esconde se a empresa dá lucro ou não.\n\nO caminho em 5 passos:\n\n1. Separe os dois dinheiros. Pró-labore é o salário pelo seu trabalho, fixo. Lucro é o que sobra depois que o mês fecha.\n\n2. Defina o valor pelo mercado. Quanto você pagaria para alguém fazer o seu trabalho? Esse é o ponto de partida.\n\n3. Coloque no custo fixo. Com R$ 20 mil de custo fixo, R$ 6 mil de pró-labore e margem de 40%, o ponto de equilíbrio é R$ 65 mil, não R$ 50 mil.\n\n4. Lucro só com o mês fechado. Primeiro a reserva de caixa, depois a distribuição.\n\n5. Conheça o imposto de cada um. Sobre o pró-labore, o sócio paga 11% de INSS. O lucro distribuído não tem INSS, mas desde janeiro de 2026 a Lei 15.270 retém 10% de IR quando a mesma empresa paga mais de R$ 50 mil por mês ao mesmo sócio (Planalto, Receita Federal). Fora do Simples, ou no Anexo IV, ainda entra o INSS patronal (Caixa, BDMG).\n\nZerar o pró-labore e tirar tudo como lucro pode virar problema com o Fisco. Vale fechar o desenho com o contador.\n\nVocê tem pró-labore fixo ou tira o que sobra?",
+ "legenda_instagram": "Você tira o que sobra no fim do mês? 👀\n\nIsso não é salário. É sorte.\n\nPró-labore em 5 passos:\n01 Separe salário e lucro\n02 Defina o valor pelo mercado\n03 Coloque no custo fixo\n04 Lucro só com o mês fechado\n05 Conheça o imposto de cada um\n\nArrasta pro lado que tem a conta completa. 👉\n\nSalva pra definir o seu e manda pro sócio.\n\nComenta: você tem pró-labore fixo?\n\n#empreendedorismo #gestaoempresarial #financas #empresario #prolabore",
+ "legenda_threads": "Dono que tira \"o que sobra\" no fim do mês não tem salário. Tem sorte.\n\nCom R$ 20 mil de custo fixo, R$ 6 mil de pró-labore e margem de 40%, você precisa vender R$ 65 mil, não R$ 50 mil.\n\nMontei o passo a passo do pró-labore no carrossel, com o imposto de cada retirada.\n\nVocê tem pró-labore fixo?",
+ "fontes": [
+  "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm",
+  "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-lanca-perguntas-e-respostas-sobre-tributacao-de-altas-rendas-consideracoes-sobre-lucros-e-dividendos/manual_padrao_rfb_per_tributacao_sutri_v2.pdf",
+  "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos",
+  "https://www.caixa.gov.br/educacao-financeira/empresa/pro-labore/Paginas/default.aspx",
+  "https://bdmgorienta.bdmg.mg.gov.br/pro-labore",
+  "https://www.contabeis.com.br/artigos/79874/pro-labore-socio-de-empresa-paga-inss-entenda-as-regras/"
+ ]
+}
