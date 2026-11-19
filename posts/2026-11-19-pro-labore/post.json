@@ -27,6 +27,14 @@
   {
    "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Funcionário antigo não é o mesmo que <span class=\"acc\">funcionário bom.</span></p>",
    "texto": "Funcionário antigo não é o mesmo que funcionário bom.\n\nTempo de casa vale muito quando vem com entrega. Sem entrega, vira só costume.\n\nTem empresa que segura alguém há 10 anos porque \"sempre esteve aqui\", enquanto o time inteiro vê e aprende que resultado não importa.\n\nLealdade se reconhece. Desempenho se cobra. Os dois juntos.\n\nNa sua empresa, quem é promovido: quem entrega ou quem está há mais tempo?"
+  },
+  {
+   "card": "<div class=\"tag\">Assunto do dia</div><p class=\"big\">Fim da 6x1: <span class=\"acc\">a regra muda em 16/12.</span></p><p>Decreto assinado hoje. <b>42 horas por semana e duas folgas</b>, sem redução de salário.</p><p class=\"src\">Fonte: InfoMoney, Migalhas</p>",
+   "texto": "O decreto que regulamenta o fim da escala 6x1 foi assinado hoje.\n\nA partir de 16 de dezembro: até 42 horas por semana, dois dias de descanso remunerado e sem redução de salário. Em dezembro de 2027, 40 horas.\n\nFaltam menos de 4 semanas.\n\nSe sua empresa trabalha 6x1, a escala de dezembro já tem que ser outra. Senta com o contador, vê se há acordo do sindicato e refaz a escala agora.\n\nVocê já sabe como vai cobrir a segunda folga?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado + comentário</div><div class=\"stat\">R$ 13,3 BI</div><p>é o que o e-commerce deve vender na Black Friday, <b>20,7% a mais</b> que em 2025.</p><p>Mas o tíquete médio vem caindo. <b>Mais pedidos não é o mesmo que mais lucro.</b></p><p class=\"src\">Fonte: Neotrust/Confi, via Exame e E-Commerce Brasil</p>",
+   "texto": "A Black Friday deve movimentar R$ 13,3 bilhões no e-commerce, 20,7% a mais que em 2025, segundo a Neotrust.\n\nSó que o tíquete médio vem caindo: menos 13,4% de janeiro a setembro.\n\nMais pedidos de valor menor significa mais frete, embalagem e atendimento por real vendido.\n\nAntes de comemorar o faturamento, faz a conta do lucro por pedido.\n\nVocê sabe quanto sobra em cada venda da sua Black Friday?"
   }
  ],
  "legenda_linkedin": "Tem dono de empresa que não tem salário.\n\nTira o que sobra no fim do mês. Quando sobra.\n\nIsso não é pró-labore. É sorte. E esconde se a empresa dá lucro ou não.\n\nO caminho em 5 passos:\n\n1. Separe os dois dinheiros. Pró-labore é o salário pelo seu trabalho, fixo. Lucro é o que sobra depois que o mês fecha.\n\n2. Defina o valor pelo mercado. Quanto você pagaria para alguém fazer o seu trabalho? Esse é o ponto de partida.\n\n3. Coloque no custo fixo. Com R$ 20 mil de custo fixo, R$ 6 mil de pró-labore e margem de 40%, o ponto de equilíbrio é R$ 65 mil, não R$ 50 mil.\n\n4. Lucro só com o mês fechado. Primeiro a reserva de caixa, depois a distribuição.\n\n5. Conheça o imposto de cada um. Sobre o pró-labore, o sócio paga 11% de INSS. O lucro distribuído não tem INSS, mas desde janeiro de 2026 a Lei 15.270 retém 10% de IR quando a mesma empresa paga mais de R$ 50 mil por mês ao mesmo sócio (Planalto, Receita Federal). Fora do Simples, ou no Anexo IV, ainda entra o INSS patronal (Caixa, BDMG).\n\nZerar o pró-labore e tirar tudo como lucro pode virar problema com o Fisco. Vale fechar o desenho com o contador.\n\nVocê tem pró-labore fixo ou tira o que sobra?",
@@ -38,6 +46,10 @@
   "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos",
   "https://www.caixa.gov.br/educacao-financeira/empresa/pro-labore/Paginas/default.aspx",
   "https://bdmgorienta.bdmg.mg.gov.br/pro-labore",
-  "https://www.contabeis.com.br/artigos/79874/pro-labore-socio-de-empresa-paga-inss-entenda-as-regras/"
+  "https://www.contabeis.com.br/artigos/79874/pro-labore-socio-de-empresa-paga-inss-entenda-as-regras/",
+  "https://www.infomoney.com.br/brasil/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1/",
+  "https://www.migalhas.com.br/quentes/468961/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1",
+  "https://exame.com/invest/mercados/black-friday-deve-movimentar-r-133-bilhoes-mas-crise-no-varejo-desafia-vendas-2/",
+  "https://www.ecommercebrasil.com.br/noticias/black-friday-2026-ecommerce-r-16-6-bilhoes-abiacom"
  ]
 }
