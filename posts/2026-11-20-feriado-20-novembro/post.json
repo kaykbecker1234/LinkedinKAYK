@@ -17,11 +17,21 @@
   {
    "card": "<p class=\"big\">Meta sem número é <span class=\"acc\">só vontade.</span></p>",
    "texto": "Meta sem número é só vontade.\n\n\"Quero vender mais em dezembro\" não é meta.\n\n\"Quero vender R$ 80 mil em dezembro, R$ 20 mil por semana\" é meta. Dá para acompanhar toda segunda-feira e corrigir antes de o mês acabar.\n\nO time também entende melhor quando enxerga o número.\n\nQual é a meta da sua empresa para dezembro, em reais?"
+  },
+  {
+   "card": "<div class=\"tag\">Dado + comentário</div><p class=\"big\">Indústria no <span class=\"acc\">menor ânimo desde 2020.</span></p><p>A confiança do empresário industrial caiu de <b>46,2 para 40,2 pontos</b> em novembro.</p><p class=\"src\">Fonte: CNI (ICEI), via CNN Brasil e Bahia Notícias</p>",
+   "texto": "A confiança do empresário industrial caiu de 46,2 para 40,2 pontos em novembro, segundo a CNI. É o menor nível desde maio de 2020 e o 23º mês seguido abaixo de 50, a linha que separa otimismo de pessimismo.\n\nQuando o cliente grande fica pessimista, ele segura pedido e estica prazo.\n\nSe você vende para indústria, olha agora quanto do seu faturamento depende de 1 ou 2 clientes.\n\nVocê já sentiu isso nos pedidos?"
+  },
+  {
+   "card": "<div class=\"tag\">Opinião</div><p class=\"big\">Reunião longa não é <span class=\"acc\">decisão tomada.</span></p>",
+   "texto": "Reunião longa não é o mesmo que decisão tomada.\n\nUma hora de conversa, todo mundo opina e ninguém sai sabendo o que fazer.\n\nToda reunião deveria terminar com 3 coisas escritas: o que foi decidido, quem faz e até quando.\n\nSem isso, foi só um bate-papo caro, pago com o salário de todo mundo na sala.\n\nQuantas reuniões da sua semana terminam com decisão?"
   }
  ],
  "fontes": [
   "https://sbtnews.sbt.com.br/noticia/brasil/consciencia-negra-20-de-novembro-e-feriado-veja-quem-folga",
   "https://www.contabeis.com.br/noticias/73915/vai-trabalhar-neste-feriado-de-20-de-novembro-veja-seus-direitos/",
-  "https://istoe.com.br/feriado-20-novembro-2026-sexta-feira-tres-dias-folga"
+  "https://istoe.com.br/feriado-20-novembro-2026-sexta-feira-tres-dias-folga",
+  "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cni-confianca-da-industria-cai-para-menor-nivel-desde-maio-de-2020/",
+  "https://www.bahianoticias.com.br/noticia/323645-confianca-da-industria-recua-6-pontos-e-atinge-menor-nivel-desde-2020-aponta-cni"
  ]
 }
